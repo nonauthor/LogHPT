@@ -1,0 +1,1001 @@
+,LineId,Time,Component,Pid,Content,EventId,EventTemplate
+0,1,20171223-22:15:29:635,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+1,2,20171223-22:15:29:636,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7007##548365##8661##12361##27173954,E58,setTodayTotalDetailSteps=<*>
+2,3,20171223-22:15:29:636,Step_LSC,30002312,onStandStepChanged 3579,E42,onStandStepChanged <*>
+3,4,20171223-22:15:29:648,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+4,5,20171223-22:15:29:649,Step_StandReportReceiver,30002312,REPORT : 7007 5002 150089 240,E47,REPORT : <*> <*> <*> <*>
+5,6,20171223-22:15:29:738,Step_LSC,30002312,onStandStepChanged 3579,E42,onStandStepChanged <*>
+6,7,20171223-22:15:29:792,Step_LSC,30002312,onStandStepChanged 3580,E42,onStandStepChanged <*>
+7,8,20171223-22:15:29:800,Step_LSC,30002312,onExtend:1514038530000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+8,9,20171223-22:15:29:950,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7007##548365##8661##12361##27173954,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+9,10,20171223-22:15:29:950,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7008##548365##8661##12456##27174269,E58,setTodayTotalDetailSteps=<*>
+10,11,20171223-22:15:29:959,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126797,E4,calculateCaloriesWithCache totalCalories=<*>
+11,12,20171223-22:15:29:962,Step_StandReportReceiver,30002312,REPORT : 7008 5003 150111 240,E47,REPORT : <*> <*> <*> <*>
+12,13,20171223-22:15:30:335,Step_LSC,30002312,onExtend:1514038531000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+13,14,20171223-22:15:30:632,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7008##548365##8661##12456##27174269,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+14,15,20171223-22:15:30:639,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126818,E4,calculateCaloriesWithCache totalCalories=<*>
+15,16,20171223-22:15:30:641,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+16,17,20171223-22:15:30:642,Step_StandReportReceiver,30002312,REPORT : 7009 5004 150132 240,E47,REPORT : <*> <*> <*> <*>
+17,18,20171223-22:15:31:142,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7009##548365##8661##12551##27174951,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+18,19,20171223-22:15:31:160,Step_StandReportReceiver,30002312,REPORT : 7011 5005 150175 240,E47,REPORT : <*> <*> <*> <*>
+19,20,20171223-22:15:31:841,Step_LSC,30002312,onStandStepChanged 3584,E42,onStandStepChanged <*>
+20,21,20171223-22:15:32:147,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7012##548365##8661##12741##27176464,E58,setTodayTotalDetailSteps=<*>
+21,22,20171223-22:15:32:156,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126882,E4,calculateCaloriesWithCache totalCalories=<*>
+22,23,20171223-22:15:32:340,Step_LSC,30002312,onStandStepChanged 3585,E42,onStandStepChanged <*>
+23,24,20171223-22:15:32:647,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7012##548365##8661##12741##27176464,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+24,25,20171223-22:15:32:656,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126904,E4,calculateCaloriesWithCache totalCalories=<*>
+25,26,20171223-22:15:32:659,Step_StandReportReceiver,30002312,REPORT : 7013 5007 150218 240,E47,REPORT : <*> <*> <*> <*>
+26,27,20171223-22:15:32:846,Step_LSC,30002312,onExtend:1514038533000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+27,28,20171223-22:15:33:144,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7014##548365##8661##12931##27177463,E58,setTodayTotalDetailSteps=<*>
+28,29,20171223-22:15:33:148,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126925,E4,calculateCaloriesWithCache totalCalories=<*>
+29,30,20171223-22:15:33:149,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+30,31,20171223-22:15:33:370,Step_LSC,30002312,onExtend:1514038534000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+31,32,20171223-22:15:33:643,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7014##548365##8661##12931##27177463,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+32,33,20171223-22:15:33:658,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=126947,E4,calculateCaloriesWithCache totalCalories=<*>
+33,34,20171223-22:15:33:663,Step_StandReportReceiver,30002312,REPORT : 7015 5008 150261 240,E47,REPORT : <*> <*> <*> <*>
+34,35,20171223-22:15:34:711,Step_LSC,30002312,onStandStepChanged 3588,E42,onStandStepChanged <*>
+35,36,20171223-22:15:34:723,Step_LSC,30002312,onExtend:1514038535000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+36,37,20171223-22:15:34:848,Step_LSC,30002312,onStandStepChanged 3589,E42,onStandStepChanged <*>
+37,38,20171223-22:15:34:851,Step_LSC,30002312,onExtend:1514038535000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+38,39,20171223-22:15:35:12,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13121##27179330,E58,setTodayTotalDetailSteps=<*>
+39,40,20171223-22:15:35:22,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+40,41,20171223-22:15:35:97,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+41,42,20171223-22:15:35:98,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7017##548365##8661##13121##27179330,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+42,43,20171223-22:15:35:98,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13216##27179417,E58,setTodayTotalDetailSteps=<*>
+43,44,20171223-22:15:35:112,Step_StandReportReceiver,30002312,REPORT : 7017 5010 150304 240,E47,REPORT : <*> <*> <*> <*>
+44,45,20171223-22:15:35:352,Step_LSC,30002312,onExtend:1514038536000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+45,46,20171223-22:15:35:413,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7018##548365##8661##13311##27179732,E58,setTodayTotalDetailSteps=<*>
+46,47,20171223-22:15:35:421,Step_StandReportReceiver,30002312,REPORT : 7018 5010 150325 240,E47,REPORT : <*> <*> <*> <*>
+47,48,20171223-22:15:36:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7018##548365##8661##13311##27179732,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+48,49,20171223-22:15:36:157,Step_StandReportReceiver,30002312,REPORT : 7019 5011 150346 240,E47,REPORT : <*> <*> <*> <*>
+49,50,20171223-22:15:36:657,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7019##548365##8661##13406##27180468,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+50,51,20171223-22:15:36:672,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+51,52,20171223-22:15:36:673,Step_StandReportReceiver,30002312,REPORT : 7020 5012 150368 240,E47,REPORT : <*> <*> <*> <*>
+52,53,20171223-22:15:37:351,Step_LSC,30002312,onStandStepChanged 3593,E42,onStandStepChanged <*>
+53,54,20171223-22:15:37:653,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7021##548365##8661##13596##27181971,E58,setTodayTotalDetailSteps=<*>
+54,55,20171223-22:15:37:666,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127075,E4,calculateCaloriesWithCache totalCalories=<*>
+55,56,20171223-22:15:37:670,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+56,57,20171223-22:15:37:671,Step_StandReportReceiver,30002312,REPORT : 7021 5012 150389 240,E47,REPORT : <*> <*> <*> <*>
+57,58,20171223-22:15:37:848,Step_LSC,30002312,onStandStepChanged 3594,E42,onStandStepChanged <*>
+58,59,20171223-22:15:37:858,Step_LSC,30002312,onExtend:1514038538000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+59,60,20171223-22:15:38:159,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127097,E4,calculateCaloriesWithCache totalCalories=<*>
+60,61,20171223-22:15:38:164,Step_StandReportReceiver,30002312,REPORT : 7022 5013 150411 240,E47,REPORT : <*> <*> <*> <*>
+61,62,20171223-22:15:38:653,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7022##548365##8661##13691##27182468,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+62,63,20171223-22:15:38:654,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7023##548365##8661##13786##27182973,E58,setTodayTotalDetailSteps=<*>
+63,64,20171223-22:15:38:665,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127118,E4,calculateCaloriesWithCache totalCalories=<*>
+64,65,20171223-22:15:38:868,Step_LSC,30002312,onExtend:1514038539000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+65,66,20171223-22:15:39:151,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7024##548365##8661##13881##27183469,E58,setTodayTotalDetailSteps=<*>
+66,67,20171223-22:15:39:156,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+67,68,20171223-22:15:39:348,Step_LSC,30002312,onStandStepChanged 3597,E42,onStandStepChanged <*>
+68,69,20171223-22:15:39:354,Step_LSC,30002312,onExtend:1514038540000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+69,70,20171223-22:15:39:655,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7024##548365##8661##13881##27183469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+70,71,20171223-22:15:39:669,Step_StandReportReceiver,30002312,REPORT : 7025 5015 150475 240,E47,REPORT : <*> <*> <*> <*>
+71,72,20171223-22:15:40:349,Step_LSC,30002312,onStandStepChanged 3598,E42,onStandStepChanged <*>
+72,73,20171223-22:15:40:675,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+73,74,20171223-22:15:40:848,Step_LSC,30002312,onStandStepChanged 3599,E42,onStandStepChanged <*>
+74,75,20171223-22:15:40:852,Step_LSC,30002312,onExtend:1514038541000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+75,76,20171223-22:15:41:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7026##548365##8661##14071##27184972,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+76,77,20171223-22:15:41:149,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7027##548365##8661##14166##27185467,E58,setTodayTotalDetailSteps=<*>
+77,78,20171223-22:15:41:153,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+78,79,20171223-22:15:41:153,Step_StandReportReceiver,30002312,REPORT : 7027 5017 150518 240,E47,REPORT : <*> <*> <*> <*>
+79,80,20171223-22:15:41:353,Step_LSC,30002312,onStandStepChanged 3600,E42,onStandStepChanged <*>
+80,81,20171223-22:15:41:658,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7027##548365##8661##14166##27185467,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+81,82,20171223-22:15:42:160,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127246,E4,calculateCaloriesWithCache totalCalories=<*>
+82,83,20171223-22:15:42:848,Step_LSC,30002312,onStandStepChanged 3602,E42,onStandStepChanged <*>
+83,84,20171223-22:15:42:852,Step_LSC,30002312,onExtend:1514038543000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+84,85,20171223-22:15:43:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7029##548365##8661##14356##27186469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+85,86,20171223-22:15:43:163,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+86,87,20171223-22:15:43:164,Step_StandReportReceiver,30002312,REPORT : 7030 5019 150582 240,E47,REPORT : <*> <*> <*> <*>
+87,88,20171223-22:15:43:348,Step_LSC,30002312,onStandStepChanged 3603,E42,onStandStepChanged <*>
+88,89,20171223-22:15:43:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7031##548365##8661##14546##27187968,E58,setTodayTotalDetailSteps=<*>
+89,90,20171223-22:15:43:677,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127289,E4,calculateCaloriesWithCache totalCalories=<*>
+90,91,20171223-22:15:43:850,Step_LSC,30002312,onStandStepChanged 3604,E42,onStandStepChanged <*>
+91,92,20171223-22:15:44:163,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127311,E4,calculateCaloriesWithCache totalCalories=<*>
+92,93,20171223-22:15:44:170,Step_StandReportReceiver,30002312,REPORT : 7032 5020 150625 240,E47,REPORT : <*> <*> <*> <*>
+93,94,20171223-22:15:45:158,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127332,E4,calculateCaloriesWithCache totalCalories=<*>
+94,95,20171223-22:15:45:164,Step_StandReportReceiver,30002312,REPORT : 7033 5021 150646 240,E47,REPORT : <*> <*> <*> <*>
+95,96,20171223-22:15:45:348,Step_LSC,30002312,onStandStepChanged 3606,E42,onStandStepChanged <*>
+96,97,20171223-22:15:45:649,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7033##548365##8661##14736##27189469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+97,98,20171223-22:15:45:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7034##548365##8661##14831##27189969,E58,setTodayTotalDetailSteps=<*>
+98,99,20171223-22:15:45:656,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127354,E4,calculateCaloriesWithCache totalCalories=<*>
+99,100,20171223-22:15:45:658,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+100,101,20171223-22:15:45:659,Step_StandReportReceiver,30002312,REPORT : 7034 5022 150668 240,E47,REPORT : <*> <*> <*> <*>
+101,102,20171223-22:15:45:851,Step_LSC,30002312,onExtend:1514038546000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+102,103,20171223-22:15:46:157,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127375,E4,calculateCaloriesWithCache totalCalories=<*>
+103,104,20171223-22:15:46:164,Step_StandReportReceiver,30002312,REPORT : 7035 5022 150689 240,E47,REPORT : <*> <*> <*> <*>
+104,105,20171223-22:15:46:349,Step_LSC,30002312,onStandStepChanged 3608,E42,onStandStepChanged <*>
+105,106,20171223-22:15:46:355,Step_LSC,30002312,onExtend:1514038547000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+106,107,20171223-22:15:46:651,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7036##548365##8661##15021##27190970,E58,setTodayTotalDetailSteps=<*>
+107,108,20171223-22:15:46:674,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127396,E4,calculateCaloriesWithCache totalCalories=<*>
+108,109,20171223-22:15:46:684,Step_StandReportReceiver,30002312,REPORT : 7036 5023 150711 240,E47,REPORT : <*> <*> <*> <*>
+109,110,20171223-22:15:47:349,Step_LSC,30002312,onStandStepChanged 3609,E42,onStandStepChanged <*>
+110,111,20171223-22:15:47:370,Step_LSC,30002312,onExtend:1514038548000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+111,112,20171223-22:15:47:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7037##548365##8661##15116##27191969,E58,setTodayTotalDetailSteps=<*>
+112,113,20171223-22:15:47:857,Step_LSC,30002312,onStandStepChanged 3610,E42,onStandStepChanged <*>
+113,114,20171223-22:15:47:860,Step_LSC,30002312,onExtend:1514038548000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+114,115,20171223-22:15:48:159,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7038##548365##8661##15211##27192478,E58,setTodayTotalDetailSteps=<*>
+115,116,20171223-22:15:48:167,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127439,E4,calculateCaloriesWithCache totalCalories=<*>
+116,117,20171223-22:15:48:174,Step_StandReportReceiver,30002312,REPORT : 7038 5025 150753 240,E47,REPORT : <*> <*> <*> <*>
+117,118,20171223-22:15:48:368,Step_LSC,30002312,onExtend:1514038549000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+118,119,20171223-22:15:48:653,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7039##548365##8661##15306##27192971,E58,setTodayTotalDetailSteps=<*>
+119,120,20171223-22:15:49:366,Step_LSC,30002312,onExtend:1514038550000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+120,121,20171223-22:15:49:652,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7039##548365##8661##15306##27192971,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+121,122,20171223-22:15:49:675,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+122,123,20171223-22:15:49:676,Step_StandReportReceiver,30002312,REPORT : 7040 5026 150796 240,E47,REPORT : <*> <*> <*> <*>
+123,124,20171223-22:15:49:864,Step_LSC,30002312,onExtend:1514038550000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+124,125,20171223-22:15:50:161,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7041##548365##8661##15496##27194480,E58,setTodayTotalDetailSteps=<*>
+125,126,20171223-22:15:50:176,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127504,E4,calculateCaloriesWithCache totalCalories=<*>
+126,127,20171223-22:15:50:181,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+127,128,20171223-22:15:50:182,Step_StandReportReceiver,30002312,REPORT : 7041 5027 150818 240,E47,REPORT : <*> <*> <*> <*>
+128,129,20171223-22:15:50:850,Step_LSC,30002312,onStandStepChanged 3614,E42,onStandStepChanged <*>
+129,130,20171223-22:15:51:151,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7041##548365##8661##15496##27194480,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+130,131,20171223-22:15:51:180,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+131,132,20171223-22:15:51:859,Step_LSC,30002312,onStandStepChanged 3616,E42,onStandStepChanged <*>
+132,133,20171223-22:15:51:868,Step_LSC,30002312,onExtend:1514038552000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+133,134,20171223-22:15:52:175,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127568,E4,calculateCaloriesWithCache totalCalories=<*>
+134,135,20171223-22:15:52:349,Step_LSC,30002312,onStandStepChanged 3617,E42,onStandStepChanged <*>
+135,136,20171223-22:15:52:651,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7044##548365##8661##15686##27196480,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+136,137,20171223-22:15:52:652,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7045##548365##8661##15781##27196970,E58,setTodayTotalDetailSteps=<*>
+137,138,20171223-22:15:52:674,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+138,139,20171223-22:15:52:674,Step_StandReportReceiver,30002312,REPORT : 7045 5030 150903 240,E47,REPORT : <*> <*> <*> <*>
+139,140,20171223-22:15:53:349,Step_LSC,30002312,onStandStepChanged 3619,E42,onStandStepChanged <*>
+140,141,20171223-22:15:53:358,Step_LSC,30002312,onExtend:1514038554000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+141,142,20171223-22:15:53:653,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7047##548365##8661##15876##27197972,E58,setTodayTotalDetailSteps=<*>
+142,143,20171223-22:15:53:665,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127632,E4,calculateCaloriesWithCache totalCalories=<*>
+143,144,20171223-22:15:53:673,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+144,145,20171223-22:15:53:675,Step_StandReportReceiver,30002312,REPORT : 7047 5031 150946 240,E47,REPORT : <*> <*> <*> <*>
+145,146,20171223-22:15:54:359,Step_LSC,30002312,onExtend:1514038555000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+146,147,20171223-22:15:54:651,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7047##548365##8661##15876##27197972,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+147,148,20171223-22:15:54:657,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127653,E4,calculateCaloriesWithCache totalCalories=<*>
+148,149,20171223-22:15:55:359,Step_LSC,30002312,onExtend:1514038556000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+149,150,20171223-22:15:56:150,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038440000##7050##548365##8661##16066##27199969,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+150,151,20171223-22:15:56:169,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+151,152,20171223-22:15:57:851,Step_LSC,30002312,onStandStepChanged 3625,E42,onStandStepChanged <*>
+152,153,20171223-22:15:58:156,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038440000##7053##548365##8661##16256##27202475,E58,setTodayTotalDetailSteps=<*>
+153,154,20171223-22:15:58:170,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127761,E4,calculateCaloriesWithCache totalCalories=<*>
+154,155,20171223-22:15:58:175,Step_StandReportReceiver,30002312,REPORT : 7053 5035 151075 240,E47,REPORT : <*> <*> <*> <*>
+155,156,20171223-22:16:0:150,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038500000##7054##548458##8661##16256##27204469,E58,setTodayTotalDetailSteps=<*>
+156,157,20171223-22:16:0:159,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127782,E4,calculateCaloriesWithCache totalCalories=<*>
+157,158,20171223-22:16:0:162,Step_StandReportReceiver,30002312,REPORT : 7054 5036 151096 240,E47,REPORT : <*> <*> <*> <*>
+158,159,20171223-22:16:0:849,Step_LSC,30002312,onStandStepChanged 3626,E42,onStandStepChanged <*>
+159,160,20171223-22:16:0:859,Step_LSC,30002312,onExtend:1514038561000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+160,161,20171223-22:16:1:150,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038500000##7054##548458##8661##16256##27204469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+161,162,20171223-22:16:1:165,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127782,E4,calculateCaloriesWithCache totalCalories=<*>
+162,163,20171223-22:16:1:172,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+163,164,20171223-22:17:18:850,Step_LSC,30002312,onStandStepChanged 3626,E42,onStandStepChanged <*>
+164,165,20171223-22:17:18:864,Step_LSC,30002312,onExtend:1514038639000 0 0 4,E39,onExtend:<*> <*> <*> <*>
+165,166,20171223-22:17:19:151,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038500000##7054##548551##8661##16256##27205469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+166,167,20171223-22:17:19:152,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7054##548552##8661##16256##27283470,E58,setTodayTotalDetailSteps=<*>
+167,168,20171223-22:17:20:348,Step_LSC,30002312,onStandStepChanged 3628,E42,onStandStepChanged <*>
+168,169,20171223-22:17:20:652,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7054##548552##8661##16256##27283470,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+169,170,20171223-22:17:20:662,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127824,E4,calculateCaloriesWithCache totalCalories=<*>
+170,171,20171223-22:17:20:853,Step_LSC,30002312,onStandStepChanged 3630,E42,onStandStepChanged <*>
+171,172,20171223-22:17:20:859,Step_LSC,30002312,onExtend:1514038641000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+172,173,20171223-22:17:21:156,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7056##548553##8661##16256##27284971,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+173,174,20171223-22:17:21:156,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7058##548554##8661##16256##27285475,E58,setTodayTotalDetailSteps=<*>
+174,175,20171223-22:17:21:162,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127867,E4,calculateCaloriesWithCache totalCalories=<*>
+175,176,20171223-22:17:21:348,Step_LSC,30002312,onStandStepChanged 3632,E42,onStandStepChanged <*>
+176,177,20171223-22:17:21:353,Step_LSC,30002312,onExtend:1514038642000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+177,178,20171223-22:17:21:649,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7060##548555##8661##16256##27285968,E58,setTodayTotalDetailSteps=<*>
+178,179,20171223-22:17:21:659,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127910,E4,calculateCaloriesWithCache totalCalories=<*>
+179,180,20171223-22:17:21:668,Step_StandReportReceiver,30002312,REPORT : 7060 5040 151225 240,E47,REPORT : <*> <*> <*> <*>
+180,181,20171223-22:17:21:850,Step_LSC,30002312,onStandStepChanged 3634,E42,onStandStepChanged <*>
+181,182,20171223-22:17:21:859,Step_LSC,30002312,onExtend:1514038642000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+182,183,20171223-22:17:22:166,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+183,184,20171223-22:17:22:170,Step_StandReportReceiver,30002312,REPORT : 7062 5042 151268 240,E47,REPORT : <*> <*> <*> <*>
+184,185,20171223-22:17:22:348,Step_LSC,30002312,onStandStepChanged 3636,E42,onStandStepChanged <*>
+185,186,20171223-22:17:22:650,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7062##548556##8661##16256##27286470,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+186,187,20171223-22:17:22:661,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=127996,E4,calculateCaloriesWithCache totalCalories=<*>
+187,188,20171223-22:17:22:665,Step_StandReportReceiver,30002312,REPORT : 7064 5043 151310 240,E47,REPORT : <*> <*> <*> <*>
+188,189,20171223-22:17:23:358,Step_LSC,30002312,onExtend:1514038644000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+189,190,20171223-22:17:23:653,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7068##548559##8661##16256##27287972,E58,setTodayTotalDetailSteps=<*>
+190,191,20171223-22:17:23:667,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+191,192,20171223-22:17:23:668,Step_StandReportReceiver,30002312,REPORT : 7068 5046 151396 240,E47,REPORT : <*> <*> <*> <*>
+192,193,20171223-22:17:23:851,Step_LSC,30002312,onStandStepChanged 3642,E42,onStandStepChanged <*>
+193,194,20171223-22:17:24:162,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128124,E4,calculateCaloriesWithCache totalCalories=<*>
+194,195,20171223-22:17:24:348,Step_LSC,30002312,onStandStepChanged 3643,E42,onStandStepChanged <*>
+195,196,20171223-22:17:24:359,Step_LSC,30002312,onExtend:1514038645000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+196,197,20171223-22:17:24:654,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7070##548560##8661##16256##27288471,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+197,198,20171223-22:17:24:668,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+198,199,20171223-22:17:25:151,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7074##548562##8661##16256##27289470,E58,setTodayTotalDetailSteps=<*>
+199,200,20171223-22:17:25:159,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128210,E4,calculateCaloriesWithCache totalCalories=<*>
+200,201,20171223-22:17:27:855,Step_LSC,30002312,onStandStepChanged 3646,E42,onStandStepChanged <*>
+201,202,20171223-22:17:27:859,Step_LSC,30002312,onExtend:1514038648000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+202,203,20171223-22:17:28:156,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7074##548563##8661##16256##27292475,E58,setTodayTotalDetailSteps=<*>
+203,204,20171223-22:17:28:170,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+204,205,20171223-22:17:44:849,Step_LSC,30002312,onStandStepChanged 3647,E42,onStandStepChanged <*>
+205,206,20171223-22:17:44:869,Step_LSC,30002312,onExtend:1514038665000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+206,207,20171223-22:17:45:151,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7075##548564##8661##16256##27309470,E58,setTodayTotalDetailSteps=<*>
+207,208,20171223-22:17:45:366,Step_LSC,30002312,onExtend:1514038666000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+208,209,20171223-22:17:45:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7077##548565##8661##16256##27309969,E58,setTodayTotalDetailSteps=<*>
+209,210,20171223-22:17:45:663,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128274,E4,calculateCaloriesWithCache totalCalories=<*>
+210,211,20171223-22:17:45:668,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+211,212,20171223-22:17:45:851,Step_LSC,30002312,onStandStepChanged 3651,E42,onStandStepChanged <*>
+212,213,20171223-22:17:45:856,Step_LSC,30002312,onExtend:1514038666000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+213,214,20171223-22:17:46:167,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+214,215,20171223-22:17:46:651,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7081##548567##8661##16256##27310970,E58,setTodayTotalDetailSteps=<*>
+215,216,20171223-22:17:46:661,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+216,217,20171223-22:17:46:662,Step_StandReportReceiver,30002312,REPORT : 7081 5055 151675 240,E47,REPORT : <*> <*> <*> <*>
+217,218,20171223-22:17:46:858,Step_LSC,30002312,onExtend:1514038667000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+218,219,20171223-22:17:47:154,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7083##548568##8661##16256##27311472,E58,setTodayTotalDetailSteps=<*>
+219,220,20171223-22:17:47:163,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128403,E4,calculateCaloriesWithCache totalCalories=<*>
+220,221,20171223-22:17:47:165,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+221,222,20171223-22:17:47:166,Step_StandReportReceiver,30002312,REPORT : 7083 5057 151717 240,E47,REPORT : <*> <*> <*> <*>
+222,223,20171223-22:17:47:349,Step_LSC,30002312,onStandStepChanged 3656,E42,onStandStepChanged <*>
+223,224,20171223-22:17:47:651,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7083##548568##8661##16256##27311472,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+224,225,20171223-22:17:47:652,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7084##548569##8661##16256##27311970,E58,setTodayTotalDetailSteps=<*>
+225,226,20171223-22:17:47:659,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128424,E4,calculateCaloriesWithCache totalCalories=<*>
+226,227,20171223-22:17:47:662,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+227,228,20171223-22:17:47:662,Step_StandReportReceiver,30002312,REPORT : 7084 5057 151739 240,E47,REPORT : <*> <*> <*> <*>
+228,229,20171223-22:17:48:149,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7086##548570##8661##16256##27312467,E58,setTodayTotalDetailSteps=<*>
+229,230,20171223-22:17:48:157,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128467,E4,calculateCaloriesWithCache totalCalories=<*>
+230,231,20171223-22:17:48:164,Step_StandReportReceiver,30002312,REPORT : 7086 5059 151782 240,E47,REPORT : <*> <*> <*> <*>
+231,232,20171223-22:17:48:649,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7088##548571##8661##16256##27312967,E58,setTodayTotalDetailSteps=<*>
+232,233,20171223-22:17:48:661,Step_StandReportReceiver,30002312,REPORT : 7088 5060 151824 240,E47,REPORT : <*> <*> <*> <*>
+233,234,20171223-22:17:48:848,Step_LSC,30002312,onStandStepChanged 3662,E42,onStandStepChanged <*>
+234,235,20171223-22:17:48:853,Step_LSC,30002312,onExtend:1514038669000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+235,236,20171223-22:17:49:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7088##548571##8661##16256##27312967,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+236,237,20171223-22:17:49:149,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7090##548572##8661##16256##27313468,E58,setTodayTotalDetailSteps=<*>
+237,238,20171223-22:17:49:166,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+238,239,20171223-22:17:49:655,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7092##548573##8661##16256##27313974,E58,setTodayTotalDetailSteps=<*>
+239,240,20171223-22:17:49:848,Step_LSC,30002312,onStandStepChanged 3666,E42,onStandStepChanged <*>
+240,241,20171223-22:17:49:854,Step_LSC,30002312,onExtend:1514038670000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+241,242,20171223-22:17:50:149,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7094##548574##8661##16256##27314468,E58,setTodayTotalDetailSteps=<*>
+242,243,20171223-22:17:50:348,Step_LSC,30002312,onStandStepChanged 3667,E42,onStandStepChanged <*>
+243,244,20171223-22:17:50:661,Step_StandReportReceiver,30002312,REPORT : 7095 5065 151974 240,E47,REPORT : <*> <*> <*> <*>
+244,245,20171223-22:17:50:856,Step_LSC,30002312,onExtend:1514038671000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+245,246,20171223-22:17:51:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7095##548575##8661##16256##27314968,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+246,247,20171223-22:17:51:150,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7097##548576##8661##16256##27315469,E58,setTodayTotalDetailSteps=<*>
+247,248,20171223-22:17:51:158,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128703,E4,calculateCaloriesWithCache totalCalories=<*>
+248,249,20171223-22:17:51:161,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+249,250,20171223-22:17:51:370,Step_LSC,30002312,onExtend:1514038672000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+250,251,20171223-22:17:51:664,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7097##548576##8661##16256##27315469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+251,252,20171223-22:17:52:152,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7101##548578##8661##16256##27316470,E58,setTodayTotalDetailSteps=<*>
+252,253,20171223-22:17:52:162,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128788,E4,calculateCaloriesWithCache totalCalories=<*>
+253,254,20171223-22:17:52:169,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+254,255,20171223-22:17:52:848,Step_LSC,30002312,onStandStepChanged 3674,E42,onStandStepChanged <*>
+255,256,20171223-22:17:53:149,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7101##548578##8661##16256##27316470,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+256,257,20171223-22:17:53:149,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7102##548579##8661##16256##27317468,E58,setTodayTotalDetailSteps=<*>
+257,258,20171223-22:17:53:169,Step_StandReportReceiver,30002312,REPORT : 7102 5070 152124 240,E47,REPORT : <*> <*> <*> <*>
+258,259,20171223-22:17:53:859,Step_LSC,30002312,onExtend:1514038674000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+259,260,20171223-22:17:54:176,Step_StandReportReceiver,30002312,REPORT : 7103 5071 152146 240,E47,REPORT : <*> <*> <*> <*>
+260,261,20171223-22:17:54:864,Step_LSC,30002312,onExtend:1514038675000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+261,262,20171223-22:17:55:153,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7103##548580##8661##16256##27318472,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+262,263,20171223-22:17:55:162,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128853,E4,calculateCaloriesWithCache totalCalories=<*>
+263,264,20171223-22:17:55:166,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+264,265,20171223-22:17:55:348,Step_LSC,30002312,onStandStepChanged 3677,E42,onStandStepChanged <*>
+265,266,20171223-22:17:55:381,Step_LSC,30002312,onExtend:1514038676000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+266,267,20171223-22:17:55:660,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+267,268,20171223-22:17:56:349,Step_LSC,30002312,onStandStepChanged 3678,E42,onStandStepChanged <*>
+268,269,20171223-22:17:56:650,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7105##548582##8661##16256##27319968,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+269,270,20171223-22:17:57:349,Step_LSC,30002312,onStandStepChanged 3679,E42,onStandStepChanged <*>
+270,271,20171223-22:17:57:650,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7106##548583##8661##16256##27320969,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+271,272,20171223-22:17:57:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7107##548584##8661##16256##27321969,E58,setTodayTotalDetailSteps=<*>
+272,273,20171223-22:17:57:659,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=128917,E4,calculateCaloriesWithCache totalCalories=<*>
+273,274,20171223-22:17:57:662,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+274,275,20171223-22:17:57:662,Step_StandReportReceiver,30002312,REPORT : 7107 5074 152231 240,E47,REPORT : <*> <*> <*> <*>
+275,276,20171223-22:17:57:849,Step_LSC,30002312,onStandStepChanged 3681,E42,onStandStepChanged <*>
+276,277,20171223-22:17:57:862,Step_LSC,30002312,onExtend:1514038678000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+277,278,20171223-22:17:58:150,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038560000##7107##548584##8661##16256##27321969,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+278,279,20171223-22:17:58:151,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038560000##7109##548585##8661##16256##27322469,E58,setTodayTotalDetailSteps=<*>
+279,280,20171223-22:17:59:858,Step_LSC,30002312,onStandStepChanged 3683,E42,onStandStepChanged <*>
+280,281,20171223-22:18:0:134,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+281,282,20171223-22:18:0:168,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129002,E4,calculateCaloriesWithCache totalCalories=<*>
+282,283,20171223-22:18:1:349,Step_LSC,30002312,onStandStepChanged 3684,E42,onStandStepChanged <*>
+283,284,20171223-22:18:1:361,Step_LSC,30002312,onExtend:1514038682000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+284,285,20171223-22:18:1:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038620000##7112##548695##8661##16256##27325968,E58,setTodayTotalDetailSteps=<*>
+285,286,20171223-22:18:1:663,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+286,287,20171223-22:18:1:664,Step_StandReportReceiver,30002312,REPORT : 7112 5077 152339 240,E47,REPORT : <*> <*> <*> <*>
+287,288,20171223-22:18:2:363,Step_LSC,30002312,onExtend:1514038683000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+288,289,20171223-22:18:2:649,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038620000##7112##548695##8661##16256##27325968,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+289,290,20171223-22:18:2:659,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129045,E4,calculateCaloriesWithCache totalCalories=<*>
+290,291,20171223-22:18:5:358,Step_LSC,30002312,onExtend:1514038686000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+291,292,20171223-22:18:5:653,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038620000##7114##548805##8661##16256##27329972,E58,setTodayTotalDetailSteps=<*>
+292,293,20171223-22:18:5:673,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129067,E4,calculateCaloriesWithCache totalCalories=<*>
+293,294,20171223-22:18:5:684,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+294,295,20171223-22:18:5:684,Step_StandReportReceiver,30002312,REPORT : 7114 5079 152381 240,E47,REPORT : <*> <*> <*> <*>
+295,296,20171223-22:18:5:849,Step_LSC,30002312,onStandStepChanged 3686,E42,onStandStepChanged <*>
+296,297,20171223-22:18:6:151,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038620000##7114##548860##8661##16256##27330470,E58,setTodayTotalDetailSteps=<*>
+297,298,20171223-22:19:7:854,Step_LSC,30002312,onStandStepChanged 3689,E42,onStandStepChanged <*>
+298,299,20171223-22:19:8:155,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038620000##7114##548860##8661##16256##27330470,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+299,300,20171223-22:19:8:156,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7117##548865##8661##16256##27392475,E58,setTodayTotalDetailSteps=<*>
+300,301,20171223-22:19:8:163,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129131,E4,calculateCaloriesWithCache totalCalories=<*>
+301,302,20171223-22:19:8:167,Step_StandReportReceiver,30002312,REPORT : 7117 5081 152446 240,E47,REPORT : <*> <*> <*> <*>
+302,303,20171223-22:19:8:357,Step_LSC,30002312,onStandStepChanged 3694,E42,onStandStepChanged <*>
+303,304,20171223-22:19:9:163,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+304,305,20171223-22:19:9:348,Step_LSC,30002312,onStandStepChanged 3698,E42,onStandStepChanged <*>
+305,306,20171223-22:19:9:359,Step_LSC,30002312,onExtend:1514038750000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+306,307,20171223-22:19:9:652,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7124##548875##8661##16256##27393470,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+307,308,20171223-22:19:9:849,Step_LSC,30002312,onStandStepChanged 3700,E42,onStandStepChanged <*>
+308,309,20171223-22:19:10:150,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7128##548885##8661##16256##27394469,E58,setTodayTotalDetailSteps=<*>
+309,310,20171223-22:19:10:160,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129366,E4,calculateCaloriesWithCache totalCalories=<*>
+310,311,20171223-22:19:10:165,Step_StandReportReceiver,30002312,REPORT : 7128 5089 152681 240,E47,REPORT : <*> <*> <*> <*>
+311,312,20171223-22:19:10:348,Step_LSC,30002312,onStandStepChanged 3702,E42,onStandStepChanged <*>
+312,313,20171223-22:19:10:362,Step_LSC,30002312,onExtend:1514038751000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+313,314,20171223-22:19:10:650,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7128##548885##8661##16256##27394469,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+314,315,20171223-22:19:10:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7130##548890##8661##16256##27394969,E58,setTodayTotalDetailSteps=<*>
+315,316,20171223-22:19:10:661,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+316,317,20171223-22:19:10:858,Step_LSC,30002312,onExtend:1514038751000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+317,318,20171223-22:19:11:160,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129452,E4,calculateCaloriesWithCache totalCalories=<*>
+318,319,20171223-22:19:11:164,Step_StandReportReceiver,30002312,REPORT : 7132 5092 152767 240,E47,REPORT : <*> <*> <*> <*>
+319,320,20171223-22:19:11:651,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7135##548900##8661##16256##27395969,E58,setTodayTotalDetailSteps=<*>
+320,321,20171223-22:19:11:658,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129516,E4,calculateCaloriesWithCache totalCalories=<*>
+321,322,20171223-22:19:11:661,Step_StandReportReceiver,30002312,REPORT : 7135 5094 152831 240,E47,REPORT : <*> <*> <*> <*>
+322,323,20171223-22:19:11:848,Step_LSC,30002312,onStandStepChanged 3711,E42,onStandStepChanged <*>
+323,324,20171223-22:19:11:857,Step_LSC,30002312,onExtend:1514038752000 4 0 4,E39,onExtend:<*> <*> <*> <*>
+324,325,20171223-22:19:12:153,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7135##548900##8661##16256##27395969,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+325,326,20171223-22:19:12:154,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7139##548905##8661##16256##27396473,E58,setTodayTotalDetailSteps=<*>
+326,327,20171223-22:19:12:162,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129602,E4,calculateCaloriesWithCache totalCalories=<*>
+327,328,20171223-22:19:12:349,Step_LSC,30002312,onStandStepChanged 3712,E42,onStandStepChanged <*>
+328,329,20171223-22:19:12:650,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7139##548905##8661##16256##27396473,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+329,330,20171223-22:19:12:650,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969,E58,setTodayTotalDetailSteps=<*>
+330,331,20171223-22:19:12:658,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129623,E4,calculateCaloriesWithCache totalCalories=<*>
+331,332,20171223-22:19:14:363,Step_LSC,30002312,onExtend:1514038755000 14 0 4,E39,onExtend:<*> <*> <*> <*>
+332,333,20171223-22:19:14:655,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7140##548910##8661##16256##27396969,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+333,334,20171223-22:19:14:656,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7154##548915##8661##16256##27398975,E58,setTodayTotalDetailSteps=<*>
+334,335,20171223-22:19:14:677,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=129923,E4,calculateCaloriesWithCache totalCalories=<*>
+335,336,20171223-22:19:14:688,Step_StandReportReceiver,30002312,REPORT : 7154 5107 153238 240,E47,REPORT : <*> <*> <*> <*>
+336,337,20171223-22:19:15:858,Step_LSC,30002312,onExtend:1514038756000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+337,338,20171223-22:19:16:156,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7154##548915##8661##16256##27398975,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+338,339,20171223-22:19:16:157,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7154##548920##8661##16256##27400475,E58,setTodayTotalDetailSteps=<*>
+339,340,20171223-22:19:43:719,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+340,341,20171223-22:19:57:751,Step_LSC,30002312,onStandStepChanged 3732,E42,onStandStepChanged <*>
+341,342,20171223-22:19:57:758,Step_LSC,30002312,onStandStepChanged 3732,E42,onStandStepChanged <*>
+342,343,20171223-22:19:57:763,Step_LSC,30002312,onExtend:1514038798000 0 0 4,E39,onExtend:<*> <*> <*> <*>
+343,344,20171223-22:19:58:97,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7160##548930##8661##16256##27442416,E58,setTodayTotalDetailSteps=<*>
+344,345,20171223-22:19:58:112,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+345,346,20171223-22:19:58:363,Step_LSC,30002312,onStandStepChanged 3735,E42,onStandStepChanged <*>
+346,347,20171223-22:19:58:363,Step_LSC,30002312,flushTempCacheToDB by stand,E14,flushTempCacheToDB by stand
+347,348,20171223-22:19:58:366,Step_LSC,30002312,Alarm uploadStaticsToDB totalSteps=7163 Calories:153367 Floor:240 Distance:5112,E1,Alarm uploadStaticsToDB totalSteps=<*> Calories:<*> Floor:<*> Distance:<*>
+348,349,20171223-22:19:58:366,Step_FlushableStepDataCache,30002312,"upLoadOneMinuteDataToEngine time=25233976,0,1,0,20002",E72,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+349,350,20171223-22:19:58:366,Step_FlushableStepDataCache,30002312,"upLoadOneMinuteDataToEngine time=25233977,0,55,0,20002",E72,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+350,351,20171223-22:19:58:367,Step_FlushableStepDataCache,30002312,"upLoadOneMinuteDataToEngine time=25233979,0,46,0,20002",E72,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+351,352,20171223-22:19:58:369,HiH_HiAppUtil,30002312,getBinderPackageName packageName = com.huawei.health,E16,getBinderPackageName packageName = com.huawei.health
+352,353,20171223-22:19:58:371,HiH_HiHealthBinder,30002312,"getAppContext() isAppValid health or wear, packageName = com.huawei.health",E15,"getAppContext() isAppValid health or wear, packageName = <*>"
+353,354,20171223-22:19:58:374,HiH_HiAppUtil,30002312,getBinderPackageName packageName = com.huawei.health,E16,getBinderPackageName packageName = com.huawei.health
+354,355,20171223-22:19:58:375,HiH_HiAppUtil,30002312,getBinderPackageName packageName = com.huawei.health,E16,getBinderPackageName packageName = com.huawei.health
+355,356,20171223-22:19:58:376,HiH_HiHealthBinder,30002312,"insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0",E34,"insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>"
+356,357,20171223-22:19:58:378,HiH_HiHealthDataInsertStore,30002312,"saveStatData() type =40002,time = 1513958400000,statClient = 2,who is 1",E52,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+357,358,20171223-22:19:58:380,HiH_DataStatManager,30002312,"new date =20171223, type=40003,153367.0,old=210654.54000000004",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+358,359,20171223-22:19:58:380,HiH_HiHealthDataInsertStore,30002312,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003",E50,"saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>"
+359,360,20171223-22:19:58:381,HiH_HiHealthDataInsertStore,30002312,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005",E50,"saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>"
+360,361,20171223-22:19:58:381,HiH_HiHealthDataInsertStore,30002312,"saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1",E52,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+361,362,20171223-22:19:58:382,HiH_DataStatManager,30002312,"new date =20171223, type=40004,5112.0,old=4985.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+362,363,20171223-22:19:58:411,HiH_HiHealthBinder,30002312,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT",E31,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = ERR_DATA_INSERT"
+363,364,20171223-22:19:58:411,HiH_HiHealthBinder,30002312,insertHiHealthData() end totalTime = 45,E33,insertHiHealthData() end totalTime = <*>
+364,365,20171223-22:19:58:411,Step_LSC,30002312,uploadStaticsToDB() onResult  type = 4 obj=true,E74,uploadStaticsToDB() onResult type = <*> obj=<*>
+365,366,20171223-22:19:58:411,Step_LSC,30002312,uploadStaticsToDB failed message=true,E73,uploadStaticsToDB failed message=<*>
+366,367,20171223-22:19:58:413,HiH_HiSyncControl,30002312,checkInsertStatus stepSum or calorieSum is enough,E8,checkInsertStatus stepSum or calorieSum is enough
+367,368,20171223-22:19:58:413,HiH_HiAppUtil,30002312,getBinderPackageName packageName = com.huawei.health,E16,getBinderPackageName packageName = com.huawei.health
+368,369,20171223-22:19:58:415,HiH_HiSyncControl,30002312,checkInsertStatus stepStatSum or calorieStatSum is enough,E7,checkInsertStatus stepStatSum or calorieStatSum is enough
+369,370,20171223-22:19:58:416,HiH_HiSyncControl,30002312,"startInsertSportSync start auto sync,app is 1",E62,"startInsertSportSync start auto sync,app is <*>"
+370,371,20171223-22:19:58:417,HiH_HiSyncUtil,30002312,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",E6,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+371,372,20171223-22:19:58:419,HiH_HiAppUtil,30002312,getBinderPackageName packageName = com.huawei.health,E16,getBinderPackageName packageName = com.huawei.health
+372,373,20171223-22:19:58:419,HiH_HiHealthBinder,30002312,"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0",E34,"insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>"
+373,374,20171223-22:19:58:423,HiH_HiSyncControl,30002312,needAutoSync autoSyncSwitch is open,E36,needAutoSync autoSyncSwitch is open
+374,375,20171223-22:19:58:423,HiH_HiHealthDataInsertStore,30002312,"saveHealthDetailData() deviceID = 2,clientID=1,id=1",E49,"saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>"
+375,376,20171223-22:19:58:424,HiH_HiSyncControl,30002312,"initDataPrivacy the dataPrivacy switch is open, start push health data!",E25,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+376,377,20171223-22:19:58:424,HiH_,30002312,initDataPrivacy the dataPrivacy is true,E24,initDataPrivacy the dataPrivacy is <*>
+377,378,20171223-22:19:58:428,HiH_HiSyncControl,30002312,"initUserPrivacy the userPrivacy switch is open, start push user data!",E28,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+378,379,20171223-22:19:58:428,HiH_HiSyncControl,30002312,ifCanSync not! no cloud version,E23,ifCanSync not! no cloud version
+379,380,20171223-22:19:58:453,HiH_HiHealthDataInsertStore,30002312,"bulkSaveDetailHiHealthData() size = 20,totalTime = 34",E2,"bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>"
+380,381,20171223-22:19:58:466,HiH_DataStatManager,30002312,"new date =20171223, type=40002,6724.0,old=7163.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+381,382,20171223-22:19:58:468,HiH_DataStatManager,30002312,"new date =20171223, type=40004,4800.935999999999,old=5112.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+382,383,20171223-22:19:58:471,HiH_DataStatManager,30002312,"new date =20171223, type=40005,330.0,old=330.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+383,384,20171223-22:19:58:481,HiH_DataStatManager,30002312,"new date =20171223, type=40031,4508.196000000001,old=4381.818",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+384,385,20171223-22:19:58:495,HiH_DataStatManager,30002312,"new date =20171223, type=40034,292.73999999999995,old=292.73999999999995",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+385,386,20171223-22:19:58:495,HiH_DataStatManager,30002312,"new date =20171223, type=40024,79200.0,old=79200.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+386,387,20171223-22:19:58:499,HiH_DataStatManager,30002312,"new date =20171223, type=40041,6720.0,old=6480.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+387,388,20171223-22:19:58:501,HiH_DataStatManager,30002312,"new date =20171223, type=40044,420.0,old=420.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+388,389,20171223-22:19:58:501,HiH_DataStatManager,30002312,"new date =20171223, type=40006,7140.0,old=6900.0",E37,"new date =<*>, type=<*>,<*>,old=<*>"
+389,390,20171223-22:19:58:502,HiH_HiHealthDataInsertStore,30002312,"saveRealTimeHealthDatasStat() size = 1,totalTime = 48",E51,"saveRealTimeHealthDatasStat() size = <*>,totalTime = <*>"
+390,391,20171223-22:19:58:505,HiH_ListenerManager,30002312,startListenerChange subscribeList = [1],E63,startListenerChange subscribeList = [<*>]
+391,392,20171223-22:19:58:505,HiH_HiHealthBinder,30002312,insertHiHealthData() end totalTime = 94,E33,insertHiHealthData() end totalTime = <*>
+392,393,20171223-22:19:58:505,Step_FlushableStepDataCache,30002312,InsertCallBack() onSuccess  type = 0 data=true,E29,InsertCallBack() onSuccess type = <*> data=<*>
+393,394,20171223-22:19:58:505,Step_FlushableStepDataCache,30002312,InsertEvent success begin:25233975 end:25233979,E30,InsertEvent success begin:<*> end:<*>
+394,395,20171223-22:19:58:512,HiH_HiSyncControl,30002312,checkInsertStatus stepSum or calorieSum is enough,E8,checkInsertStatus stepSum or calorieSum is enough
+395,396,20171223-22:19:58:513,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130116,E4,calculateCaloriesWithCache totalCalories=<*>
+396,397,20171223-22:19:58:514,HiH_HiSyncControl,30002312,checkInsertStatus stepStatSum or calorieStatSum is enough,E7,checkInsertStatus stepStatSum or calorieStatSum is enough
+397,398,20171223-22:19:58:514,HiH_HiSyncControl,30002312,"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",E67,"stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>"
+398,399,20171223-22:19:58:516,HiH_HiSyncControl,30002312,"startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",E64,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+399,400,20171223-22:19:58:517,HiH_HiSyncControl,30002312,needAutoSync autoSyncSwitch is open,E36,needAutoSync autoSyncSwitch is open
+400,401,20171223-22:19:58:517,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+401,402,20171223-22:19:58:518,HiH_HiSyncControl,30002312,"initDataPrivacy the dataPrivacy switch is open, start push health data!",E25,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+402,403,20171223-22:19:58:518,HiH_HiSyncControl,30002312,"initUserPrivacy the userPrivacy switch is open, start push user data!",E28,"initUserPrivacy the userPrivacy switch is open, start push user data!"
+403,404,20171223-22:19:58:518,HiH_HiSyncControl,30002312,ifCanSync not! no cloud version,E23,ifCanSync not! no cloud version
+404,405,20171223-22:19:58:519,Step_StandReportReceiver,30002312,REPORT : 7163 5114 153431 240,E47,REPORT : <*> <*> <*> <*>
+405,406,20171223-22:19:58:863,Step_LSC,30002312,onStandStepChanged 3737,E42,onStandStepChanged <*>
+406,407,20171223-22:19:59:166,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038680000##7165##548940##8661##16256##27443484,E58,setTodayTotalDetailSteps=<*>
+407,408,20171223-22:19:59:175,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130159,E4,calculateCaloriesWithCache totalCalories=<*>
+408,409,20171223-22:19:59:667,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7165##548940##8661##16256##27443484,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+409,410,20171223-22:19:59:677,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130201,E4,calculateCaloriesWithCache totalCalories=<*>
+410,411,20171223-22:19:59:681,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+411,412,20171223-22:19:59:862,Step_LSC,30002312,onStandStepChanged 3742,E42,onStandStepChanged <*>
+412,413,20171223-22:20:0:165,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038680000##7167##548945##8661##16256##27443986,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+413,414,20171223-22:20:0:165,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038740000##7170##548996##8661##16256##27444484,E58,setTodayTotalDetailSteps=<*>
+414,415,20171223-22:20:0:363,Step_LSC,30002312,onStandStepChanged 3745,E42,onStandStepChanged <*>
+415,416,20171223-22:20:0:374,Step_LSC,30002312,onExtend:1514038801000 3 0 4,E39,onExtend:<*> <*> <*> <*>
+416,417,20171223-22:20:0:666,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7170##548996##8661##16256##27444484,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+417,418,20171223-22:20:0:679,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130330,E4,calculateCaloriesWithCache totalCalories=<*>
+418,419,20171223-22:20:0:688,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+419,420,20171223-22:20:0:863,Step_LSC,30002312,onStandStepChanged 3746,E42,onStandStepChanged <*>
+420,421,20171223-22:20:0:872,Step_LSC,30002312,onExtend:1514038801000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+421,422,20171223-22:20:1:166,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038740000##7174##549098##8661##16256##27445485,E58,setTodayTotalDetailSteps=<*>
+422,423,20171223-22:20:1:186,Step_StandReportReceiver,30002312,REPORT : 7174 5122 153667 240,E47,REPORT : <*> <*> <*> <*>
+423,424,20171223-22:20:1:664,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7174##549098##8661##16256##27445485,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+424,425,20171223-22:20:1:692,Step_StandReportReceiver,30002312,REPORT : 7176 5123 153709 240,E47,REPORT : <*> <*> <*> <*>
+425,426,20171223-22:20:1:873,Step_LSC,30002312,onExtend:1514038802000 3 0 4,E39,onExtend:<*> <*> <*> <*>
+426,427,20171223-22:20:2:174,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130458,E4,calculateCaloriesWithCache totalCalories=<*>
+427,428,20171223-22:20:2:178,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+428,429,20171223-22:20:2:179,Step_StandReportReceiver,30002312,REPORT : 7179 5125 153774 240,E47,REPORT : <*> <*> <*> <*>
+429,430,20171223-22:20:2:365,Step_LSC,30002312,onStandStepChanged 3753,E42,onStandStepChanged <*>
+430,431,20171223-22:20:2:375,Step_LSC,30002312,onExtend:1514038803000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+431,432,20171223-22:20:2:670,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7179##549200##8661##16256##27446483,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+432,433,20171223-22:20:2:693,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+433,434,20171223-22:20:2:863,Step_LSC,30002312,onStandStepChanged 3755,E42,onStandStepChanged <*>
+434,435,20171223-22:20:3:175,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130544,E4,calculateCaloriesWithCache totalCalories=<*>
+435,436,20171223-22:20:3:179,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+436,437,20171223-22:20:3:873,Step_LSC,30002312,onExtend:1514038804000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+437,438,20171223-22:20:4:166,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7183##549302##8661##16256##27447483,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+438,439,20171223-22:20:4:187,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130587,E4,calculateCaloriesWithCache totalCalories=<*>
+439,440,20171223-22:20:4:193,Step_StandReportReceiver,30002312,REPORT : 7185 5130 153902 240,E47,REPORT : <*> <*> <*> <*>
+440,441,20171223-22:20:4:362,Step_LSC,30002312,onStandStepChanged 3758,E42,onStandStepChanged <*>
+441,442,20171223-22:20:4:373,Step_LSC,30002312,onExtend:1514038805000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+442,443,20171223-22:20:4:673,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130608,E4,calculateCaloriesWithCache totalCalories=<*>
+443,444,20171223-22:20:4:676,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+444,445,20171223-22:20:5:362,Step_LSC,30002312,onStandStepChanged 3759,E42,onStandStepChanged <*>
+445,446,20171223-22:20:5:672,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130630,E4,calculateCaloriesWithCache totalCalories=<*>
+446,447,20171223-22:20:7:378,Step_LSC,30002312,onExtend:1514038808000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+447,448,20171223-22:20:7:681,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130651,E4,calculateCaloriesWithCache totalCalories=<*>
+448,449,20171223-22:20:7:690,Step_StandReportReceiver,30002312,REPORT : 7188 5132 153966 240,E47,REPORT : <*> <*> <*> <*>
+449,450,20171223-22:20:7:875,Step_LSC,30002312,onExtend:1514038808000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+450,451,20171223-22:20:8:172,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7188##549506##8661##16256##27451985,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+451,452,20171223-22:20:8:180,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+452,453,20171223-22:20:8:182,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+453,454,20171223-22:20:8:185,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+454,455,20171223-22:20:12:863,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+455,456,20171223-22:20:12:874,Step_LSC,30002312,onExtend:1514038813000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+456,457,20171223-22:20:13:180,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+457,458,20171223-22:20:16:175,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038740000##7189##549608##8661##16256##27457484,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+458,459,20171223-22:20:16:175,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038740000##7189##549659##8661##16256##27460494,E58,setTodayTotalDetailSteps=<*>
+459,460,20171223-22:20:16:186,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+460,461,20171223-22:20:18:586,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+461,462,20171223-22:22:37:638,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+462,463,20171223-22:23:41:831,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+463,464,20171223-22:24:22:157,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+464,465,20171223-22:24:22:165,Step_LSC,30002312,onExtend:1514038999000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+465,466,20171223-22:24:22:204,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+466,467,20171223-22:24:22:206,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+467,468,20171223-22:24:22:207,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706526,E58,setTodayTotalDetailSteps=<*>
+468,469,20171223-22:24:22:208,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+469,470,20171223-22:24:22:215,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+470,471,20171223-22:24:22:215,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+471,472,20171223-22:24:22:309,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+472,473,20171223-22:24:22:516,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27706526,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+473,474,20171223-22:24:22:516,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706835,E58,setTodayTotalDetailSteps=<*>
+474,475,20171223-22:24:22:526,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+475,476,20171223-22:24:51:892,Step_LSC,30002312,onExtend:1514039091000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+476,477,20171223-22:24:52:184,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27706835,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+477,478,20171223-22:24:52:185,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27736503,E58,setTodayTotalDetailSteps=<*>
+478,479,20171223-22:24:52:210,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+479,480,20171223-22:24:54:185,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27736503,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+480,481,20171223-22:24:54:186,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27738504,E58,setTodayTotalDetailSteps=<*>
+481,482,20171223-22:24:54:201,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+482,483,20171223-22:24:59:206,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+483,484,20171223-22:25:0:162,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+484,485,20171223-22:25:13:8,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+485,486,20171223-22:28:38:344,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+486,487,20171223-22:29:8:492,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+487,488,20171223-22:30:23:993,Step_LSC,30002312,onExtend:1514039292000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+488,489,20171223-22:30:24:25,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+489,490,20171223-22:30:24:27,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+490,491,20171223-22:30:24:28,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039340000##7189##549659##8661##16256##28068346,E58,setTodayTotalDetailSteps=<*>
+491,492,20171223-22:30:24:28,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+492,493,20171223-22:30:24:45,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+493,494,20171223-22:30:24:129,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+494,495,20171223-22:30:24:132,Step_LSC,30002312,onExtend:1514039424000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+495,496,20171223-22:30:24:347,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068346,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+496,497,20171223-22:30:24:348,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039340000##7189##549659##8661##16256##28068666,E58,setTodayTotalDetailSteps=<*>
+497,498,20171223-22:30:24:355,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+498,499,20171223-22:31:31:940,Step_LSC,30002312,onExtend:1514039492000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+499,500,20171223-22:31:32:225,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068666,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+500,501,20171223-22:31:32:241,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+501,502,20171223-22:31:32:246,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+502,503,20171223-22:31:54:515,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+503,504,20171223-22:31:59:619,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+504,505,20171223-22:31:59:620,Step_LSC,30002312,onExtend:1514039575000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+505,506,20171223-22:31:59:621,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28163940,E58,setTodayTotalDetailSteps=<*>
+506,507,20171223-22:31:59:621,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+507,508,20171223-22:31:59:725,Step_LSC,30002312,"timeStamp back,extendReportTimeStamp=1514039575000",E69,"timeStamp back,extendReportTimeStamp=<*>"
+508,509,20171223-22:31:59:957,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28164276,E58,setTodayTotalDetailSteps=<*>
+509,510,20171223-22:32:28:791,HiH_HiSyncControl,30002312,startTimer start autoSync,E65,startTimer start autoSync
+510,511,20171223-22:32:28:796,HiH_HiSyncControl,30002312,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",E64,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+511,512,20171223-22:32:28:798,HiH_HiSyncControl,30002312,needAutoSync autoSyncSwitch is open,E36,needAutoSync autoSyncSwitch is open
+512,513,20171223-22:32:28:800,HiH_HiSyncControl,30002312,"initDataPrivacy the dataPrivacy switch is open, start push health data!",E25,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+513,514,20171223-22:32:28:801,HiH_HiSyncControl,30002312,ifCanSync not! no cloud version,E23,ifCanSync not! no cloud version
+514,515,20171223-22:33:10:228,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28164276,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+515,516,20171223-22:33:10:244,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+516,517,20171223-22:33:46:279,Step_LSC,30002312,onExtend:1514039626000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+517,518,20171223-22:33:46:301,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+518,519,20171223-22:33:46:303,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+519,520,20171223-22:33:46:303,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+520,521,20171223-22:33:46:304,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28234547,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+521,522,20171223-22:33:46:304,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270623,E58,setTodayTotalDetailSteps=<*>
+522,523,20171223-22:33:46:311,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+523,524,20171223-22:33:46:622,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+524,525,20171223-22:33:46:624,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+525,526,20171223-22:35:0:49,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+526,527,20171223-22:37:0:122,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+527,528,20171223-22:37:14:951,Step_LSC,30002312,onExtend:1514039834000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+528,529,20171223-22:37:15:240,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039760000##7189##549659##8661##16256##28479559,E58,setTodayTotalDetailSteps=<*>
+529,530,20171223-22:37:15:249,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+530,531,20171223-22:37:15:253,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+531,532,20171223-22:38:31:368,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+532,533,20171223-22:39:25:260,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+533,534,20171223-22:39:25:265,Step_LSC,30002312,onExtend:1514039917000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+534,535,20171223-22:39:25:301,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+535,536,20171223-22:39:25:301,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+536,537,20171223-22:39:25:301,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039760000##7189##549659##8661##16256##28479559,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+537,538,20171223-22:39:25:302,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609620,E58,setTodayTotalDetailSteps=<*>
+538,539,20171223-22:39:25:306,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+539,540,20171223-22:39:25:314,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+540,541,20171223-22:39:25:406,Step_LSC,30002312,onExtend:1514039965000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+541,542,20171223-22:39:25:614,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609933,E58,setTodayTotalDetailSteps=<*>
+542,543,20171223-22:39:25:625,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+543,544,20171223-22:40:0:151,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+544,545,20171223-22:42:0:137,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+545,546,20171223-22:45:48:956,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+546,547,20171223-22:45:49:258,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514039880000##7189##549659##8661##16256##28609933,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+547,548,20171223-22:45:49:273,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+548,549,20171223-22:45:55:257,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040240000##7189##549659##8661##16256##28999575,E58,setTodayTotalDetailSteps=<*>
+549,550,20171223-22:45:55:272,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+550,551,20171223-22:47:0:157,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+551,552,20171223-22:50:0:142,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+552,553,20171223-22:51:0:128,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+553,554,20171223-22:51:2:965,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+554,555,20171223-22:51:3:266,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040240000##7189##549659##8661##16256##28999575,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+555,556,20171223-22:51:3:266,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29307585,E58,setTodayTotalDetailSteps=<*>
+556,557,20171223-22:51:3:275,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+557,558,20171223-22:51:3:278,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+558,559,20171223-22:51:37:252,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+559,560,20171223-22:51:37:260,Step_LSC,30002312,onExtend:1514040697000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+560,561,20171223-22:51:37:292,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+561,562,20171223-22:51:37:292,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29307585,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+562,563,20171223-22:51:37:295,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+563,564,20171223-22:51:37:302,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+564,565,20171223-22:51:37:307,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+565,566,20171223-22:51:37:394,Step_LSC,30002312,onExtend:1514040697000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+566,567,20171223-22:51:37:608,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29341927,E58,setTodayTotalDetailSteps=<*>
+567,568,20171223-22:51:37:615,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+568,569,20171223-22:51:40:331,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+569,570,20171223-22:51:40:632,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29344951,E58,setTodayTotalDetailSteps=<*>
+570,571,20171223-22:51:40:641,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+571,572,20171223-22:51:40:644,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+572,573,20171223-22:51:48:980,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+573,574,20171223-22:51:49:283,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29353602,E58,setTodayTotalDetailSteps=<*>
+574,575,20171223-22:51:49:298,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+575,576,20171223-22:52:0:146,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+576,577,20171223-22:52:8:790,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+577,578,20171223-22:52:45:415,Step_LSC,30002312,onExtend:1514040766000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+578,579,20171223-22:52:45:487,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29409806,E58,setTodayTotalDetailSteps=<*>
+579,580,20171223-22:52:45:487,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+580,581,20171223-22:52:45:494,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+581,582,20171223-22:52:45:497,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+582,583,20171223-22:52:45:498,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+583,584,20171223-22:52:45:587,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+584,585,20171223-22:52:45:802,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410120,E58,setTodayTotalDetailSteps=<*>
+585,586,20171223-22:52:45:813,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+586,587,20171223-22:52:45:985,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+587,588,20171223-22:52:45:987,Step_LSC,30002312,onExtend:1514040766000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+588,589,20171223-22:52:46:286,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29410120,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+589,590,20171223-22:52:46:287,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410605,E58,setTodayTotalDetailSteps=<*>
+590,591,20171223-22:52:55:718,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+591,592,20171223-22:53:1:177,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+592,593,20171223-22:53:1:185,Step_LSC,30002312,onExtend:1514040836000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+593,594,20171223-22:53:1:211,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+594,595,20171223-22:53:1:213,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+595,596,20171223-22:53:1:215,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425533,E58,setTodayTotalDetailSteps=<*>
+596,597,20171223-22:53:1:227,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+597,598,20171223-22:53:1:320,Step_LSC,30002312,onExtend:1514040781000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+598,599,20171223-22:53:1:320,Step_LSC,30002312,"timeStamp back,extendReportTimeStamp=1514040836000",E69,"timeStamp back,extendReportTimeStamp=<*>"
+599,600,20171223-22:53:1:325,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+600,601,20171223-22:53:1:528,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425533,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+601,602,20171223-22:53:1:529,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425847,E58,setTodayTotalDetailSteps=<*>
+602,603,20171223-22:53:1:539,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+603,604,20171223-22:53:7:6,Step_LSC,30002312,onExtend:1514040786000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+604,605,20171223-22:53:7:299,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29425847,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+605,606,20171223-22:53:7:314,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+606,607,20171223-22:53:12:704,Step_LSC,30002312,onExtend:1514040793000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+607,608,20171223-22:53:12:714,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+608,609,20171223-22:53:12:716,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+609,610,20171223-22:53:12:718,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29431618,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+610,611,20171223-22:53:12:720,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+611,612,20171223-22:53:12:731,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+612,613,20171223-22:53:12:737,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+613,614,20171223-22:53:12:737,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+614,615,20171223-22:53:12:818,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+615,616,20171223-22:53:12:820,Step_LSC,30002312,onExtend:1514040793000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+616,617,20171223-22:53:13:15,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+617,618,20171223-22:53:13:16,Step_LSC,30002312,onExtend:1514040793000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+618,619,20171223-22:53:13:38,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437037,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+619,620,20171223-22:53:13:48,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+620,621,20171223-22:54:0:118,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+621,622,20171223-22:54:55:20,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+622,623,20171223-22:54:55:330,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437358,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+623,624,20171223-22:54:55:346,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+624,625,20171223-22:54:55:361,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+625,626,20171223-22:55:0:140,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+626,627,20171223-22:55:55:699,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+627,628,20171223-22:55:55:734,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040780000##7189##549659##8661##16256##29539649,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+628,629,20171223-22:55:55:735,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600053,E58,setTodayTotalDetailSteps=<*>
+629,630,20171223-22:55:55:746,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+630,631,20171223-22:55:55:748,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+631,632,20171223-22:55:55:748,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+632,633,20171223-22:55:55:835,Step_LSC,30002312,onExtend:1514040956000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+633,634,20171223-22:55:56:27,Step_LSC,30002312,onExtend:1514040956000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+634,635,20171223-22:55:56:53,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040840000##7189##549659##8661##16256##29600053,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+635,636,20171223-22:55:56:53,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600372,E58,setTodayTotalDetailSteps=<*>
+636,637,20171223-22:55:56:64,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+637,638,20171223-22:59:36:579,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+638,639,20171223-23:2:31:995,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+639,640,20171223-23:3:16:894,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+640,641,20171223-23:5:7:189,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+641,642,20171223-23:6:7:350,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+642,643,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041086000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+643,644,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041146000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+644,645,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041266000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+645,646,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041326000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+646,647,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041386000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+647,648,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041506000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+648,649,20171223-23:7:6:86,Step_LSC,30002312,onExtend:1514041626000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+649,650,20171223-23:7:6:124,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+650,651,20171223-23:7:6:125,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+651,652,20171223-23:7:6:126,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514040840000##7189##549659##8661##16256##29600372,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+652,653,20171223-23:7:6:126,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270445,E58,setTodayTotalDetailSteps=<*>
+653,654,20171223-23:7:6:137,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+654,655,20171223-23:7:6:232,Step_LSC,30002312,onExtend:1514041627000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+655,656,20171223-23:7:6:445,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30270445,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+656,657,20171223-23:7:6:446,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270764,E58,setTodayTotalDetailSteps=<*>
+657,658,20171223-23:7:7:373,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30270764,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+658,659,20171223-23:7:7:374,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30271693,E58,setTodayTotalDetailSteps=<*>
+659,660,20171223-23:7:50:266,Step_StandReportReceiver,30002312,REPORT : 7189 5132 153988 240,E47,REPORT : <*> <*> <*> <*>
+660,661,20171223-23:7:51:238,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+661,662,20171223-23:7:51:314,Step_LSC,30002312,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,E21,getTodaySportData mStepsRecordManager=<*>
+662,663,20171223-23:8:9:229,Step_LSC,30002312,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,E21,getTodaySportData mStepsRecordManager=<*>
+663,664,20171223-23:8:9:235,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041560000##7189##549659##8661##16256##30315546,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+664,665,20171223-23:8:19:403,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30333554,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+665,666,20171223-23:8:19:404,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041620000##7189##549659##8661##16256##30343722,E58,setTodayTotalDetailSteps=<*>
+666,667,20171223-23:8:19:419,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+667,668,20171223-23:11:38:10,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+668,669,20171223-23:12:28:131,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+669,670,20171223-23:13:47:8,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+670,671,20171223-23:14:24:384,Step_LSC,30002312,onExtend:1514041722000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+671,672,20171223-23:14:24:384,Step_LSC,30002312,onExtend:1514041782000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+672,673,20171223-23:14:24:384,Step_LSC,30002312,onExtend:1514041902000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+673,674,20171223-23:14:24:384,Step_LSC,30002312,onExtend:1514042022000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+674,675,20171223-23:14:24:389,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+675,676,20171223-23:14:24:391,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30343722,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+676,677,20171223-23:14:24:391,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30708710,E58,setTodayTotalDetailSteps=<*>
+677,678,20171223-23:14:24:401,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+678,679,20171223-23:14:24:494,Step_LSC,30002312,onStandStepChanged 3761,E42,onStandStepChanged <*>
+679,680,20171223-23:14:24:499,Step_LSC,30002312,"timeStamp back,extendReportTimeStamp=1514042082000",E69,"timeStamp back,extendReportTimeStamp=<*>"
+680,681,20171223-23:14:24:711,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30709030,E58,setTodayTotalDetailSteps=<*>
+681,682,20171223-23:14:24:721,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+682,683,20171223-23:14:25:113,Step_LSC,30002312,onExtend:1514042064000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+683,684,20171223-23:14:25:422,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130673,E4,calculateCaloriesWithCache totalCalories=<*>
+684,685,20171223-23:14:42:925,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130715,E4,calculateCaloriesWithCache totalCalories=<*>
+685,686,20171223-23:14:42:933,Step_StandReportReceiver,30002312,REPORT : 7191 5134 154031 240,E47,REPORT : <*> <*> <*> <*>
+686,687,20171223-23:14:43:122,Step_LSC,30002312,onExtend:1514042082000 1 0 4,E39,onExtend:<*> <*> <*> <*>
+687,688,20171223-23:14:43:414,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7192##549659##8661##16256##30727733,E58,setTodayTotalDetailSteps=<*>
+688,689,20171223-23:14:43:432,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+689,690,20171223-23:14:43:434,Step_StandReportReceiver,30002312,REPORT : 7192 5135 154052 240,E47,REPORT : <*> <*> <*> <*>
+690,691,20171223-23:14:43:914,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7193##549659##8661##16256##30728232,E58,setTodayTotalDetailSteps=<*>
+691,692,20171223-23:14:43:934,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+692,693,20171223-23:14:43:938,Step_StandReportReceiver,30002312,REPORT : 7193 5135 154074 240,E47,REPORT : <*> <*> <*> <*>
+693,694,20171223-23:14:44:410,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7196##549659##8661##16256##30728728,E58,setTodayTotalDetailSteps=<*>
+694,695,20171223-23:14:44:617,Step_LSC,30002312,onExtend:1514042084000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+695,696,20171223-23:14:44:913,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7196##549659##8661##16256##30728728,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+696,697,20171223-23:14:44:930,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130865,E4,calculateCaloriesWithCache totalCalories=<*>
+697,698,20171223-23:14:44:946,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+698,699,20171223-23:14:44:954,Step_StandReportReceiver,30002312,REPORT : 7198 5139 154181 240,E47,REPORT : <*> <*> <*> <*>
+699,700,20171223-23:14:45:118,Step_LSC,30002312,onExtend:1514042084000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+700,701,20171223-23:14:45:414,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7200##549659##8661##16256##30729733,E58,setTodayTotalDetailSteps=<*>
+701,702,20171223-23:14:45:429,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130908,E4,calculateCaloriesWithCache totalCalories=<*>
+702,703,20171223-23:14:45:618,Step_LSC,30002312,onExtend:1514042085000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+703,704,20171223-23:14:45:908,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7200##549659##8661##16256##30729733,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+704,705,20171223-23:14:45:916,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=130951,E4,calculateCaloriesWithCache totalCalories=<*>
+705,706,20171223-23:14:45:919,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+706,707,20171223-23:14:45:924,Step_StandReportReceiver,30002312,REPORT : 7202 5142 154266 240,E47,REPORT : <*> <*> <*> <*>
+707,708,20171223-23:14:46:115,Step_LSC,30002312,onExtend:1514042085000 3 0 4,E39,onExtend:<*> <*> <*> <*>
+708,709,20171223-23:14:46:409,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7202##549659##8661##16256##30730227,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+709,710,20171223-23:14:46:409,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7205##549659##8661##16256##30730728,E58,setTodayTotalDetailSteps=<*>
+710,711,20171223-23:14:46:425,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131015,E4,calculateCaloriesWithCache totalCalories=<*>
+711,712,20171223-23:14:46:618,Step_LSC,30002312,onExtend:1514042086000 3 0 4,E39,onExtend:<*> <*> <*> <*>
+712,713,20171223-23:14:46:912,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7205##549659##8661##16256##30730728,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+713,714,20171223-23:14:46:928,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131079,E4,calculateCaloriesWithCache totalCalories=<*>
+714,715,20171223-23:14:46:932,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+715,716,20171223-23:14:47:109,Step_LSC,30002312,onStandStepChanged 3783,E42,onStandStepChanged <*>
+716,717,20171223-23:14:47:118,Step_LSC,30002312,onExtend:1514042086000 3 0 4,E39,onExtend:<*> <*> <*> <*>
+717,718,20171223-23:14:47:411,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7208##549659##8661##16256##30731232,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+718,719,20171223-23:14:47:412,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7211##549659##8661##16256##30731730,E58,setTodayTotalDetailSteps=<*>
+719,720,20171223-23:14:47:421,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131144,E4,calculateCaloriesWithCache totalCalories=<*>
+720,721,20171223-23:14:47:441,Step_StandReportReceiver,30002312,REPORT : 7211 5148 154459 240,E47,REPORT : <*> <*> <*> <*>
+721,722,20171223-23:14:48:107,Step_LSC,30002312,onStandStepChanged 3784,E42,onStandStepChanged <*>
+722,723,20171223-23:14:48:418,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131165,E4,calculateCaloriesWithCache totalCalories=<*>
+723,724,20171223-23:14:48:421,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+724,725,20171223-23:14:48:618,Step_LSC,30002312,onExtend:1514042088000 2 0 4,E39,onExtend:<*> <*> <*> <*>
+725,726,20171223-23:14:48:907,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7214##549659##8661##16256##30733226,E58,setTodayTotalDetailSteps=<*>
+726,727,20171223-23:14:52:410,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30733226,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+727,728,20171223-23:14:52:411,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514041980000##7214##549659##8661##16256##30736730,E58,setTodayTotalDetailSteps=<*>
+728,729,20171223-23:14:52:424,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+729,730,20171223-23:15:0:121,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+730,731,20171223-23:16:23:120,Step_LSC,30002312,onExtend:1514042182000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+731,732,20171223-23:16:23:411,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514042100000##7214##549659##8661##16256##30827730,E58,setTodayTotalDetailSteps=<*>
+732,733,20171223-23:16:23:420,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+733,734,20171223-23:16:45:587,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_OFF,E40,onReceive action: android.intent.action.SCREEN_OFF
+734,735,20171223-23:17:40:773,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+735,736,20171223-23:17:40:993,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+736,737,20171223-23:17:40:995,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,E43,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+737,738,20171223-23:17:40:995,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+738,739,20171223-23:17:40:996,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042100000##7214##549659##8661##16256##30827730,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+739,740,20171223-23:17:40:997,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+740,741,20171223-23:17:41:5,Step_StandReportReceiver,30002312,REPORT : 7214 5150 154523 240,E47,REPORT : <*> <*> <*> <*>
+741,742,20171223-23:17:41:100,Step_LSC,30002312,onExtend:1514042261000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+742,743,20171223-23:17:41:306,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30905315,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+743,744,20171223-23:17:41:309,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+744,745,20171223-23:17:41:310,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+745,746,20171223-23:17:41:692,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+746,747,20171223-23:17:41:694,Step_LSC,30002312,onExtend:1514042262000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+747,748,20171223-23:17:41:987,Step_StandReportReceiver,30002312,onReceive action: android.intent.action.SCREEN_ON,E41,onReceive action: android.intent.action.SCREEN_ON
+748,749,20171223-23:17:41:989,Step_StandStepCounter,30002312,flush sensor data,E12,flush sensor data
+749,750,20171223-23:17:41:991,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+750,751,20171223-23:17:41:991,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30905625,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+751,752,20171223-23:17:42:1,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+752,753,20171223-23:17:42:5,Step_StandReportReceiver,30002312,REPORT : 7214 5150 154523 240,E47,REPORT : <*> <*> <*> <*>
+753,754,20171223-23:17:42:91,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+754,755,20171223-23:17:42:391,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30906310,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+755,756,20171223-23:17:42:397,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+756,757,20171223-23:19:0:120,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+757,758,20171223-23:19:20:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+758,759,20171223-23:19:20:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30906710,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+759,760,20171223-23:19:20:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514042280000##7214##549659##8661##16256##31004759,E58,setTodayTotalDetailSteps=<*>
+760,761,20171223-23:19:20:456,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+761,762,20171223-23:19:21:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+762,763,20171223-23:19:21:148,Step_LSC,30002312,onExtend:1514042361000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+763,764,20171223-23:19:21:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514042280000##7214##549659##8661##16256##31005759,E58,setTodayTotalDetailSteps=<*>
+764,765,20171223-23:23:15:441,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042280000##7214##549659##8661##16256##31005759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+765,766,20171223-23:23:15:441,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514042520000##7214##549659##8661##16256##31239760,E58,setTodayTotalDetailSteps=<*>
+766,767,20171223-23:23:15:466,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+767,768,20171223-23:23:19:141,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+768,769,20171223-23:23:19:446,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042520000##7214##549659##8661##16256##31239760,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+769,770,20171223-23:23:19:463,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+770,771,20171223-23:23:50:452,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+771,772,20171223-23:25:0:122,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+772,773,20171223-23:27:0:143,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+773,774,20171223-23:28:0:124,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+774,775,20171223-23:29:4:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+775,776,20171223-23:29:4:456,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+776,777,20171223-23:29:4:459,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+777,778,20171223-23:31:0:123,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+778,779,20171223-23:32:0:140,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+779,780,20171223-23:32:28:794,HiH_HiSyncControl,30002312,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",E64,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+780,781,20171223-23:32:28:794,HiH_HiSyncControl,30002312,stepSyncOrNot appSynTimes is 0,E66,stepSyncOrNot appSynTimes is <*>
+781,782,20171223-23:32:28:795,HiH_HiSyncControl,30002312,needAutoSync autoSyncSwitch is open,E36,needAutoSync autoSyncSwitch is open
+782,783,20171223-23:32:28:795,HiH_HiSyncControl,30002312,"initDataPrivacy the dataPrivacy switch is open, start push health data!",E25,"initDataPrivacy the dataPrivacy switch is open, start push health data!"
+783,784,20171223-23:32:28:796,HiH_,30002312,initDataPrivacy the dataPrivacy is true,E24,initDataPrivacy the dataPrivacy is <*>
+784,785,20171223-23:32:28:796,HiH_HiBroadcastUtil,30002312,sendSyncFailedBroadcast,E54,sendSyncFailedBroadcast
+785,786,20171223-23:33:0:134,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+786,787,20171223-23:35:0:131,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+787,788,20171223-23:37:0:167,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+788,789,20171223-23:37:14:440,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514042880000##7214##549659##8661##16256##31589757,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+789,790,20171223-23:37:14:456,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+790,791,20171223-23:37:16:441,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514043360000##7214##549659##8661##16256##32080760,E58,setTodayTotalDetailSteps=<*>
+791,792,20171223-23:40:10:144,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+792,793,20171223-23:40:10:463,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+793,794,20171223-23:40:10:472,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+794,795,20171223-23:40:14:440,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514043540000##7214##549659##8661##16256##32254765,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+795,796,20171223-23:40:14:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32258759,E58,setTodayTotalDetailSteps=<*>
+796,797,20171223-23:40:14:457,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+797,798,20171223-23:41:0:155,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+798,799,20171223-23:42:38:915,Step_LSC,30002312,onExtend:1514043759000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+799,800,20171223-23:42:39:225,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+800,801,20171223-23:46:7:444,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514043660000##7214##549659##8661##16256##32403526,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+801,802,20171223-23:46:7:467,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+802,803,20171223-23:46:14:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+803,804,20171223-23:48:0:156,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+804,805,20171223-23:50:48:406,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+805,806,20171223-23:50:48:707,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514043900000##7214##549659##8661##16256##32618758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+806,807,20171223-23:50:48:708,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044140000##7214##549659##8661##16256##32893026,E58,setTodayTotalDetailSteps=<*>
+807,808,20171223-23:50:48:722,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+808,809,20171223-23:52:0:154,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+809,810,20171223-23:52:57:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+810,811,20171223-23:52:57:155,Step_LSC,30002312,onExtend:1514044377000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+811,812,20171223-23:52:57:444,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044260000##7214##549659##8661##16256##33021763,E58,setTodayTotalDetailSteps=<*>
+812,813,20171223-23:52:57:456,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+813,814,20171223-23:53:0:133,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+814,815,20171223-23:53:0:441,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044260000##7214##549659##8661##16256##33021763,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+815,816,20171223-23:53:0:442,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33024761,E58,setTodayTotalDetailSteps=<*>
+816,817,20171223-23:53:15:153,Step_LSC,30002312,onExtend:1514044395000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+817,818,20171223-23:53:15:439,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33039758,E58,setTodayTotalDetailSteps=<*>
+818,819,20171223-23:53:15:464,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+819,820,20171223-23:53:17:443,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33039758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+820,821,20171223-23:53:17:444,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33041763,E58,setTodayTotalDetailSteps=<*>
+821,822,20171223-23:53:17:467,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+822,823,20171223-23:53:17:472,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+823,824,20171223-23:53:25:440,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33041763,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+824,825,20171223-23:53:31:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+825,826,20171223-23:53:31:458,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+826,827,20171223-23:53:40:143,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+827,828,20171223-23:53:40:152,Step_LSC,30002312,onExtend:1514044420000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+828,829,20171223-23:53:40:475,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+829,830,20171223-23:53:42:456,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+830,831,20171223-23:53:51:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33066759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+831,832,20171223-23:53:51:470,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+832,833,20171223-23:53:57:153,Step_LSC,30002312,onExtend:1514044437000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+833,834,20171223-23:53:57:446,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33081765,E58,setTodayTotalDetailSteps=<*>
+834,835,20171223-23:53:57:463,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+835,836,20171223-23:54:0:148,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+836,837,20171223-23:54:28:160,Step_LSC,30002312,onExtend:1514044468000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+837,838,20171223-23:54:28:452,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33081765,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+838,839,20171223-23:54:28:452,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33112771,E58,setTodayTotalDetailSteps=<*>
+839,840,20171223-23:54:28:467,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+840,841,20171223-23:54:29:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+841,842,20171223-23:54:29:438,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33112771,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+842,843,20171223-23:54:29:456,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+843,844,20171223-23:54:34:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+844,845,20171223-23:54:34:147,Step_LSC,30002312,onExtend:1514044474000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+845,846,20171223-23:54:35:442,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33118758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+846,847,20171223-23:54:35:460,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+847,848,20171223-23:54:45:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+848,849,20171223-23:54:45:448,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33119761,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+849,850,20171223-23:54:45:465,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+850,851,20171223-23:54:45:470,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+851,852,20171223-23:54:47:155,Step_LSC,30002312,onExtend:1514044487000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+852,853,20171223-23:54:47:453,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33129767,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+853,854,20171223-23:54:47:454,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33131773,E58,setTodayTotalDetailSteps=<*>
+854,855,20171223-23:54:47:465,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+855,856,20171223-23:54:47:469,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+856,857,20171223-23:54:54:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33131773,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+857,858,20171223-23:54:54:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33138759,E58,setTodayTotalDetailSteps=<*>
+858,859,20171223-23:54:54:451,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+859,860,20171223-23:54:56:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+860,861,20171223-23:54:56:157,Step_LSC,30002312,onExtend:1514044496000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+861,862,20171223-23:54:56:451,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33138759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+862,863,20171223-23:54:56:452,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33140770,E58,setTodayTotalDetailSteps=<*>
+863,864,20171223-23:54:56:468,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+864,865,20171223-23:54:56:476,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+865,866,20171223-23:55:24:150,Step_LSC,30002312,onExtend:1514044524000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+866,867,20171223-23:55:24:443,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33168762,E58,setTodayTotalDetailSteps=<*>
+867,868,20171223-23:55:24:467,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+868,869,20171223-23:55:25:441,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044440000##7214##549659##8661##16256##33168762,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+869,870,20171223-23:56:0:148,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+870,871,20171223-23:56:12:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+871,872,20171223-23:56:12:161,Step_LSC,30002312,onExtend:1514044572000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+872,873,20171223-23:56:13:150,Step_LSC,30002312,onExtend:1514044573000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+873,874,20171223-23:56:13:445,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33217764,E58,setTodayTotalDetailSteps=<*>
+874,875,20171223-23:56:13:457,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+875,876,20171223-23:56:28:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+876,877,20171223-23:56:28:145,Step_LSC,30002312,onExtend:1514044588000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+877,878,20171223-23:56:28:460,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+878,879,20171223-23:56:28:464,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+879,880,20171223-23:56:35:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33239758,E58,setTodayTotalDetailSteps=<*>
+880,881,20171223-23:56:35:467,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+881,882,20171223-23:57:34:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044560000##7214##549659##8661##16256##33298759,E58,setTodayTotalDetailSteps=<*>
+882,883,20171223-23:57:34:457,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+883,884,20171223-23:57:34:464,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+884,885,20171223-23:57:42:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+885,886,20171223-23:57:42:147,Step_LSC,30002312,onExtend:1514044662000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+886,887,20171223-23:57:42:443,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33298759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+887,888,20171223-23:57:42:464,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=131208,E4,calculateCaloriesWithCache totalCalories=<*>
+888,889,20171223-23:57:42:470,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=240,E3,calculateAltitudeWithCache totalAltitude=<*>
+889,890,20171223-23:58:0:117,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+890,891,20171224-0:0:0:215,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+891,892,20171224-0:0:0:216,Step_StandStepDataManager,30002312,theDayChanged 1514044800216,E68,theDayChanged <*>
+892,893,20171224-0:0:0:218,Step_SPUtils,30002312,getStepCounterStatus,E18,getStepCounterStatus
+893,894,20171224-0:0:0:218,Step_SPUtils,30002312, getStepCounterStatus= true,E19,getStepCounterStatus= <*>
+894,895,20171224-0:0:0:223,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+895,896,20171224-0:0:0:226,Step_StandStepCounter,30002312,registersensorsuccess: true,E45,registersensorsuccess: <*>
+896,897,20171224-0:0:0:232,Step_SPUtils,30002312,setDiffTotalSteps=0,E56,setDiffTotalSteps=<*>
+897,898,20171224-0:0:0:233,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+898,899,20171224-0:0:0:233,Step_SPUtils,30002312, getTodayBasicStandardSteps= 1514044800223##3786##0,E20,getTodayBasicStandardSteps= <*>##<*>##<*>
+899,900,20171224-0:0:0:233,Step_SPUtils,30002312, getDiffTotalSteps= 1514044800231##0,E17,getDiffTotalSteps= <*>##<*>
+900,901,20171224-0:0:0:234,Step_StandStepDataManager,30002312,tryToReloadTodayBasicSteps1514044800223|3786|0|0,E71,<*>|<*>|<*>|<*>
+901,902,20171224-0:0:0:234,Step_StandStepDataManager,30002312,reload : 3786 restar 0,E46,reload : <*> restar <*>
+902,903,20171224-0:0:0:234,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33306763,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+903,904,20171224-0:0:0:235,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+904,905,20171224-0:0:0:235,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+905,906,20171224-0:0:0:236,Step_StandReportReceiver,30002312,REPORT : 0 0 0 0,E47,REPORT : <*> <*> <*> <*>
+906,907,20171224-0:0:0:237,Step_SPUtils,30002312,setGoalNotifiShownRecord 1514044800237 false,E57,setGoalNotifiShownRecord <*> <*>
+907,908,20171224-0:0:0:240,Step_HGNH,30002312,closeNotification...,E10,closeNotification...
+908,909,20171224-0:0:0:240,Step_NotificationUtil,30002312,deleteHealthNotification(),E11,deleteHealthNotification()
+909,910,20171224-0:0:0:323,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+910,911,20171224-0:0:0:624,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33444553,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+911,912,20171224-0:0:0:624,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33444943,E58,setTodayTotalDetailSteps=<*>
+912,913,20171224-0:0:0:628,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+913,914,20171224-0:0:5:152,Step_LSC,30002312,onExtend:1514044805000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+914,915,20171224-0:0:5:438,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33444943,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+915,916,20171224-0:0:5:444,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+916,917,20171224-0:0:5:444,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+917,918,20171224-0:0:6:445,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514044740000##0##549659##8661##16256##33449757,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+918,919,20171224-0:0:6:445,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33450764,E58,setTodayTotalDetailSteps=<*>
+919,920,20171224-0:0:6:451,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+920,921,20171224-0:0:6:451,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+921,922,20171224-0:5:0:128,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+922,923,20171224-0:5:22:478,Step_LSC,30002312,onExtend:1514045123000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+923,924,20171224-0:5:22:774,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045040000##0##549659##8661##16256##33767093,E58,setTodayTotalDetailSteps=<*>
+924,925,20171224-0:5:22:779,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+925,926,20171224-0:6:16:574,Step_LSC,30002312,onExtend:1514045177000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+926,927,20171224-0:6:16:863,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045040000##0##549659##8661##16256##33767093,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+927,928,20171224-0:6:16:864,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045100000##0##549659##8661##16256##33821183,E58,setTodayTotalDetailSteps=<*>
+928,929,20171224-0:6:16:871,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+929,930,20171224-0:7:2:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045100000##0##549659##8661##16256##33821183,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+930,931,20171224-0:7:2:445,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+931,932,20171224-0:7:4:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+932,933,20171224-0:7:4:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33866758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+933,934,20171224-0:7:4:439,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33868758,E58,setTodayTotalDetailSteps=<*>
+934,935,20171224-0:7:4:447,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+935,936,20171224-0:7:4:447,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+936,937,20171224-0:7:20:438,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33868758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+937,938,20171224-0:7:20:439,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33884757,E58,setTodayTotalDetailSteps=<*>
+938,939,20171224-0:7:20:444,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+939,940,20171224-0:7:21:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+940,941,20171224-0:7:21:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33885759,E58,setTodayTotalDetailSteps=<*>
+941,942,20171224-0:7:21:447,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+942,943,20171224-0:8:0:141,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+943,944,20171224-0:9:4:440,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045160000##0##549659##8661##16256##33885759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+944,945,20171224-0:9:4:460,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+945,946,20171224-0:9:4:460,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+946,947,20171224-0:9:6:442,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33990761,E58,setTodayTotalDetailSteps=<*>
+947,948,20171224-0:9:34:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##33990761,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+948,949,20171224-0:9:34:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34018758,E58,setTodayTotalDetailSteps=<*>
+949,950,20171224-0:9:34:446,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+950,951,20171224-0:9:34:446,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+951,952,20171224-0:9:35:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+952,953,20171224-0:9:35:440,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045280000##0##549659##8661##16256##34018758,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+953,954,20171224-0:9:35:441,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##34019759,E58,setTodayTotalDetailSteps=<*>
+954,955,20171224-0:10:0:183,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+955,956,20171224-0:10:10:137,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+956,957,20171224-0:10:10:439,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34053757,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+957,958,20171224-0:10:10:440,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34054759,E58,setTodayTotalDetailSteps=<*>
+958,959,20171224-0:10:10:446,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+959,960,20171224-0:10:10:446,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+960,961,20171224-0:10:43:138,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+961,962,20171224-0:10:43:441,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34087759,E58,setTodayTotalDetailSteps=<*>
+962,963,20171224-0:10:43:448,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+963,964,20171224-0:11:56:143,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+964,965,20171224-0:11:56:445,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045340000##0##549659##8661##16256##34087759,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+965,966,20171224-0:11:56:454,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+966,967,20171224-0:11:57:149,Step_LSC,30002312,onExtend:1514045517000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+967,968,20171224-0:11:57:449,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+968,969,20171224-0:11:57:450,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+969,970,20171224-0:12:0:138,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+970,971,20171224-0:15:0:147,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+971,972,20171224-0:15:52:983,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+972,973,20171224-0:15:52:990,Step_LSC,30002312,onExtend:1514045753000 0 0 0,E39,onExtend:<*> <*> <*> <*>
+973,974,20171224-0:15:53:292,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+974,975,20171224-0:19:0:137,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+975,976,20171224-0:21:0:131,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+976,977,20171224-0:25:16:146,Step_LSC,30002312,onExtend:1514046316000 0 0 5,E39,onExtend:<*> <*> <*> <*>
+977,978,20171224-0:25:16:438,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514045640000##0##549659##8661##16256##34397604,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+978,979,20171224-0:25:16:445,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+979,980,20171224-0:25:16:445,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+980,981,20171224-0:25:17:438,Step_SPUtils,30002312,setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34961757,E58,setTodayTotalDetailSteps=<*>
+981,982,20171224-0:25:17:445,Step_ExtSDM,30002312,calculateAltitudeWithCache totalAltitude=0,E3,calculateAltitudeWithCache totalAltitude=<*>
+982,983,20171224-0:27:0:140,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+983,984,20171224-0:28:0:83,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+984,985,20171224-0:28:25:151,Step_LSC,30002312,onStandStepChanged 3786,E42,onStandStepChanged <*>
+985,986,20171224-0:28:25:453,Step_SPUtils,30002312, getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34961757,E22,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+986,987,20171224-0:28:25:461,Step_ExtSDM,30002312,calculateCaloriesWithCache totalCalories=0,E4,calculateCaloriesWithCache totalCalories=<*>
+987,988,20171224-0:31:52:120,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+988,989,20171224-0:32:28:797,HiH_HiSyncControl,30002312,"startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",E64,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+989,990,20171224-0:32:28:800,HiH_HiSyncControl,30002312,stepSyncOrNot appSynTimes is 0,E66,stepSyncOrNot appSynTimes is <*>
+990,991,20171224-0:32:28:803,HiH_HiSyncControl,30002312,needAutoSync autoSyncSwitch is open,E36,needAutoSync autoSyncSwitch is open
+991,992,20171224-0:32:28:804,HiH_,30002312,initDataPrivacy the dataPrivacy is true,E24,initDataPrivacy the dataPrivacy is <*>
+992,993,20171224-0:32:28:806,HiH_HiSyncControl,30002312,ifCanSync not! no cloud version,E23,ifCanSync not! no cloud version
+993,994,20171224-0:32:41:114,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+994,995,20171224-0:37:23:74,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+995,996,20171224-0:49:29:380,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+996,997,20171224-0:52:20:752,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+997,998,20171224-0:53:59:235,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+998,999,20171224-0:58:53:985,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+999,1000,20171224-1:0:0:794,Step_LSC,30002312,processHandleBroadcastAction action:android.intent.action.TIME_TICK,E44,processHandleBroadcastAction action:android.intent.action.TIME_TICK

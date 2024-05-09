@@ -1,0 +1,1000 @@
+{"text": "Established session 0x14ed93111f2007c with negotiated timeout 10000 for client /10.10.34.11:50276", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "minSessionTimeout set to -1", "label": "minSessionTimeout set to <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Expiring session 0x14ed93111f2009f, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Received connection request /10.10.34.12:51050", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:47515", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:43693", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:45738", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.12:54230", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:54078", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:56644", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:49518", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Expiring session 0x14f1724a6e80011, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running", "label": "Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14f4a6318b80019", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.12:58349", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:32964", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Server environment:os.name=Linux", "label": "Server environment:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:45894", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:58565", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:60717", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Established session 0x14edfaa86f60013 with negotiated timeout 10000 for client /10.10.34.27:44600", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:47623", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:45923", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14edfaa86f60019", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:60834", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ee30a5c530011", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:58303", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ed93111f20046", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:58823", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:45307", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection request from old client /10.10.34.25:58975; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:37021", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ee30a5c53000a", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14f4a6318b80004", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection request from old client /10.10.34.11:51043; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:47571", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.39:45022", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:59614", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to renew session 0x14f05578bd8001b at /10.10.34.20:56374", "label": "Client attempting to renew session <*> at <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:50354", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:49204", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:48189", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Unexpected Exception:", "label": "Unexpected Exception:", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.12:54610", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection request from old client /10.10.34.20:56418; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.29:39382 which had sessionid 0x14ed93111f2005d", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.27:36125 which had sessionid 0x24ee30a54f5000e", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14edfaa86f60047", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:50926", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection request from old client /10.10.34.12:45728; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:45542 which had sessionid 0x14ed93111f20002", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:50546", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:46914", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Established session 0x14f05578bd80016 with negotiated timeout 10000 for client /10.10.34.13:38490", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.40:58713", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection request from old client /10.10.34.20:44648; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Established session 0x14ed93111f2002b with negotiated timeout 10000 for client /10.10.34.22:47073", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ed93111f20000", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:41160 which had sessionid 0x34ed9ac1c1e00a9", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x24ede63a01b003b", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:32924", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "******* GOODBYE /10.10.34.11:52308 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:47464", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Starting quorum peer", "label": "Starting quorum peer", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:51168", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:46410", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ed9ac1c1e0083", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ed9ac1c1e0078", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Established session 0x24ee30a54f5001c with negotiated timeout 10000 for client /10.10.34.32:45013", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:35811", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ede65503f0039", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:59078", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:49938", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:51097", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection request from old client /10.10.34.14:49822; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Received connection request /10.10.34.13:43921", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Received connection request /10.10.34.11:49590", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:59703", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:49270", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection request from old client /10.10.34.13:38079; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.13:36187 which had sessionid 0x24f0557806a001b", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:47931", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:33138", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:54857", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:60750", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:54738", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Established session 0x34ed9ac1c1e0064 with negotiated timeout 10000 for client /10.10.34.11:37111", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:59284 which had sessionid 0x34ed9ac1c1e0059", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:60575", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.15:54175", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:59968", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Established session 0x14ede63a5a7004b with negotiated timeout 10000 for client /10.10.34.11:40489", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:48096", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.13:37335 which had sessionid 0x24ed93119420065", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:48426", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:49480", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:32891", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Established session 0x24f4a631df90016 with negotiated timeout 10000 for client /10.10.34.40:39952", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ed9ac1c1e0080", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Received connection request /10.10.34.13:44989", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Established session 0x24f0557806a001e with negotiated timeout 10000 for client /10.10.34.11:51000", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.13:54265 (no session established for client)", "label": "Closed socket connection for client <*>:<*> (no session established for client)", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:40061", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:59706", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Expiring session 0x14edfaa86f6002a, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Processed session termination for sessionid: 0x24edfaa8717002d", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Expiring session 0x14f05578bd8000f, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:48751", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:55648", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:49940", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection request from old client /10.10.34.11:40489; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Received connection request /10.10.34.12:49610", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "******* GOODBYE /10.10.34.12:59103 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Received connection request /10.10.34.11:59688", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:40061", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:47613", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Established session 0x34ede65503f0058 with negotiated timeout 20000 for client /10.10.34.11:51967", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:60984", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:54310", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Expiring session 0x24ee30a54f50017, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:33342 which had sessionid 0x34f0557885e0002", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45644", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:47234", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Received connection request /10.10.34.12:48235", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.11:48609", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection request from old client /10.10.34.33:39730; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Revalidating client: 0x14f05578bd80013", "label": "Revalidating client: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:49346", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:33250", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Expiring session 0x34f4a63146b0048, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Established session 0x24f1724b8af0009 with negotiated timeout 10000 for client /10.10.34.21:44834", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:43358", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:50990", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.19:57338 which had sessionid 0x14f05578bd8000d", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:33186", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:59661 which had sessionid 0x14ee3e057ed0027", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45651", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:36401 (no session established for client)", "label": "Closed socket connection for client <*>:<*> (no session established for client)", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.11:49023", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:56834", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Processed session termination for sessionid: 0x24ee30a54f50019", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:55929", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:47767", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34edfaa9c22003d", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:40581 which had sessionid 0x34ed9ac1c1e0093", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.35:48997 which had sessionid 0x14f4a6318b80024", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:55346", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:33266", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.27:32782", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:56786", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:48218", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.18:46783 which had sessionid 0x34ed9ac1c1e0086", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.12:36322", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ed9ac1c1e00ae", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.34:56149", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.35:59458", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:47367", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45343", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)", "type": 1}
+{"text": "autopurge.snapRetainCount set to 3", "label": "autopurge.snapRetainCount set to <*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:48047", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ede63a5a7003a", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ede63a5a70002", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ed93111f20050", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:54298", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:58764", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:33305", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Established session 0x24ed9311942007e with negotiated timeout 10000 for client /10.10.34.12:54673", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:48811", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.12:56483", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000", "label": "Have quorum of supporters; starting up and setting last processed zxid: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection request from old client /10.10.34.13:37454; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:60489", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:48254", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.13:37600", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:59416", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Established session 0x34edfaa9c220002 with negotiated timeout 10000 for client /10.10.34.11:53000", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.40:39952", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running", "label": "Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Received connection request /10.10.34.13:58116", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45406", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:50940 which had sessionid 0x14ed93111f20099", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Expiring session 0x24ed9311942008e, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:42917", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.11:46592", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:47954", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:45440", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:50301", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:49588", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:48280", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Established session 0x14f05578bd80002 with negotiated timeout 10000 for client /10.10.34.12:46262", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.39:51758", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:46170", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:59599", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "FOLLOWING - LEADER ELECTION TOOK - 238", "label": "FOLLOWING - LEADER ELECTION TOOK - <*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:54632", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:59037", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Notification time out: 3200", "label": "Notification time out: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.23:51828", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.24:45152 which had sessionid 0x24edfaa8717001a", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:54983 which had sessionid 0x14ed93111f200f0", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection request from old client /10.10.34.40:40996; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Received connection request /10.10.34.13:44732", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "******* GOODBYE /10.10.34.12:59203 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:44219", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Unexpected exception causing shutdown while sock still open", "label": "Unexpected exception causing shutdown while sock still open", "type": 1}
+{"text": "Expiring session 0x34edfaa9c220022, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:57796", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection request from old client /10.10.34.12:54643; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "FOLLOWING - LEADER ELECTION TOOK - 49", "label": "FOLLOWING - LEADER ELECTION TOOK - <*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:52310", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 1, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Server environment:host.name=mesos-master-1", "label": "Server environment:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:47540", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:56471 (no session established for client)", "label": "Closed socket connection for client <*>:<*> (no session established for client)", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:49218", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:49786", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.12:54237 which had sessionid 0x24edfaa87170035", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.20:49010 which had sessionid 0x24ede63a01b000e", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Expiring session 0x24f4a631df90029, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Received connection request /10.10.34.11:58787", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:57904", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "My election bind port: 0.0.0.0/0.0.0.0:3888", "label": "My election bind port: <*>/<*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Getting a snapshot from leader", "label": "Getting a snapshot from leader", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:50597", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:48612", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:51296", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:37330", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Established session 0x34ee30a5c53002b with negotiated timeout 10000 for client /10.10.34.42:37429", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Expiring session 0x14ee3e057ed002a, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "******* GOODBYE /10.10.34.13:57580 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Received connection request /10.10.34.11:46424", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar", "label": "Server environment:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "******* GOODBYE /10.10.34.12:59406 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.19:33425", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Established session 0x24ed931194200a4 with negotiated timeout 10000 for client /10.10.34.32:39275", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:51260", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:47340", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.13:37229", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:45424", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:47351", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Expiring session 0x34ede65503f005c, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Established session 0x34ed9ac1c1e002e with negotiated timeout 10000 for client /10.10.34.42:39469", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.17:51214 which had sessionid 0x14ede63a5a70053", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:50849", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:43233", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "autopurge.purgeInterval set to 0", "label": "autopurge.purgeInterval set to <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:34266 which had sessionid 0x24f4a631df9000a", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Expiring session 0x14ed93111f20020, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "minSessionTimeout set to -1", "label": "minSessionTimeout set to <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:44842", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.41:54923", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45334", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT", "label": "Server environment:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:59925", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:45275", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.29:39387", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:56830", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:46143", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084", "label": "Reading snapshot <*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.11:45997", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:50224", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:46563", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:47327", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.12:58913", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:60423", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45509", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:49670", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:51393", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection broken for id 3, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Expiring session 0x24ede63a01b0062, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:44925", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:46128", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.12:56270", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:48600", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115", "label": "Client attempting to renew session <*> at <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14edfaa86f6002d", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.21:53818", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:54788", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection request from old client /10.10.34.34:55584; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.12:59235", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.11:53422", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection request from old client /10.10.34.13:50545; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:47287", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:59016", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x34ed9ac1c1e0085", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection request from old client /10.10.34.35:47894; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Received connection request /10.10.34.11:58652", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Expiring session 0x24edfaa87170010, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.13:50253", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.12:54235", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.35:38016", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:59689", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:57889", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:49183", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "LOOKING", "label": "LOOKING", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Client attempting to establish new session at /10.10.34.41:45882", "label": "Client attempting to establish new session at <*>:<*>", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.13:45817 which had sessionid 0x24edfaa87170022", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:45745", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Expiring session 0x14f3fdae8ba000c, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.13:37196", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.12:47258", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.28:37304 which had sessionid 0x24ed9311942004f", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:59513", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:33225", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Processed session termination for sessionid: 0x24ed9311942000c", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:48478", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Expiring session 0x34ed9ac1c1e007f, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "******* GOODBYE /10.10.34.12:59060 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:46519", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:49557 which had sessionid 0x14ed93111f20048", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:49283", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "tickTime set to 2000", "label": "tickTime set to <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "autopurge.purgeInterval set to 0", "label": "autopurge.purgeInterval set to <*>", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.13:44590", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection request from old client /10.10.34.35:48971; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Established session 0x14ed93111f200df with negotiated timeout 10000 for client /10.10.34.13:37467", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Established session 0x14ed93111f2005b with negotiated timeout 10000 for client /10.10.34.28:52117", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection request from old client /10.10.34.30:60436; will be dropped if server is in r-o mode", "label": "Connection request from old client <*>:<*>; will be dropped if server is in r-o mode", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Established session 0x34ed9ac1c1e0036 with negotiated timeout 10000 for client /10.10.34.36:37583", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:54830", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "maxSessionTimeout set to -1", "label": "maxSessionTimeout set to <*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.11:48672", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.11:46812", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:46694", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Expiring session 0x34ed9ac1c1e008f, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "******* GOODBYE /10.10.34.12:59211 ********", "label": "******* GOODBYE <*>:<*> ********", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Cannot open channel to 2 at election address /10.10.34.12:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre", "label": "Server environment:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14f1724a6e8000d", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Notification: 1 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LEADING (my state)", "label": "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)", "type": 1}
+{"text": "Received connection request /10.10.34.11:48000", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:60996", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:47635", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ed93111f20005", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:58635", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:56959", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:49095", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:34051", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 3, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.11:53310 which had sessionid 0x34edfaa9c220012", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Processed session termination for sessionid: 0x24f0557806a0010", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Established session 0x14f4a6318b80022 with negotiated timeout 10000 for client /10.10.34.30:43272", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:45020", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.13:45532", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "FOLLOWING", "label": "FOLLOWING", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.13:42060 which had sessionid 0x34edfaa9c22002d", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.13:44256", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Processed session termination for sessionid: 0x14ede63a5a70023", "label": "Processed session termination for sessionid: <*>", "type": 1}
+{"text": "Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd", "label": "Snapshotting: <*> to <*>", "type": 1}
+{"text": "Cannot open channel to 3 at election address /10.10.34.13:3888", "label": "Cannot open channel to <*> at election address <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Received connection request /10.10.34.13:43730", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.12:56154", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.11:48373", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Received connection request /10.10.34.12:55548", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "caught end of stream exception", "label": "caught end of stream exception", "type": 1}
+{"text": "Closed socket connection for client /10.10.34.15:59330 which had sessionid 0x24f4a631df9001d", "label": "Closed socket connection for client <*>:<*> which had sessionid <*>", "type": 1}
+{"text": "Received connection request /10.10.34.13:44377", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Received connection request /10.10.34.11:47472", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Expiring session 0x34ee30a5c53002a, timeout of 10000ms exceeded", "label": "Expiring session <*>, timeout of <*> exceeded", "type": 1}
+{"text": "Notification time out: 60000", "label": "Notification time out: <*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 1, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Established session 0x34ede65503f0027 with negotiated timeout 10000 for client /10.10.34.12:56359", "label": "Established session <*> with negotiated timeout <*> for client <*>:<*>", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}
+{"text": "Accepted socket connection from /10.10.34.18:40006", "label": "Accepted socket connection from <*>:<*>", "type": 1}
+{"text": "Received connection request /10.10.34.12:57523", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupting SendWorker", "label": "Interrupting SendWorker", "type": 1}
+{"text": "Received connection request /10.10.34.11:46360", "label": "Received connection request <*>:<*>", "type": 1}
+{"text": "Interrupted while waiting for message on queue", "label": "Interrupted while waiting for message on queue", "type": 1}
+{"text": "Send worker leaving thread", "label": "Send worker leaving thread", "type": 1}
+{"text": "Connection broken for id 188978561024, my id = 2, error =", "label": "Connection broken for id <*>, my id = <*>, error =", "type": 1}

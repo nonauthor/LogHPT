@@ -1,0 +1,1001 @@
+,LineId,Month,Date,Time,Level,Component,PID,Content,EventId,EventTemplate
+0,1,Jun,14,15:16:01,combo,sshd(pam_unix),19939.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+1,2,Jun,15,02:04:59,combo,sshd(pam_unix),20893.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+2,3,Jun,15,02:04:59,combo,sshd(pam_unix),20896.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+3,4,Jun,15,02:04:59,combo,sshd(pam_unix),20897.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+4,5,Jun,15,02:04:59,combo,sshd(pam_unix),20898.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+5,6,Jun,15,04:12:42,combo,su(pam_unix),22644.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+6,7,Jun,15,04:12:43,combo,su(pam_unix),22644.0,session closed for user news,E101,session closed for user <*>
+7,8,Jun,15,12:12:34,combo,sshd(pam_unix),23397.0,check pass; user unknown,E27,check pass; user unknown
+8,9,Jun,15,12:12:34,combo,sshd(pam_unix),23397.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+9,10,Jun,15,12:12:34,combo,sshd(pam_unix),23395.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+10,11,Jun,15,12:12:34,combo,sshd(pam_unix),23404.0,check pass; user unknown,E27,check pass; user unknown
+11,12,Jun,15,12:12:34,combo,sshd(pam_unix),23404.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+12,13,Jun,15,12:12:34,combo,sshd(pam_unix),23399.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+13,14,Jun,15,12:12:34,combo,sshd(pam_unix),23406.0,check pass; user unknown,E27,check pass; user unknown
+14,15,Jun,15,12:12:34,combo,sshd(pam_unix),23396.0,check pass; user unknown,E27,check pass; user unknown
+15,16,Jun,15,12:12:34,combo,sshd(pam_unix),23394.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+16,17,Jun,15,12:12:34,combo,sshd(pam_unix),23403.0,check pass; user unknown,E27,check pass; user unknown
+17,18,Jun,15,12:12:34,combo,sshd(pam_unix),23396.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+18,19,Jun,15,12:12:34,combo,sshd(pam_unix),23403.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+19,20,Jun,15,12:12:34,combo,sshd(pam_unix),23412.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+20,21,Jun,15,12:13:19,combo,sshd(pam_unix),23414.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+21,22,Jun,15,12:13:20,combo,sshd(pam_unix),23416.0,check pass; user unknown,E27,check pass; user unknown
+22,23,Jun,15,14:53:32,combo,sshd(pam_unix),23661.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+23,24,Jun,15,14:53:32,combo,sshd(pam_unix),23663.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+24,25,Jun,15,14:53:32,combo,sshd(pam_unix),23664.0,check pass; user unknown,E27,check pass; user unknown
+25,26,Jun,15,14:53:33,combo,sshd(pam_unix),23665.0,check pass; user unknown,E27,check pass; user unknown
+26,27,Jun,15,14:53:34,combo,sshd(pam_unix),23669.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+27,28,Jun,15,14:53:35,combo,sshd(pam_unix),23671.0,check pass; user unknown,E27,check pass; user unknown
+28,29,Jun,15,14:53:35,combo,sshd(pam_unix),23671.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+29,30,Jun,15,14:53:35,combo,sshd(pam_unix),23673.0,check pass; user unknown,E27,check pass; user unknown
+30,31,Jun,15,14:53:35,combo,sshd(pam_unix),23674.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=061092085098.ctinets.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+31,32,Jun,15,14:53:36,combo,sshd(pam_unix),23677.0,check pass; user unknown,E27,check pass; user unknown
+32,33,Jun,15,20:05:31,combo,sshd(pam_unix),24138.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+33,34,Jun,15,20:05:31,combo,sshd(pam_unix),24137.0,check pass; user unknown,E27,check pass; user unknown
+34,35,Jun,15,20:05:31,combo,sshd(pam_unix),24137.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+35,36,Jun,15,20:05:31,combo,sshd(pam_unix),24140.0,check pass; user unknown,E27,check pass; user unknown
+36,37,Jun,15,20:05:31,combo,sshd(pam_unix),24139.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+37,38,Jun,16,04:16:18,combo,su(pam_unix),25548.0,session closed for user news,E101,session closed for user <*>
+38,39,Jun,17,04:03:33,combo,su(pam_unix),27953.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+39,40,Jun,17,04:03:34,combo,su(pam_unix),27953.0,session closed for user cyrus,E101,session closed for user <*>
+40,41,Jun,17,04:09:43,combo,su(pam_unix),29190.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+41,42,Jun,17,04:09:45,combo,su(pam_unix),29190.0,session closed for user news,E101,session closed for user <*>
+42,43,Jun,17,07:07:00,combo,ftpd,29504.0,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005,E29,connection from <*> (<*>) at <*>
+43,44,Jun,17,07:07:00,combo,ftpd,29507.0,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005,E29,connection from <*> (<*>) at <*>
+44,45,Jun,17,07:07:00,combo,ftpd,29505.0,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005,E29,connection from <*> (<*>) at <*>
+45,46,Jun,17,07:07:00,combo,ftpd,29506.0,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005,E29,connection from <*> (<*>) at <*>
+46,47,Jun,17,07:07:04,combo,ftpd,29511.0,connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:04 2005,E29,connection from <*> (<*>) at <*>
+47,48,Jun,17,20:29:26,combo,sshd(pam_unix),30631.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+48,49,Jun,17,20:55:06,combo,ftpd,30755.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005,E29,connection from <*> (<*>) at <*>
+49,50,Jun,17,20:55:06,combo,ftpd,30754.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005,E29,connection from <*> (<*>) at <*>
+50,51,Jun,17,20:55:06,combo,ftpd,30753.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005,E29,connection from <*> (<*>) at <*>
+51,52,Jun,17,20:55:06,combo,ftpd,30756.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005,E29,connection from <*> (<*>) at <*>
+52,53,Jun,17,20:55:06,combo,ftpd,30757.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005,E29,connection from <*> (<*>) at <*>
+53,54,Jun,18,01:30:59,combo,sshd(pam_unix),31201.0,check pass; user unknown,E27,check pass; user unknown
+54,55,Jun,18,01:30:59,combo,sshd(pam_unix),31199.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+55,56,Jun,18,01:30:59,combo,sshd(pam_unix),31198.0,check pass; user unknown,E27,check pass; user unknown
+56,57,Jun,18,01:30:59,combo,sshd(pam_unix),31198.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+57,58,Jun,18,01:30:59,combo,sshd(pam_unix),31205.0,check pass; user unknown,E27,check pass; user unknown
+58,59,Jun,18,01:30:59,combo,sshd(pam_unix),31206.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+59,60,Jun,18,01:30:59,combo,sshd(pam_unix),31204.0,check pass; user unknown,E27,check pass; user unknown
+60,61,Jun,18,01:30:59,combo,sshd(pam_unix),31204.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+61,62,Jun,18,01:30:59,combo,sshd(pam_unix),31207.0,check pass; user unknown,E27,check pass; user unknown
+62,63,Jun,18,02:08:10,combo,ftpd,31273.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005,E29,connection from <*> (<*>) at <*>
+63,64,Jun,18,02:08:10,combo,ftpd,31275.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005,E29,connection from <*> (<*>) at <*>
+64,65,Jun,18,02:08:10,combo,ftpd,31276.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005,E29,connection from <*> (<*>) at <*>
+65,66,Jun,18,02:08:10,combo,ftpd,31278.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005,E29,connection from <*> (<*>) at <*>
+66,67,Jun,18,02:08:11,combo,ftpd,31280.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005,E29,connection from <*> (<*>) at <*>
+67,68,Jun,18,02:08:11,combo,ftpd,31283.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005,E29,connection from <*> (<*>) at <*>
+68,69,Jun,18,02:08:12,combo,ftpd,31284.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005,E29,connection from <*> (<*>) at <*>
+69,70,Jun,18,02:08:12,combo,ftpd,31285.0,connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:12 2005,E29,connection from <*> (<*>) at <*>
+70,71,Jun,18,04:07:06,combo,su(pam_unix),31791.0,session closed for user cyrus,E101,session closed for user <*>
+71,72,Jun,18,04:12:42,combo,su(pam_unix),32164.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+72,73,Jun,18,04:12:43,combo,su(pam_unix),32164.0,session closed for user news,E101,session closed for user <*>
+73,74,Jun,19,04:09:11,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+74,75,Jun,19,04:15:18,combo,su(pam_unix),3676.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+75,76,Jun,20,03:40:59,combo,ftpd,8829.0,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005,E29,connection from <*> (<*>) at <*>
+76,77,Jun,20,03:40:59,combo,ftpd,8824.0,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005,E29,connection from <*> (<*>) at <*>
+77,78,Jun,20,03:40:59,combo,ftpd,8833.0,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005,E29,connection from <*> (<*>) at <*>
+78,79,Jun,20,03:40:59,combo,ftpd,8825.0,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005,E29,connection from <*> (<*>) at <*>
+79,80,Jun,20,03:40:59,combo,ftpd,8830.0,connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005,E29,connection from <*> (<*>) at <*>
+80,81,Jun,20,04:02:55,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+81,82,Jun,20,04:08:38,combo,su(pam_unix),9558.0,session closed for user news,E101,session closed for user <*>
+82,83,Jun,20,09:20:05,combo,sshd(pam_unix),10035.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+83,84,Jun,20,09:20:05,combo,sshd(pam_unix),10039.0,check pass; user unknown,E27,check pass; user unknown
+84,85,Jun,20,09:20:05,combo,sshd(pam_unix),10039.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+85,86,Jun,20,09:20:07,combo,sshd(pam_unix),10043.0,check pass; user unknown,E27,check pass; user unknown
+86,87,Jun,20,09:20:07,combo,sshd(pam_unix),10043.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+87,88,Jun,20,09:20:07,combo,sshd(pam_unix),10047.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+88,89,Jun,20,09:20:07,combo,sshd(pam_unix),10049.0,check pass; user unknown,E27,check pass; user unknown
+89,90,Jun,20,09:20:07,combo,sshd(pam_unix),10049.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+90,91,Jun,20,09:20:08,combo,sshd(pam_unix),10051.0,check pass; user unknown,E27,check pass; user unknown
+91,92,Jun,20,09:20:08,combo,sshd(pam_unix),10051.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+92,93,Jun,21,04:13:03,combo,su(pam_unix),13327.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+93,94,Jun,21,04:13:04,combo,su(pam_unix),13327.0,session closed for user news,E101,session closed for user <*>
+94,95,Jun,21,08:56:36,combo,sshd(pam_unix),14281.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+95,96,Jun,21,08:56:36,combo,sshd(pam_unix),14279.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+96,97,Jun,21,08:56:36,combo,sshd(pam_unix),14282.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+97,98,Jun,21,08:56:36,combo,sshd(pam_unix),14277.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+98,99,Jun,22,03:17:26,combo,sshd(pam_unix),16206.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+99,100,Jun,22,03:17:46,combo,sshd(pam_unix),16219.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+100,101,Jun,22,03:17:56,combo,sshd(pam_unix),16226.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+101,102,Jun,22,03:17:56,combo,sshd(pam_unix),16227.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+102,103,Jun,22,03:18:05,combo,sshd(pam_unix),16232.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+103,104,Jun,22,03:18:06,combo,sshd(pam_unix),16234.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+104,105,Jun,22,03:18:06,combo,sshd(pam_unix),16235.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+105,106,Jun,22,03:18:16,combo,sshd(pam_unix),16244.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+106,107,Jun,22,03:18:20,combo,sshd(pam_unix),16248.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+107,108,Jun,22,04:05:58,combo,su(pam_unix),16663.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+108,109,Jun,22,04:05:59,combo,su(pam_unix),16663.0,session closed for user cyrus,E101,session closed for user <*>
+109,110,Jun,22,04:11:42,combo,su(pam_unix),17037.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+110,111,Jun,22,04:30:55,combo,sshd(pam_unix),17129.0,check pass; user unknown,E27,check pass; user unknown
+111,112,Jun,22,04:30:55,combo,sshd(pam_unix),17125.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+112,113,Jun,22,04:30:55,combo,sshd(pam_unix),17124.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+113,114,Jun,22,04:30:55,combo,sshd(pam_unix),17132.0,check pass; user unknown,E27,check pass; user unknown
+114,115,Jun,22,04:30:55,combo,sshd(pam_unix),17131.0,check pass; user unknown,E27,check pass; user unknown
+115,116,Jun,22,04:30:55,combo,sshd(pam_unix),17135.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+116,117,Jun,22,04:30:55,combo,sshd(pam_unix),17137.0,check pass; user unknown,E27,check pass; user unknown
+117,118,Jun,22,04:30:56,combo,sshd(pam_unix),17139.0,check pass; user unknown,E27,check pass; user unknown
+118,119,Jun,22,13:16:30,combo,ftpd,17887.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+119,120,Jun,22,13:16:30,combo,ftpd,17888.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+120,121,Jun,22,13:16:30,combo,ftpd,17890.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+121,122,Jun,22,13:16:30,combo,ftpd,17893.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+122,123,Jun,22,13:16:30,combo,ftpd,17879.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+123,124,Jun,22,13:16:30,combo,ftpd,17876.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+124,125,Jun,22,13:16:30,combo,ftpd,17881.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:30 2005,E29,connection from <*> (<*>) at <*>
+125,126,Jun,22,13:16:31,combo,ftpd,17885.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005,E29,connection from <*> (<*>) at <*>
+126,127,Jun,22,13:16:31,combo,ftpd,17883.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005,E29,connection from <*> (<*>) at <*>
+127,128,Jun,22,13:16:31,combo,ftpd,17891.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005,E29,connection from <*> (<*>) at <*>
+128,129,Jun,22,13:16:32,combo,ftpd,17894.0,connection from 210.245.165.136 () at Wed Jun 22 13:16:32 2005,E29,connection from <*> (<*>) at <*>
+129,130,Jun,23,01:41:29,combo,sshd(pam_unix),18969.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+130,131,Jun,23,01:41:29,combo,sshd(pam_unix),18971.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+131,132,Jun,23,01:41:29,combo,sshd(pam_unix),18973.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+132,133,Jun,23,01:41:29,combo,sshd(pam_unix),18975.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+133,134,Jun,23,01:41:29,combo,sshd(pam_unix),18977.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+134,135,Jun,23,01:41:30,combo,sshd(pam_unix),18983.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+135,136,Jun,23,01:41:30,combo,sshd(pam_unix),18981.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+136,137,Jun,23,01:41:30,combo,sshd(pam_unix),18976.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+137,138,Jun,23,01:41:32,combo,sshd(pam_unix),18967.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=209.152.168.249  user=guest,E17,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+138,139,Jun,23,02:55:14,combo,sshd(pam_unix),19085.0,check pass; user unknown,E27,check pass; user unknown
+139,140,Jun,23,02:55:14,combo,sshd(pam_unix),19085.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=200.60.37.201,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+140,141,Jun,23,04:05:28,combo,su(pam_unix),19534.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+141,142,Jun,23,23:30:03,combo,sshd(pam_unix),26189.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+142,143,Jun,23,23:30:04,combo,sshd(pam_unix),26193.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.22.3.51  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+143,144,Jun,24,04:05:35,combo,su(pam_unix),26938.0,session closed for user cyrus,E101,session closed for user <*>
+144,145,Jun,24,04:05:35,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+145,146,Jun,24,04:11:12,combo,su(pam_unix),27311.0,session closed for user news,E101,session closed for user <*>
+146,147,Jun,24,18:55:11,combo,ftpd,28568.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005,E29,connection from <*> (<*>) at <*>
+147,148,Jun,24,18:55:11,combo,ftpd,28562.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005,E29,connection from <*> (<*>) at <*>
+148,149,Jun,24,18:55:11,combo,ftpd,28563.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005,E29,connection from <*> (<*>) at <*>
+149,150,Jun,24,18:55:11,combo,ftpd,28565.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005,E29,connection from <*> (<*>) at <*>
+150,151,Jun,24,18:55:11,combo,ftpd,28567.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:11 2005,E29,connection from <*> (<*>) at <*>
+151,152,Jun,24,18:55:18,combo,ftpd,28570.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005,E29,connection from <*> (<*>) at <*>
+152,153,Jun,24,18:55:18,combo,ftpd,28573.0,connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005,E29,connection from <*> (<*>) at <*>
+153,154,Jun,25,04:04:26,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+154,155,Jun,25,04:10:34,combo,su(pam_unix),30934.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+155,156,Jun,25,04:10:35,combo,su(pam_unix),30934.0,session closed for user news,E101,session closed for user <*>
+156,157,Jun,25,04:41:49,combo,sshd(pam_unix),31034.0,check pass; user unknown,E27,check pass; user unknown
+157,158,Jun,25,04:41:51,combo,sshd(pam_unix),31025.0,check pass; user unknown,E27,check pass; user unknown
+158,159,Jun,25,04:41:51,combo,sshd(pam_unix),31025.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+159,160,Jun,25,04:41:51,combo,sshd(pam_unix),31028.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+160,161,Jun,25,04:41:51,combo,sshd(pam_unix),31020.0,check pass; user unknown,E27,check pass; user unknown
+161,162,Jun,25,04:41:51,combo,sshd(pam_unix),31020.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+162,163,Jun,25,04:41:51,combo,sshd(pam_unix),31027.0,check pass; user unknown,E27,check pass; user unknown
+163,164,Jun,25,04:41:51,combo,sshd(pam_unix),31027.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+164,165,Jun,25,04:41:51,combo,sshd(pam_unix),31021.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+165,166,Jun,25,09:20:24,combo,ftpd,31475.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+166,167,Jun,25,09:20:24,combo,ftpd,31474.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+167,168,Jun,25,09:20:24,combo,ftpd,31468.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+168,169,Jun,25,09:20:24,combo,ftpd,31463.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+169,170,Jun,25,09:20:24,combo,ftpd,31466.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+170,171,Jun,25,09:20:24,combo,ftpd,31460.0,connection from 210.118.170.95 () at Sat Jun 25 09:20:24 2005,E29,connection from <*> (<*>) at <*>
+171,172,Jun,25,19:25:30,combo,ftpd,32328.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005,E29,connection from <*> (<*>) at <*>
+172,173,Jun,25,19:25:30,combo,ftpd,32329.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005,E29,connection from <*> (<*>) at <*>
+173,174,Jun,25,19:25:30,combo,ftpd,32323.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005,E29,connection from <*> (<*>) at <*>
+174,175,Jun,25,19:25:30,combo,ftpd,32327.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005,E29,connection from <*> (<*>) at <*>
+175,176,Jun,25,19:25:30,combo,ftpd,32331.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005,E29,connection from <*> (<*>) at <*>
+176,177,Jun,25,19:25:31,combo,ftpd,32333.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:31 2005,E29,connection from <*> (<*>) at <*>
+177,178,Jun,25,19:25:34,combo,ftpd,32335.0,connection from 211.167.68.59 () at Sat Jun 25 19:25:34 2005,E29,connection from <*> (<*>) at <*>
+178,179,Jun,26,04:04:17,combo,su(pam_unix),945.0,session closed for user cyrus,E101,session closed for user <*>
+179,180,Jun,26,04:04:19,combo,cups,,cupsd shutdown succeeded,E37,cupsd shutdown succeeded
+180,181,Jun,26,04:04:24,combo,cups,,cupsd startup succeeded,E38,cupsd startup succeeded
+181,182,Jun,26,04:10:02,combo,su(pam_unix),1546.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+182,183,Jun,26,04:10:04,combo,su(pam_unix),1546.0,session closed for user news,E101,session closed for user <*>
+183,184,Jun,27,04:02:47,combo,su(pam_unix),7031.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+184,185,Jun,27,04:02:49,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+185,186,Jun,27,08:05:37,combo,sshd(pam_unix),8660.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+186,187,Jun,27,08:05:39,combo,sshd(pam_unix),8662.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+187,188,Jun,28,04:03:17,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+188,189,Jun,28,04:09:01,combo,su(pam_unix),11106.0,session closed for user news,E101,session closed for user <*>
+189,190,Jun,28,08:10:24,combo,sshd(pam_unix),11513.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+190,191,Jun,28,08:10:24,combo,sshd(pam_unix),11517.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+191,192,Jun,28,08:10:24,combo,sshd(pam_unix),11521.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+192,193,Jun,28,08:10:24,combo,sshd(pam_unix),11510.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+193,194,Jun,28,08:10:25,combo,sshd(pam_unix),11519.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+194,195,Jun,28,08:10:28,combo,sshd(pam_unix),11512.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+195,196,Jun,28,08:10:29,combo,sshd(pam_unix),11509.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+196,197,Jun,28,20:58:47,combo,sshd(pam_unix),12669.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+197,198,Jun,28,20:58:52,combo,sshd(pam_unix),12673.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+198,199,Jun,28,20:58:53,combo,sshd(pam_unix),12677.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+199,200,Jun,28,20:58:55,combo,sshd(pam_unix),12679.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+200,201,Jun,28,20:58:55,combo,sshd(pam_unix),12680.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+201,202,Jun,28,21:42:46,combo,sshd(pam_unix),12756.0,check pass; user unknown,E27,check pass; user unknown
+202,203,Jun,28,21:42:46,combo,sshd(pam_unix),12756.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+203,204,Jun,28,21:42:46,combo,sshd(pam_unix),12753.0,check pass; user unknown,E27,check pass; user unknown
+204,205,Jun,28,21:42:46,combo,sshd(pam_unix),12752.0,check pass; user unknown,E27,check pass; user unknown
+205,206,Jun,28,21:42:46,combo,sshd(pam_unix),12752.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+206,207,Jun,28,21:42:46,combo,sshd(pam_unix),12755.0,check pass; user unknown,E27,check pass; user unknown
+207,208,Jun,28,21:42:46,combo,sshd(pam_unix),12754.0,check pass; user unknown,E27,check pass; user unknown
+208,209,Jun,28,21:42:46,combo,sshd(pam_unix),12754.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.115.206.155,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+209,210,Jun,29,03:22:22,combo,ftpd,13262.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+210,211,Jun,29,03:22:22,combo,ftpd,13252.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+211,212,Jun,29,03:22:22,combo,ftpd,13260.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+212,213,Jun,29,03:22:22,combo,ftpd,13259.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+213,214,Jun,29,03:22:22,combo,ftpd,13254.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+214,215,Jun,29,03:22:22,combo,ftpd,13264.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+215,216,Jun,29,03:22:22,combo,ftpd,13251.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+216,217,Jun,29,03:22:22,combo,ftpd,13245.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+217,218,Jun,29,03:22:22,combo,ftpd,13246.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+218,219,Jun,29,03:22:22,combo,ftpd,13244.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:22 2005,E29,connection from <*> (<*>) at <*>
+219,220,Jun,29,03:22:23,combo,ftpd,13265.0,connection from 61.74.96.178 () at Wed Jun 29 03:22:23 2005,E29,connection from <*> (<*>) at <*>
+220,221,Jun,29,04:03:11,combo,su(pam_unix),13665.0,session closed for user cyrus,E101,session closed for user <*>
+221,222,Jun,29,10:08:19,combo,sshd(pam_unix),15478.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+222,223,Jun,29,10:08:20,combo,sshd(pam_unix),15490.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+223,224,Jun,29,10:08:20,combo,sshd(pam_unix),15491.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+224,225,Jun,29,10:08:20,combo,sshd(pam_unix),15492.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=csnsu.nsuok.edu  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+225,226,Jun,29,10:48:01,combo,ftpd,15547.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,E29,connection from <*> (<*>) at <*>
+226,227,Jun,29,10:48:01,combo,ftpd,15543.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,E29,connection from <*> (<*>) at <*>
+227,228,Jun,29,10:48:01,combo,ftpd,15544.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:01 2005,E29,connection from <*> (<*>) at <*>
+228,229,Jun,29,10:48:05,combo,ftpd,15548.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:05 2005,E29,connection from <*> (<*>) at <*>
+229,230,Jun,29,10:48:06,combo,ftpd,15550.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005,E29,connection from <*> (<*>) at <*>
+230,231,Jun,29,10:48:08,combo,ftpd,15552.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005,E29,connection from <*> (<*>) at <*>
+231,232,Jun,29,10:48:08,combo,ftpd,15553.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005,E29,connection from <*> (<*>) at <*>
+232,233,Jun,29,10:48:10,combo,ftpd,15555.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:10 2005,E29,connection from <*> (<*>) at <*>
+233,234,Jun,29,10:48:12,combo,ftpd,15556.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:12 2005,E29,connection from <*> (<*>) at <*>
+234,235,Jun,29,10:48:13,combo,ftpd,15558.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:13 2005,E29,connection from <*> (<*>) at <*>
+235,236,Jun,29,10:48:15,combo,ftpd,15559.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:15 2005,E29,connection from <*> (<*>) at <*>
+236,237,Jun,29,10:48:17,combo,ftpd,15560.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:17 2005,E29,connection from <*> (<*>) at <*>
+237,238,Jun,29,10:48:18,combo,ftpd,15562.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:18 2005,E29,connection from <*> (<*>) at <*>
+238,239,Jun,29,10:48:20,combo,ftpd,15563.0,connection from 208.62.55.75 () at Wed Jun 29 10:48:20 2005,E29,connection from <*> (<*>) at <*>
+239,240,Jun,29,12:11:57,combo,sshd(pam_unix),15696.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+240,241,Jun,29,12:11:59,combo,sshd(pam_unix),15698.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+241,242,Jun,29,12:12:01,combo,sshd(pam_unix),15702.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+242,243,Jun,29,12:12:03,combo,sshd(pam_unix),15706.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+243,244,Jun,29,12:12:05,combo,sshd(pam_unix),15712.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+244,245,Jun,29,12:12:06,combo,sshd(pam_unix),15714.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=h64-187-1-131.gtconnect.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+245,246,Jun,29,14:44:35,combo,ftpd,15917.0,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005,E29,connection from <*> (<*>) at <*>
+246,247,Jun,29,14:44:35,combo,ftpd,15922.0,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005,E29,connection from <*> (<*>) at <*>
+247,248,Jun,29,14:44:35,combo,ftpd,15918.0,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005,E29,connection from <*> (<*>) at <*>
+248,249,Jun,29,14:44:35,combo,ftpd,15920.0,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005,E29,connection from <*> (<*>) at <*>
+249,250,Jun,29,14:44:35,combo,ftpd,15921.0,connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005,E29,connection from <*> (<*>) at <*>
+250,251,Jun,30,04:03:41,combo,su(pam_unix),17407.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+251,252,Jun,30,04:03:42,combo,su(pam_unix),17407.0,session closed for user cyrus,E101,session closed for user <*>
+252,253,Jun,30,04:09:30,combo,su(pam_unix),17778.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+253,254,Jun,30,04:09:31,combo,su(pam_unix),17778.0,session closed for user news,E101,session closed for user <*>
+254,255,Jun,30,12:48:38,combo,sshd(pam_unix),18559.0,check pass; user unknown,E27,check pass; user unknown
+255,256,Jun,30,12:48:38,combo,sshd(pam_unix),18559.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+256,257,Jun,30,12:48:41,combo,sshd(pam_unix),18557.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+257,258,Jun,30,12:48:41,combo,sshd(pam_unix),18547.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+258,259,Jun,30,12:48:41,combo,sshd(pam_unix),18549.0,check pass; user unknown,E27,check pass; user unknown
+259,260,Jun,30,12:48:41,combo,sshd(pam_unix),18545.0,check pass; user unknown,E27,check pass; user unknown
+260,261,Jun,30,12:48:41,combo,sshd(pam_unix),18545.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+261,262,Jun,30,12:48:41,combo,sshd(pam_unix),18548.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+262,263,Jun,30,19:03:00,combo,sshd(pam_unix),19088.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+263,264,Jun,30,19:03:00,combo,sshd(pam_unix),19094.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+264,265,Jun,30,19:03:00,combo,sshd(pam_unix),19087.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+265,266,Jun,30,19:03:03,combo,sshd(pam_unix),19091.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+266,267,Jun,30,19:03:04,combo,sshd(pam_unix),19101.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+267,268,Jun,30,19:03:05,combo,sshd(pam_unix),19103.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+268,269,Jun,30,20:16:17,combo,sshd(pam_unix),19202.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+269,270,Jun,30,20:16:17,combo,sshd(pam_unix),19203.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+270,271,Jun,30,20:16:26,combo,sshd(pam_unix),19209.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+271,272,Jun,30,20:16:26,combo,sshd(pam_unix),19208.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+272,273,Jun,30,20:53:04,combo,klogind,19272.0,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,E13,Authentication failed from <*>: Permission denied in replay cache code
+273,274,Jun,30,20:53:04,combo,klogind,19287.0,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,E13,Authentication failed from <*>: Permission denied in replay cache code
+274,275,Jun,30,20:53:04,combo,klogind,19287.0,Kerberos authentication failed,E61,Kerberos authentication failed
+275,276,Jun,30,20:53:04,combo,klogind,19286.0,Kerberos authentication failed,E61,Kerberos authentication failed
+276,277,Jun,30,20:53:04,combo,klogind,19271.0,Kerberos authentication failed,E61,Kerberos authentication failed
+277,278,Jun,30,20:53:04,combo,klogind,19270.0,Kerberos authentication failed,E61,Kerberos authentication failed
+278,279,Jun,30,20:53:04,combo,klogind,19269.0,Kerberos authentication failed,E61,Kerberos authentication failed
+279,280,Jun,30,20:53:04,combo,klogind,19288.0,Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code,E13,Authentication failed from <*>: Permission denied in replay cache code
+280,281,Jun,30,20:53:04,combo,klogind,19274.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+281,282,Jun,30,20:53:04,combo,klogind,19268.0,Kerberos authentication failed,E61,Kerberos authentication failed
+282,283,Jun,30,20:53:04,combo,klogind,19288.0,Kerberos authentication failed,E61,Kerberos authentication failed
+283,284,Jun,30,20:53:04,combo,klogind,19274.0,Kerberos authentication failed,E61,Kerberos authentication failed
+284,285,Jun,30,20:53:06,combo,klogind,19266.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+285,286,Jun,30,20:53:06,combo,klogind,19278.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+286,287,Jun,30,20:53:06,combo,klogind,19278.0,Kerberos authentication failed,E61,Kerberos authentication failed
+287,288,Jun,30,20:53:06,combo,klogind,19273.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+288,289,Jun,30,20:53:06,combo,klogind,19273.0,Kerberos authentication failed,E61,Kerberos authentication failed
+289,290,Jun,30,20:53:06,combo,klogind,19276.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+290,291,Jun,30,20:53:06,combo,klogind,19275.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+291,292,Jun,30,20:53:06,combo,klogind,19279.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+292,293,Jun,30,20:53:06,combo,klogind,19282.0,Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort,E14,Authentication failed from <*>: Software caused connection abort
+293,294,Jun,30,20:53:06,combo,klogind,19280.0,Kerberos authentication failed,E61,Kerberos authentication failed
+294,295,Jun,30,20:53:06,combo,klogind,19282.0,Kerberos authentication failed,E61,Kerberos authentication failed
+295,296,Jun,30,20:53:06,combo,klogind,19283.0,Kerberos authentication failed,E61,Kerberos authentication failed
+296,297,Jun,30,20:53:06,combo,klogind,19285.0,Kerberos authentication failed,E61,Kerberos authentication failed
+297,298,Jun,30,20:53:06,combo,klogind,19284.0,Kerberos authentication failed,E61,Kerberos authentication failed
+298,299,Jun,30,22:16:32,combo,sshd(pam_unix),19432.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+299,300,Jun,30,22:16:32,combo,sshd(pam_unix),19435.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+300,301,Jun,30,22:16:32,combo,sshd(pam_unix),19432.0,session closed for user test,E101,session closed for user <*>
+301,302,Jun,30,22:16:32,combo,sshd(pam_unix),19431.0,session closed for user test,E101,session closed for user <*>
+302,303,Jun,30,22:16:32,combo,sshd(pam_unix),19439.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+303,304,Jun,30,22:16:32,combo,sshd(pam_unix),19440.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+304,305,Jun,30,22:16:32,combo,sshd(pam_unix),19434.0,session closed for user test,E101,session closed for user <*>
+305,306,Jun,30,22:16:33,combo,sshd(pam_unix),19436.0,session closed for user test,E101,session closed for user <*>
+306,307,Jun,30,22:16:33,combo,sshd(pam_unix),19440.0,session closed for user test,E101,session closed for user <*>
+307,308,Jul,1,00:21:28,combo,sshd(pam_unix),19630.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+308,309,Jul,1,00:21:28,combo,sshd(pam_unix),19628.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+309,310,Jul,1,00:21:30,combo,sshd(pam_unix),19640.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+310,311,Jul,1,00:21:31,combo,sshd(pam_unix),19643.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+311,312,Jul,1,00:21:32,combo,sshd(pam_unix),19636.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+312,313,Jul,1,00:21:32,combo,sshd(pam_unix),19645.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+313,314,Jul,1,00:21:35,combo,sshd(pam_unix),19637.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+314,315,Jul,1,04:05:19,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+315,316,Jul,1,05:02:26,combo,sshd(pam_unix),21689.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+316,317,Jul,1,05:02:26,combo,sshd(pam_unix),21689.0,session closed for user test,E101,session closed for user <*>
+317,318,Jul,1,05:02:27,combo,sshd(pam_unix),21693.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+318,319,Jul,1,05:02:27,combo,sshd(pam_unix),21693.0,session closed for user test,E101,session closed for user <*>
+319,320,Jul,1,07:57:30,combo,ftpd,21957.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+320,321,Jul,1,07:57:30,combo,ftpd,21953.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+321,322,Jul,1,07:57:30,combo,ftpd,21954.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+322,323,Jul,1,07:57:30,combo,ftpd,21950.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+323,324,Jul,1,07:57:30,combo,ftpd,21959.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+324,325,Jul,1,07:57:30,combo,ftpd,21937.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+325,326,Jul,1,07:57:30,combo,ftpd,21943.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+326,327,Jul,1,07:57:30,combo,ftpd,21944.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+327,328,Jul,1,07:57:30,combo,ftpd,21947.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+328,329,Jul,1,07:57:30,combo,ftpd,21942.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+329,330,Jul,1,07:57:30,combo,ftpd,21949.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+330,331,Jul,1,07:57:30,combo,ftpd,21939.0,connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005,E29,connection from <*> (<*>) at <*>
+331,332,Jul,1,09:14:44,combo,sshd(pam_unix),22106.0,session closed for user test,E101,session closed for user <*>
+332,333,Jul,1,09:14:44,combo,sshd(pam_unix),22112.0,session closed for user test,E101,session closed for user <*>
+333,334,Jul,1,10:56:41,combo,sshd(pam_unix),22272.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+334,335,Jul,1,10:56:41,combo,sshd(pam_unix),22277.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+335,336,Jul,1,10:56:42,combo,sshd(pam_unix),22273.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+336,337,Jul,1,10:56:42,combo,sshd(pam_unix),22270.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=195.129.24.210  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+337,338,Jul,2,01:41:32,combo,sshd(pam_unix),23534.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+338,339,Jul,2,01:41:32,combo,sshd(pam_unix),23536.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+339,340,Jul,2,01:41:32,combo,sshd(pam_unix),23536.0,session closed for user test,E101,session closed for user <*>
+340,341,Jul,2,01:41:33,combo,sshd(pam_unix),23544.0,session closed for user test,E101,session closed for user <*>
+341,342,Jul,2,01:41:33,combo,sshd(pam_unix),23545.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+342,343,Jul,2,01:41:33,combo,sshd(pam_unix),23546.0,session closed for user test,E101,session closed for user <*>
+343,344,Jul,2,01:41:33,combo,sshd(pam_unix),23547.0,session closed for user test,E101,session closed for user <*>
+344,345,Jul,2,04:04:02,combo,su(pam_unix),24117.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+345,346,Jul,2,04:04:03,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+346,347,Jul,2,04:09:54,combo,su(pam_unix),24511.0,session closed for user news,E101,session closed for user <*>
+347,348,Jul,2,04:15:33,combo,sshd(pam_unix),24587.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+348,349,Jul,2,04:15:43,combo,sshd(pam_unix),24573.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+349,350,Jul,2,04:15:43,combo,sshd(pam_unix),24574.0,check pass; user unknown,E27,check pass; user unknown
+350,351,Jul,2,04:15:43,combo,sshd(pam_unix),24574.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+351,352,Jul,2,04:15:43,combo,sshd(pam_unix),24576.0,check pass; user unknown,E27,check pass; user unknown
+352,353,Jul,2,04:15:43,combo,sshd(pam_unix),24576.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+353,354,Jul,2,04:15:43,combo,sshd(pam_unix),24578.0,check pass; user unknown,E27,check pass; user unknown
+354,355,Jul,2,04:15:43,combo,sshd(pam_unix),24578.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=zummit.com,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+355,356,Jul,2,04:15:43,combo,sshd(pam_unix),24579.0,check pass; user unknown,E27,check pass; user unknown
+356,357,Jul,2,04:15:43,combo,sshd(pam_unix),24583.0,check pass; user unknown,E27,check pass; user unknown
+357,358,Jul,3,04:07:48,combo,su(pam_unix),26964.0,session closed for user cyrus,E101,session closed for user <*>
+358,359,Jul,3,04:07:49,combo,cups,,cupsd shutdown succeeded,E37,cupsd shutdown succeeded
+359,360,Jul,3,04:07:55,combo,cups,,cupsd startup succeeded,E38,cupsd startup succeeded
+360,361,Jul,3,04:08:03,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+361,362,Jul,3,04:14:01,combo,su(pam_unix),28416.0,session closed for user news,E101,session closed for user <*>
+362,363,Jul,3,10:05:25,combo,ftpd,32067.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+363,364,Jul,3,10:05:25,combo,ftpd,32070.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+364,365,Jul,3,10:05:25,combo,ftpd,32053.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+365,366,Jul,3,10:05:25,combo,ftpd,32068.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+366,367,Jul,3,10:05:25,combo,ftpd,32071.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+367,368,Jul,3,10:05:25,combo,ftpd,32051.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+368,369,Jul,3,10:05:25,combo,ftpd,32050.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+369,370,Jul,3,10:05:25,combo,ftpd,32056.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+370,371,Jul,3,10:05:25,combo,ftpd,32055.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+371,372,Jul,3,10:05:25,combo,ftpd,32054.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005,E29,connection from <*> (<*>) at <*>
+372,373,Jul,3,23:16:09,combo,ftpd,768.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+373,374,Jul,3,23:16:09,combo,ftpd,772.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+374,375,Jul,3,23:16:09,combo,ftpd,767.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+375,376,Jul,3,23:16:09,combo,ftpd,766.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+376,377,Jul,3,23:16:09,combo,ftpd,770.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+377,378,Jul,3,23:16:09,combo,ftpd,757.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+378,379,Jul,3,23:16:09,combo,ftpd,763.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+379,380,Jul,3,23:16:09,combo,ftpd,758.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+380,381,Jul,3,23:16:09,combo,ftpd,773.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+381,382,Jul,3,23:16:09,combo,ftpd,760.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+382,383,Jul,3,23:16:09,combo,ftpd,775.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+383,384,Jul,3,23:16:09,combo,ftpd,777.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+384,385,Jul,3,23:16:09,combo,ftpd,778.0,connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005,E29,connection from <*> (<*>) at <*>
+385,386,Jul,4,04:03:07,combo,su(pam_unix),1583.0,session closed for user cyrus,E101,session closed for user <*>
+386,387,Jul,4,09:33:09,combo,sshd(pam_unix),2543.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+387,388,Jul,4,09:33:14,combo,sshd(pam_unix),2547.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.76.59.29  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+388,389,Jul,4,12:52:44,combo,ftpd,2841.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+389,390,Jul,4,12:52:44,combo,ftpd,2840.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+390,391,Jul,4,12:52:44,combo,ftpd,2829.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+391,392,Jul,4,12:52:44,combo,ftpd,2830.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+392,393,Jul,4,12:52:44,combo,ftpd,2837.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+393,394,Jul,4,12:52:44,combo,ftpd,2834.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+394,395,Jul,4,12:52:44,combo,ftpd,2836.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+395,396,Jul,4,12:52:44,combo,ftpd,2821.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+396,397,Jul,4,12:52:44,combo,ftpd,2827.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+397,398,Jul,4,12:52:44,combo,ftpd,2823.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+398,399,Jul,4,12:52:44,combo,ftpd,2825.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+399,400,Jul,4,12:52:44,combo,ftpd,2842.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+400,401,Jul,4,12:52:44,combo,ftpd,2843.0,connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005,E29,connection from <*> (<*>) at <*>
+401,402,Jul,4,19:15:49,combo,sshd(pam_unix),3382.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+402,403,Jul,4,19:15:51,combo,sshd(pam_unix),3384.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+403,404,Jul,4,19:15:51,combo,sshd(pam_unix),3386.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+404,405,Jul,4,19:15:52,combo,sshd(pam_unix),3388.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+405,406,Jul,4,19:15:54,combo,sshd(pam_unix),3390.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+406,407,Jul,4,19:15:54,combo,sshd(pam_unix),3391.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+407,408,Jul,4,19:15:57,combo,sshd(pam_unix),3394.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+408,409,Jul,4,19:16:00,combo,sshd(pam_unix),3399.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+409,410,Jul,4,19:16:01,combo,sshd(pam_unix),3402.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220.117.241.87  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+410,411,Jul,5,04:03:17,combo,su(pam_unix),4474.0,session closed for user cyrus,E101,session closed for user <*>
+411,412,Jul,5,04:09:29,combo,su(pam_unix),5699.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+412,413,Jul,5,04:09:30,combo,su(pam_unix),5699.0,session closed for user news,E101,session closed for user <*>
+413,414,Jul,5,13:36:28,combo,sshd(pam_unix),6552.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+414,415,Jul,5,13:36:28,combo,sshd(pam_unix),6554.0,check pass; user unknown,E27,check pass; user unknown
+415,416,Jul,5,13:36:33,combo,sshd(pam_unix),6556.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=210.229.150.228,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+416,417,Jul,5,13:52:21,combo,ftpd,6580.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005,E29,connection from <*> (<*>) at <*>
+417,418,Jul,5,13:52:21,combo,ftpd,6591.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005,E29,connection from <*> (<*>) at <*>
+418,419,Jul,5,13:52:21,combo,ftpd,6587.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005,E29,connection from <*> (<*>) at <*>
+419,420,Jul,5,13:52:23,combo,ftpd,6595.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005,E29,connection from <*> (<*>) at <*>
+420,421,Jul,5,13:52:23,combo,ftpd,6596.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005,E29,connection from <*> (<*>) at <*>
+421,422,Jul,5,13:52:23,combo,ftpd,6598.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005,E29,connection from <*> (<*>) at <*>
+422,423,Jul,5,13:52:23,combo,ftpd,6602.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005,E29,connection from <*> (<*>) at <*>
+423,424,Jul,5,13:52:23,combo,ftpd,6599.0,connection from 211.72.2.106 () at Tue Jul  5 13:52:23 2005,E29,connection from <*> (<*>) at <*>
+424,425,Jul,6,02:22:32,combo,sshd(pam_unix),7702.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+425,426,Jul,6,02:22:32,combo,sshd(pam_unix),7697.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+426,427,Jul,6,02:22:32,combo,sshd(pam_unix),7696.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+427,428,Jul,6,02:22:33,combo,sshd(pam_unix),7704.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.16.122.48  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+428,429,Jul,6,04:03:09,combo,su(pam_unix),8195.0,session closed for user cyrus,E101,session closed for user <*>
+429,430,Jul,6,18:00:56,combo,ftpd,9773.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+430,431,Jul,6,18:00:56,combo,ftpd,9777.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+431,432,Jul,6,18:00:56,combo,ftpd,9775.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+432,433,Jul,6,18:00:56,combo,ftpd,9769.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+433,434,Jul,6,18:00:56,combo,ftpd,9776.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+434,435,Jul,6,18:00:56,combo,ftpd,9771.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+435,436,Jul,6,18:00:56,combo,ftpd,9770.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+436,437,Jul,6,18:00:56,combo,ftpd,9765.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+437,438,Jul,6,18:00:56,combo,ftpd,9757.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+438,439,Jul,6,18:00:56,combo,ftpd,9762.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:56 2005,E29,connection from <*> (<*>) at <*>
+439,440,Jul,6,18:00:57,combo,ftpd,9779.0,connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005,E29,connection from <*> (<*>) at <*>
+440,441,Jul,7,04:04:31,combo,su(pam_unix),10961.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+441,442,Jul,7,04:04:33,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+442,443,Jul,7,04:10:44,combo,su(pam_unix),12193.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+443,444,Jul,7,07:18:12,combo,sshd(pam_unix),12518.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+444,445,Jul,7,07:18:12,combo,sshd(pam_unix),12518.0,session closed for user test,E101,session closed for user <*>
+445,446,Jul,7,07:18:12,combo,sshd(pam_unix),12519.0,session closed for user test,E101,session closed for user <*>
+446,447,Jul,7,07:18:13,combo,sshd(pam_unix),12527.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+447,448,Jul,7,07:18:14,combo,sshd(pam_unix),12525.0,session closed for user test,E101,session closed for user <*>
+448,449,Jul,7,08:09:11,combo,udev,12754.0,removing device node '/udev/vcsa2',E89,removing device node '<*>'
+449,450,Jul,7,08:09:11,combo,udev,12753.0,removing device node '/udev/vcs2',E89,removing device node '<*>'
+450,451,Jul,7,08:09:11,combo,udev,12778.0,creating device node '/udev/vcsa2',E36,creating device node '<*>'
+451,452,Jul,7,08:09:11,combo,udev,12795.0,creating device node '/udev/vcs2',E36,creating device node '<*>'
+452,453,Jul,7,14:18:57,combo,sshd(pam_unix),13321.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+453,454,Jul,7,14:18:58,combo,sshd(pam_unix),13318.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+454,455,Jul,7,14:18:59,combo,sshd(pam_unix),13323.0,check pass; user unknown,E27,check pass; user unknown
+455,456,Jul,7,16:33:52,combo,ftpd,13521.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+456,457,Jul,7,16:33:52,combo,ftpd,13513.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+457,458,Jul,7,16:33:52,combo,ftpd,13511.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+458,459,Jul,7,16:33:52,combo,ftpd,13516.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+459,460,Jul,7,16:33:52,combo,ftpd,13522.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+460,461,Jul,7,16:33:52,combo,ftpd,13517.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+461,462,Jul,7,16:33:52,combo,ftpd,13519.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+462,463,Jul,7,16:33:52,combo,ftpd,13514.0,connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005,E29,connection from <*> (<*>) at <*>
+463,464,Jul,7,23:09:45,combo,ftpd,14105.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+464,465,Jul,7,23:09:45,combo,ftpd,14103.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+465,466,Jul,7,23:09:45,combo,ftpd,14107.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+466,467,Jul,7,23:09:45,combo,ftpd,14104.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+467,468,Jul,7,23:09:45,combo,ftpd,14108.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+468,469,Jul,7,23:09:45,combo,ftpd,14109.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+469,470,Jul,7,23:09:45,combo,ftpd,14112.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+470,471,Jul,7,23:09:45,combo,ftpd,14116.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+471,472,Jul,7,23:09:45,combo,ftpd,14117.0,connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005,E29,connection from <*> (<*>) at <*>
+472,473,Jul,8,04:04:19,combo,su(pam_unix),14943.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+473,474,Jul,8,04:04:20,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+474,475,Jul,8,20:14:56,combo,sshd(pam_unix),20964.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test,E19,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+475,476,Jul,9,04:04:24,combo,su(pam_unix),21991.0,session closed for user cyrus,E101,session closed for user <*>
+476,477,Jul,9,04:10:11,combo,su(pam_unix),22368.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+477,478,Jul,9,04:10:12,combo,su(pam_unix),22368.0,session closed for user news,E101,session closed for user <*>
+478,479,Jul,9,11:35:59,combo,ftpd,23031.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+479,480,Jul,9,11:35:59,combo,ftpd,23035.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+480,481,Jul,9,11:35:59,combo,ftpd,23029.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+481,482,Jul,9,11:35:59,combo,ftpd,23036.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+482,483,Jul,9,11:35:59,combo,ftpd,23046.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+483,484,Jul,9,11:35:59,combo,ftpd,23048.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+484,485,Jul,9,11:35:59,combo,ftpd,23040.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+485,486,Jul,9,11:35:59,combo,ftpd,23041.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+486,487,Jul,9,11:35:59,combo,ftpd,23047.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+487,488,Jul,9,11:35:59,combo,ftpd,23033.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+488,489,Jul,9,11:35:59,combo,ftpd,23042.0,connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005,E29,connection from <*> (<*>) at <*>
+489,490,Jul,9,12:16:49,combo,ftpd,23140.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005,E29,connection from <*> (<*>) at <*>
+490,491,Jul,9,12:16:49,combo,ftpd,23143.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005,E29,connection from <*> (<*>) at <*>
+491,492,Jul,9,12:16:49,combo,ftpd,23145.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005,E29,connection from <*> (<*>) at <*>
+492,493,Jul,9,12:16:49,combo,ftpd,23146.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005,E29,connection from <*> (<*>) at <*>
+493,494,Jul,9,12:16:49,combo,ftpd,23148.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:49 2005,E29,connection from <*> (<*>) at <*>
+494,495,Jul,9,12:16:51,combo,ftpd,23151.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005,E29,connection from <*> (<*>) at <*>
+495,496,Jul,9,12:16:51,combo,ftpd,23152.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005,E29,connection from <*> (<*>) at <*>
+496,497,Jul,9,12:16:51,combo,ftpd,23153.0,connection from 211.167.68.59 () at Sat Jul  9 12:16:51 2005,E29,connection from <*> (<*>) at <*>
+497,498,Jul,9,12:59:44,combo,ftpd,23215.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+498,499,Jul,9,12:59:44,combo,ftpd,23205.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+499,500,Jul,9,12:59:44,combo,ftpd,23208.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+500,501,Jul,9,12:59:44,combo,ftpd,23209.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+501,502,Jul,9,12:59:44,combo,ftpd,23210.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+502,503,Jul,9,12:59:44,combo,ftpd,23211.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+503,504,Jul,9,12:59:44,combo,ftpd,23220.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:44 2005,E29,connection from <*> (<*>) at <*>
+504,505,Jul,9,12:59:45,combo,ftpd,23222.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005,E29,connection from <*> (<*>) at <*>
+505,506,Jul,9,12:59:45,combo,ftpd,23223.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005,E29,connection from <*> (<*>) at <*>
+506,507,Jul,9,12:59:45,combo,ftpd,23225.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005,E29,connection from <*> (<*>) at <*>
+507,508,Jul,9,12:59:45,combo,ftpd,23226.0,connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005,E29,connection from <*> (<*>) at <*>
+508,509,Jul,9,19:34:06,combo,sshd(pam_unix),23781.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+509,510,Jul,9,19:34:06,combo,sshd(pam_unix),23784.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+510,511,Jul,9,19:34:07,combo,sshd(pam_unix),23786.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+511,512,Jul,9,19:34:09,combo,sshd(pam_unix),23788.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+512,513,Jul,9,19:34:10,combo,sshd(pam_unix),23792.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+513,514,Jul,9,22:53:19,combo,ftpd,24089.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005,E29,connection from <*> (<*>) at <*>
+514,515,Jul,9,22:53:19,combo,ftpd,24090.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005,E29,connection from <*> (<*>) at <*>
+515,516,Jul,9,22:53:19,combo,ftpd,24091.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:19 2005,E29,connection from <*> (<*>) at <*>
+516,517,Jul,9,22:53:22,combo,ftpd,24077.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+517,518,Jul,9,22:53:22,combo,ftpd,24086.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+518,519,Jul,9,22:53:22,combo,ftpd,24074.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+519,520,Jul,9,22:53:22,combo,ftpd,24072.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+520,521,Jul,9,22:53:22,combo,ftpd,24075.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+521,522,Jul,9,22:53:22,combo,ftpd,24078.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+522,523,Jul,9,22:53:22,combo,ftpd,24080.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+523,524,Jul,9,22:53:22,combo,ftpd,24070.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+524,525,Jul,9,22:53:22,combo,ftpd,24083.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+525,526,Jul,9,22:53:22,combo,ftpd,24082.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+526,527,Jul,9,22:53:22,combo,ftpd,24073.0,connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005,E29,connection from <*> (<*>) at <*>
+527,528,Jul,10,03:55:15,combo,ftpd,24513.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+528,529,Jul,10,03:55:15,combo,ftpd,24519.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+529,530,Jul,10,03:55:15,combo,ftpd,24514.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+530,531,Jul,10,03:55:15,combo,ftpd,24517.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+531,532,Jul,10,03:55:15,combo,ftpd,24520.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+532,533,Jul,10,03:55:15,combo,ftpd,24522.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+533,534,Jul,10,03:55:15,combo,ftpd,24518.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+534,535,Jul,10,03:55:15,combo,ftpd,24526.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+535,536,Jul,10,03:55:15,combo,ftpd,24529.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+536,537,Jul,10,03:55:15,combo,ftpd,24530.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+537,538,Jul,10,03:55:15,combo,ftpd,24531.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+538,539,Jul,10,03:55:15,combo,ftpd,24533.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+539,540,Jul,10,03:55:15,combo,ftpd,24534.0,connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005,E29,connection from <*> (<*>) at <*>
+540,541,Jul,10,04:04:31,combo,su(pam_unix),24898.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+541,542,Jul,10,04:04:32,combo,su(pam_unix),24898.0,session closed for user cyrus,E101,session closed for user <*>
+542,543,Jul,10,04:04:33,combo,cups,,cupsd shutdown succeeded,E37,cupsd shutdown succeeded
+543,544,Jul,10,04:04:39,combo,cups,,cupsd startup succeeded,E38,cupsd startup succeeded
+544,545,Jul,10,04:04:46,combo,syslogd 1.4.1,,restart.,E90,restart.
+545,546,Jul,10,04:10:47,combo,su(pam_unix),26353.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+546,547,Jul,10,04:10:47,combo,su(pam_unix),26353.0,session closed for user news,E101,session closed for user <*>
+547,548,Jul,10,07:24:24,combo,ftpd,29726.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+548,549,Jul,10,07:24:24,combo,ftpd,29725.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+549,550,Jul,10,07:24:24,combo,ftpd,29719.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+550,551,Jul,10,07:24:24,combo,ftpd,29723.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+551,552,Jul,10,07:24:24,combo,ftpd,29718.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+552,553,Jul,10,07:24:24,combo,ftpd,29724.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+553,554,Jul,10,07:24:24,combo,ftpd,29722.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005,E29,connection from <*> (<*>) at <*>
+554,555,Jul,10,07:24:34,combo,ftpd,29730.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005,E29,connection from <*> (<*>) at <*>
+555,556,Jul,10,07:24:34,combo,ftpd,29734.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005,E29,connection from <*> (<*>) at <*>
+556,557,Jul,10,07:24:34,combo,ftpd,29737.0,connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:34 2005,E29,connection from <*> (<*>) at <*>
+557,558,Jul,10,13:17:22,combo,ftpd,30278.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+558,559,Jul,10,13:17:22,combo,ftpd,30277.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+559,560,Jul,10,13:17:22,combo,ftpd,30293.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+560,561,Jul,10,13:17:22,combo,ftpd,30279.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+561,562,Jul,10,13:17:22,combo,ftpd,30280.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+562,563,Jul,10,13:17:22,combo,ftpd,30281.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+563,564,Jul,10,13:17:22,combo,ftpd,30288.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+564,565,Jul,10,13:17:22,combo,ftpd,30290.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+565,566,Jul,10,13:17:22,combo,ftpd,30294.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+566,567,Jul,10,13:17:22,combo,ftpd,30296.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+567,568,Jul,10,13:17:22,combo,ftpd,30283.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+568,569,Jul,10,13:17:22,combo,ftpd,30285.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+569,570,Jul,10,13:17:22,combo,ftpd,30287.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+570,571,Jul,10,13:17:22,combo,ftpd,30291.0,connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005,E29,connection from <*> (<*>) at <*>
+571,572,Jul,10,16:01:44,combo,sshd(pam_unix),30532.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+572,573,Jul,10,16:01:47,combo,sshd(pam_unix),30540.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+573,574,Jul,10,16:01:48,combo,sshd(pam_unix),30542.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+574,575,Jul,10,16:01:48,combo,sshd(pam_unix),30544.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+575,576,Jul,10,16:01:48,combo,sshd(pam_unix),30546.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+576,577,Jul,10,16:01:49,combo,sshd(pam_unix),30548.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+577,578,Jul,10,16:01:56,combo,sshd(pam_unix),30550.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+578,579,Jul,10,16:01:57,combo,sshd(pam_unix),30552.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+579,580,Jul,10,16:01:58,combo,sshd(pam_unix),30554.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+580,581,Jul,10,16:01:59,combo,sshd(pam_unix),30558.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+581,582,Jul,10,16:01:59,combo,sshd(pam_unix),30560.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+582,583,Jul,10,16:02:01,combo,sshd(pam_unix),30566.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+583,584,Jul,10,16:02:02,combo,sshd(pam_unix),30568.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+584,585,Jul,10,16:02:09,combo,sshd(pam_unix),30572.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+585,586,Jul,10,16:02:10,combo,sshd(pam_unix),30575.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+586,587,Jul,10,16:02:12,combo,sshd(pam_unix),30578.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+587,588,Jul,10,16:02:13,combo,sshd(pam_unix),30582.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+588,589,Jul,10,16:02:14,combo,sshd(pam_unix),30584.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+589,590,Jul,10,16:02:14,combo,sshd(pam_unix),30585.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+590,591,Jul,10,16:02:23,combo,sshd(pam_unix),30595.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+591,592,Jul,10,16:02:23,combo,sshd(pam_unix),30594.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+592,593,Jul,10,16:02:24,combo,sshd(pam_unix),30598.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+593,594,Jul,10,16:02:27,combo,sshd(pam_unix),30605.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+594,595,Jul,10,16:02:27,combo,sshd(pam_unix),30607.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+595,596,Jul,10,16:02:34,combo,sshd(pam_unix),30612.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+596,597,Jul,10,16:02:35,combo,sshd(pam_unix),30615.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+597,598,Jul,10,16:02:39,combo,sshd(pam_unix),30622.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+598,599,Jul,10,16:02:39,combo,sshd(pam_unix),30624.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+599,600,Jul,10,16:02:40,combo,sshd(pam_unix),30625.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+600,601,Jul,10,16:02:40,combo,sshd(pam_unix),30628.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+601,602,Jul,10,16:02:45,combo,sshd(pam_unix),30630.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+602,603,Jul,10,16:02:46,combo,sshd(pam_unix),30632.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+603,604,Jul,10,16:02:47,combo,sshd(pam_unix),30635.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+604,605,Jul,10,16:02:49,combo,sshd(pam_unix),30638.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+605,606,Jul,10,16:02:52,combo,sshd(pam_unix),30642.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+606,607,Jul,10,16:02:52,combo,sshd(pam_unix),30644.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+607,608,Jul,10,16:03:05,combo,sshd(pam_unix),30662.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+608,609,Jul,10,16:03:05,combo,sshd(pam_unix),30665.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+609,610,Jul,10,16:03:11,combo,sshd(pam_unix),30672.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+610,611,Jul,10,16:03:16,combo,sshd(pam_unix),30680.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+611,612,Jul,10,16:03:18,combo,sshd(pam_unix),30684.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+612,613,Jul,10,16:03:18,combo,sshd(pam_unix),30685.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+613,614,Jul,10,16:33:02,combo,sshd(pam_unix),30731.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+614,615,Jul,10,16:33:02,combo,sshd(pam_unix),30734.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+615,616,Jul,10,16:33:03,combo,sshd(pam_unix),30739.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+616,617,Jul,10,16:33:03,combo,sshd(pam_unix),30737.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+617,618,Jul,10,16:33:04,combo,sshd(pam_unix),30740.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+618,619,Jul,10,16:33:05,combo,sshd(pam_unix),30743.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.214.161.141  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+619,620,Jul,11,03:46:14,combo,sshd(pam_unix),31851.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+620,621,Jul,11,03:46:15,combo,sshd(pam_unix),31854.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+621,622,Jul,11,03:46:16,combo,sshd(pam_unix),31862.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+622,623,Jul,11,03:46:17,combo,sshd(pam_unix),31855.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+623,624,Jul,11,03:46:17,combo,sshd(pam_unix),31852.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+624,625,Jul,11,03:46:19,combo,sshd(pam_unix),31860.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=82.77.200.128  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+625,626,Jul,11,04:03:04,combo,su(pam_unix),32237.0,session closed for user cyrus,E101,session closed for user <*>
+626,627,Jul,11,04:08:37,combo,su(pam_unix),32608.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+627,628,Jul,11,04:08:38,combo,su(pam_unix),32608.0,session closed for user news,E101,session closed for user <*>
+628,629,Jul,11,17:58:16,combo,sshd(pam_unix),1325.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+629,630,Jul,11,17:58:19,combo,sshd(pam_unix),1331.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+630,631,Jul,11,17:58:21,combo,sshd(pam_unix),1335.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+631,632,Jul,11,17:58:21,combo,sshd(pam_unix),1337.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+632,633,Jul,11,17:58:21,combo,sshd(pam_unix),1338.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+633,634,Jul,11,17:58:23,combo,sshd(pam_unix),1343.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.137.205.253  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+634,635,Jul,12,04:03:40,combo,su(pam_unix),2605.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+635,636,Jul,12,04:09:49,combo,su(pam_unix),3833.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+636,637,Jul,12,06:09:44,combo,sshd(pam_unix),4052.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+637,638,Jul,12,06:09:44,combo,sshd(pam_unix),4054.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+638,639,Jul,12,06:09:45,combo,sshd(pam_unix),4059.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+639,640,Jul,13,04:04:45,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+640,641,Jul,13,04:10:41,combo,su(pam_unix),6863.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+641,642,Jul,13,17:22:28,combo,sshd(pam_unix),8113.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+642,643,Jul,13,17:22:28,combo,sshd(pam_unix),8114.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+643,644,Jul,13,17:22:29,combo,sshd(pam_unix),8114.0,session closed for user test,E101,session closed for user <*>
+644,645,Jul,13,17:22:29,combo,sshd(pam_unix),8117.0,session opened for user test by (uid=509),E102,session opened for user <*> by (uid=<*>)
+645,646,Jul,14,04:08:24,combo,su(pam_unix),9355.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+646,647,Jul,14,04:14:38,combo,su(pam_unix),10583.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+647,648,Jul,14,04:14:39,combo,su(pam_unix),10583.0,session closed for user news,E101,session closed for user <*>
+648,649,Jul,14,14:59:56,combo,sshd(pam_unix),11708.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+649,650,Jul,14,15:00:09,combo,sshd(pam_unix),11710.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+650,651,Jul,14,15:00:22,combo,sshd(pam_unix),11719.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+651,652,Jul,14,15:00:36,combo,sshd(pam_unix),11721.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+652,653,Jul,14,15:00:49,combo,sshd(pam_unix),11723.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202-132-40-29.adsl.ttn.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+653,654,Jul,15,01:03:48,combo,sshd(pam_unix),12632.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+654,655,Jul,15,01:03:48,combo,sshd(pam_unix),12631.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+655,656,Jul,15,01:03:48,combo,sshd(pam_unix),12629.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+656,657,Jul,15,01:03:48,combo,sshd(pam_unix),12630.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+657,658,Jul,15,01:03:49,combo,sshd(pam_unix),12643.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+658,659,Jul,15,01:03:49,combo,sshd(pam_unix),12645.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+659,660,Jul,15,01:03:50,combo,sshd(pam_unix),12639.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+660,661,Jul,15,01:03:50,combo,sshd(pam_unix),12640.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+661,662,Jul,15,04:10:45,combo,su(pam_unix),13611.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+662,663,Jul,15,04:10:46,combo,su(pam_unix),13611.0,session closed for user news,E101,session closed for user <*>
+663,664,Jul,15,23:42:43,combo,ftpd,15339.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+664,665,Jul,15,23:42:43,combo,ftpd,15337.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+665,666,Jul,15,23:42:43,combo,ftpd,15336.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+666,667,Jul,15,23:42:43,combo,ftpd,15341.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+667,668,Jul,15,23:42:43,combo,ftpd,15340.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+668,669,Jul,15,23:42:43,combo,ftpd,15327.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+669,670,Jul,15,23:42:43,combo,ftpd,15333.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+670,671,Jul,15,23:42:43,combo,ftpd,15330.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+671,672,Jul,15,23:42:43,combo,ftpd,15329.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+672,673,Jul,15,23:42:43,combo,ftpd,15332.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+673,674,Jul,15,23:42:43,combo,ftpd,15328.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+674,675,Jul,15,23:42:43,combo,ftpd,15326.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+675,676,Jul,15,23:42:43,combo,ftpd,15331.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005,E29,connection from <*> (<*>) at <*>
+676,677,Jul,15,23:42:44,combo,ftpd,15342.0,connection from 211.107.232.1 () at Fri Jul 15 23:42:44 2005,E29,connection from <*> (<*>) at <*>
+677,678,Jul,16,04:07:34,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+678,679,Jul,16,08:14:04,combo,ftpd,17667.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:04 2005,E29,connection from <*> (<*>) at <*>
+679,680,Jul,16,08:14:07,combo,ftpd,17681.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+680,681,Jul,16,08:14:07,combo,ftpd,17680.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+681,682,Jul,16,08:14:07,combo,ftpd,17678.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+682,683,Jul,16,08:14:07,combo,ftpd,17684.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+683,684,Jul,16,08:14:07,combo,ftpd,17685.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+684,685,Jul,16,08:14:07,combo,ftpd,17676.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+685,686,Jul,16,08:14:07,combo,ftpd,17679.0,connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005,E29,connection from <*> (<*>) at <*>
+686,687,Jul,17,04:08:09,combo,su(pam_unix),19686.0,session closed for user cyrus,E101,session closed for user <*>
+687,688,Jul,17,04:13:57,combo,su(pam_unix),20282.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+688,689,Jul,17,04:13:58,combo,su(pam_unix),20282.0,session closed for user news,E101,session closed for user <*>
+689,690,Jul,17,06:13:37,combo,ftpd,23573.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+690,691,Jul,17,06:13:37,combo,ftpd,23564.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+691,692,Jul,17,06:13:37,combo,ftpd,23570.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+692,693,Jul,17,06:13:37,combo,ftpd,23568.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+693,694,Jul,17,06:13:37,combo,ftpd,23565.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+694,695,Jul,17,06:13:37,combo,ftpd,23566.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:37 2005,E29,connection from <*> (<*>) at <*>
+695,696,Jul,17,06:13:38,combo,ftpd,23569.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:13:38 2005,E29,connection from <*> (<*>) at <*>
+696,697,Jul,17,06:14:36,combo,ftpd,23579.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+697,698,Jul,17,06:14:36,combo,ftpd,23581.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+698,699,Jul,17,06:14:36,combo,ftpd,23582.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+699,700,Jul,17,06:14:36,combo,ftpd,23583.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+700,701,Jul,17,06:14:36,combo,ftpd,23584.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+701,702,Jul,17,06:14:36,combo,ftpd,23587.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+702,703,Jul,17,06:14:36,combo,ftpd,23589.0,connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005,E29,connection from <*> (<*>) at <*>
+703,704,Jul,17,08:06:12,combo,ftpd,23777.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+704,705,Jul,17,08:06:12,combo,ftpd,23779.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+705,706,Jul,17,08:06:12,combo,ftpd,23781.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+706,707,Jul,17,08:06:12,combo,ftpd,23785.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+707,708,Jul,17,08:06:12,combo,ftpd,23793.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+708,709,Jul,17,08:06:12,combo,ftpd,23789.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+709,710,Jul,17,08:06:12,combo,ftpd,23790.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+710,711,Jul,17,08:06:12,combo,ftpd,23791.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+711,712,Jul,17,08:06:12,combo,ftpd,23795.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+712,713,Jul,17,08:06:12,combo,ftpd,23796.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+713,714,Jul,17,08:06:12,combo,ftpd,23797.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+714,715,Jul,17,08:06:12,combo,ftpd,23798.0,connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005,E29,connection from <*> (<*>) at <*>
+715,716,Jul,17,09:44:07,combo,ftpd,23935.0,connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005,E29,connection from <*> (<*>) at <*>
+716,717,Jul,17,10:45:07,combo,sshd(pam_unix),24031.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+717,718,Jul,17,10:45:07,combo,sshd(pam_unix),24033.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61-220-159-99.hinet-ip.hinet.net  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+718,719,Jul,17,12:30:43,combo,ftpd,24195.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:43 2005,E29,connection from <*> (<*>) at <*>
+719,720,Jul,17,12:30:43,combo,ftpd,24196.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:43 2005,E29,connection from <*> (<*>) at <*>
+720,721,Jul,17,12:30:46,combo,ftpd,24197.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:46 2005,E29,connection from <*> (<*>) at <*>
+721,722,Jul,17,12:30:48,combo,ftpd,24199.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:48 2005,E29,connection from <*> (<*>) at <*>
+722,723,Jul,17,12:30:53,combo,ftpd,24202.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:53 2005,E29,connection from <*> (<*>) at <*>
+723,724,Jul,17,12:30:54,combo,ftpd,24204.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:54 2005,E29,connection from <*> (<*>) at <*>
+724,725,Jul,17,12:30:57,combo,ftpd,24205.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:57 2005,E29,connection from <*> (<*>) at <*>
+725,726,Jul,17,12:30:58,combo,ftpd,24208.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:58 2005,E29,connection from <*> (<*>) at <*>
+726,727,Jul,17,14:02:39,combo,ftpd,24356.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:39 2005,E29,connection from <*> (<*>) at <*>
+727,728,Jul,17,14:02:43,combo,ftpd,24358.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:43 2005,E29,connection from <*> (<*>) at <*>
+728,729,Jul,17,14:02:44,combo,ftpd,24359.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:44 2005,E29,connection from <*> (<*>) at <*>
+729,730,Jul,17,14:02:47,combo,ftpd,24360.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:47 2005,E29,connection from <*> (<*>) at <*>
+730,731,Jul,17,14:02:48,combo,ftpd,24361.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:48 2005,E29,connection from <*> (<*>) at <*>
+731,732,Jul,17,14:02:49,combo,ftpd,24362.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005,E29,connection from <*> (<*>) at <*>
+732,733,Jul,17,14:02:49,combo,ftpd,24363.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005,E29,connection from <*> (<*>) at <*>
+733,734,Jul,17,14:02:49,combo,ftpd,24365.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005,E29,connection from <*> (<*>) at <*>
+734,735,Jul,17,14:02:54,combo,ftpd,24367.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:54 2005,E29,connection from <*> (<*>) at <*>
+735,736,Jul,17,14:02:54,combo,ftpd,24368.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:54 2005,E29,connection from <*> (<*>) at <*>
+736,737,Jul,17,14:02:57,combo,ftpd,24370.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:57 2005,E29,connection from <*> (<*>) at <*>
+737,738,Jul,17,14:03:00,combo,ftpd,24373.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005,E29,connection from <*> (<*>) at <*>
+738,739,Jul,17,14:03:00,combo,ftpd,24374.0,connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005,E29,connection from <*> (<*>) at <*>
+739,740,Jul,17,15:09:15,combo,ftpd,24465.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+740,741,Jul,17,15:09:15,combo,ftpd,24468.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+741,742,Jul,17,15:09:15,combo,ftpd,24469.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+742,743,Jul,17,15:09:15,combo,ftpd,24471.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+743,744,Jul,17,15:09:15,combo,ftpd,24475.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+744,745,Jul,17,15:09:15,combo,ftpd,24476.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+745,746,Jul,17,15:09:15,combo,ftpd,24479.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+746,747,Jul,17,15:09:15,combo,ftpd,24481.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:15 2005,E29,connection from <*> (<*>) at <*>
+747,748,Jul,17,15:09:16,combo,ftpd,24484.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005,E29,connection from <*> (<*>) at <*>
+748,749,Jul,17,15:09:16,combo,ftpd,24485.0,connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005,E29,connection from <*> (<*>) at <*>
+749,750,Jul,17,21:23:20,combo,ftpd,25029.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+750,751,Jul,17,21:23:20,combo,ftpd,25030.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+751,752,Jul,17,21:23:20,combo,ftpd,25040.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+752,753,Jul,17,21:23:20,combo,ftpd,25041.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+753,754,Jul,17,21:23:20,combo,ftpd,25032.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+754,755,Jul,17,21:23:20,combo,ftpd,25042.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+755,756,Jul,17,21:23:20,combo,ftpd,25037.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005,E29,connection from <*> (<*>) at <*>
+756,757,Jul,17,21:23:24,combo,ftpd,25046.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005,E29,connection from <*> (<*>) at <*>
+757,758,Jul,17,21:23:24,combo,ftpd,25047.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005,E29,connection from <*> (<*>) at <*>
+758,759,Jul,17,21:23:24,combo,ftpd,25048.0,connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:24 2005,E29,connection from <*> (<*>) at <*>
+759,760,Jul,17,23:21:50,combo,ftpd,25217.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:50 2005,E29,connection from <*> (<*>) at <*>
+760,761,Jul,17,23:21:54,combo,ftpd,25218.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+761,762,Jul,17,23:21:54,combo,ftpd,25219.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+762,763,Jul,17,23:21:54,combo,ftpd,25221.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+763,764,Jul,17,23:21:54,combo,ftpd,25222.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+764,765,Jul,17,23:21:54,combo,ftpd,25225.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+765,766,Jul,17,23:21:54,combo,ftpd,25224.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+766,767,Jul,17,23:21:54,combo,ftpd,25226.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+767,768,Jul,17,23:21:54,combo,ftpd,25227.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+768,769,Jul,17,23:21:54,combo,ftpd,25228.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+769,770,Jul,17,23:21:54,combo,ftpd,25229.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+770,771,Jul,17,23:21:54,combo,ftpd,25230.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+771,772,Jul,17,23:21:54,combo,ftpd,25234.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+772,773,Jul,17,23:21:54,combo,ftpd,25235.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+773,774,Jul,17,23:21:54,combo,ftpd,25237.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+774,775,Jul,17,23:21:54,combo,ftpd,25238.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+775,776,Jul,17,23:21:54,combo,ftpd,25239.0,connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:54 2005,E29,connection from <*> (<*>) at <*>
+776,777,Jul,18,03:26:48,combo,ftpd,25629.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+777,778,Jul,18,03:26:48,combo,ftpd,25630.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+778,779,Jul,18,03:26:48,combo,ftpd,25632.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+779,780,Jul,18,03:26:48,combo,ftpd,25633.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+780,781,Jul,18,03:26:48,combo,ftpd,25634.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+781,782,Jul,18,03:26:48,combo,ftpd,25635.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:48 2005,E29,connection from <*> (<*>) at <*>
+782,783,Jul,18,03:26:49,combo,ftpd,25636.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005,E29,connection from <*> (<*>) at <*>
+783,784,Jul,18,03:26:49,combo,ftpd,25637.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005,E29,connection from <*> (<*>) at <*>
+784,785,Jul,18,03:26:49,combo,ftpd,25641.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005,E29,connection from <*> (<*>) at <*>
+785,786,Jul,18,03:26:49,combo,ftpd,25644.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005,E29,connection from <*> (<*>) at <*>
+786,787,Jul,18,03:26:49,combo,ftpd,25647.0,connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005,E29,connection from <*> (<*>) at <*>
+787,788,Jul,18,04:03:24,combo,su(pam_unix),26046.0,session closed for user cyrus,E101,session closed for user <*>
+788,789,Jul,18,04:03:25,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+789,790,Jul,18,04:09:29,combo,su(pam_unix),27272.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+790,791,Jul,18,04:09:30,combo,su(pam_unix),27272.0,session closed for user news,E101,session closed for user <*>
+791,792,Jul,18,23:01:25,combo,sshd(pam_unix),28977.0,check pass; user unknown,E27,check pass; user unknown
+792,793,Jul,18,23:01:25,combo,sshd(pam_unix),28977.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+793,794,Jul,18,23:01:25,combo,sshd(pam_unix),28980.0,check pass; user unknown,E27,check pass; user unknown
+794,795,Jul,18,23:01:25,combo,sshd(pam_unix),28978.0,check pass; user unknown,E27,check pass; user unknown
+795,796,Jul,18,23:01:25,combo,sshd(pam_unix),28978.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+796,797,Jul,18,23:01:27,combo,sshd(pam_unix),28986.0,check pass; user unknown,E27,check pass; user unknown
+797,798,Jul,18,23:01:27,combo,sshd(pam_unix),28985.0,check pass; user unknown,E27,check pass; user unknown
+798,799,Jul,18,23:01:27,combo,sshd(pam_unix),28987.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+799,800,Jul,18,23:01:27,combo,sshd(pam_unix),28991.0,check pass; user unknown,E27,check pass; user unknown
+800,801,Jul,19,04:03:43,combo,su(pam_unix),29758.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+801,802,Jul,19,04:03:44,combo,su(pam_unix),29758.0,session closed for user cyrus,E101,session closed for user <*>
+802,803,Jul,19,04:03:45,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+803,804,Jul,19,07:35:41,combo,sshd(pam_unix),30499.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+804,805,Jul,19,07:35:41,combo,sshd(pam_unix),30503.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+805,806,Jul,19,07:35:41,combo,sshd(pam_unix),30505.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+806,807,Jul,19,07:35:41,combo,sshd(pam_unix),30501.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+807,808,Jul,19,07:35:41,combo,sshd(pam_unix),30504.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=202.181.236.180  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+808,809,Jul,20,04:05:02,combo,su(pam_unix),363.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+809,810,Jul,20,04:05:04,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+810,811,Jul,20,23:37:40,combo,sshd(pam_unix),3307.0,check pass; user unknown,E27,check pass; user unknown
+811,812,Jul,20,23:37:40,combo,sshd(pam_unix),3307.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+812,813,Jul,20,23:37:46,combo,sshd(pam_unix),3313.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+813,814,Jul,20,23:37:46,combo,sshd(pam_unix),3312.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.55.234.102,E16,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+814,815,Jul,21,04:11:27,combo,su(pam_unix),4170.0,session closed for user cyrus,E101,session closed for user <*>
+815,816,Jul,21,04:11:28,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+816,817,Jul,21,04:16:55,combo,su(pam_unix),4540.0,session closed for user news,E101,session closed for user <*>
+817,818,Jul,21,09:04:41,combo,ftpd,5029.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+818,819,Jul,21,09:04:41,combo,ftpd,5023.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+819,820,Jul,21,09:04:41,combo,ftpd,5024.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+820,821,Jul,21,09:04:41,combo,ftpd,5025.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+821,822,Jul,21,09:04:41,combo,ftpd,5031.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+822,823,Jul,21,09:04:41,combo,ftpd,5020.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+823,824,Jul,21,09:04:41,combo,ftpd,5021.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+824,825,Jul,21,09:04:41,combo,ftpd,5026.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+825,826,Jul,21,09:04:41,combo,ftpd,5035.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+826,827,Jul,21,09:04:41,combo,ftpd,5037.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+827,828,Jul,21,09:04:41,combo,ftpd,5034.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005,E29,connection from <*> (<*>) at <*>
+828,829,Jul,21,09:04:43,combo,ftpd,5038.0,connection from 216.12.111.241 () at Thu Jul 21 09:04:43 2005,E29,connection from <*> (<*>) at <*>
+829,830,Jul,21,15:18:30,combo,sshd(pam_unix),5587.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+830,831,Jul,21,15:18:30,combo,sshd(pam_unix),5586.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=193.110.106.11  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+831,832,Jul,22,04:07:46,combo,su(pam_unix),7106.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+832,833,Jul,22,04:15:14,combo,su(pam_unix),11756.0,session closed for user news,E101,session closed for user <*>
+833,834,Jul,22,09:27:24,combo,ftpd,12291.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+834,835,Jul,22,09:27:24,combo,ftpd,12292.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+835,836,Jul,22,09:27:24,combo,ftpd,12282.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+836,837,Jul,22,09:27:24,combo,ftpd,12288.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+837,838,Jul,22,09:27:24,combo,ftpd,12284.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+838,839,Jul,22,09:27:24,combo,ftpd,12278.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+839,840,Jul,22,09:27:24,combo,ftpd,12280.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+840,841,Jul,22,09:27:24,combo,ftpd,12289.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+841,842,Jul,22,09:27:24,combo,ftpd,12281.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+842,843,Jul,22,09:27:24,combo,ftpd,12287.0,connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005,E29,connection from <*> (<*>) at <*>
+843,844,Jul,22,19:29:09,combo,ftpd,13150.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+844,845,Jul,22,19:29:09,combo,ftpd,13147.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+845,846,Jul,22,19:29:09,combo,ftpd,13149.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+846,847,Jul,22,19:29:09,combo,ftpd,13151.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+847,848,Jul,22,19:29:09,combo,ftpd,13146.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+848,849,Jul,22,19:29:09,combo,ftpd,13144.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+849,850,Jul,22,19:29:09,combo,ftpd,13156.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+850,851,Jul,22,19:29:09,combo,ftpd,13157.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+851,852,Jul,22,19:29:09,combo,ftpd,13158.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+852,853,Jul,22,19:29:09,combo,ftpd,13159.0,connection from 67.95.49.172 () at Fri Jul 22 19:29:09 2005,E29,connection from <*> (<*>) at <*>
+853,854,Jul,23,04:09:36,combo,su(pam_unix),14314.0,session closed for user cyrus,E101,session closed for user <*>
+854,855,Jul,23,20:04:41,combo,sshd(pam_unix),16156.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+855,856,Jul,23,20:04:41,combo,sshd(pam_unix),16157.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+856,857,Jul,23,20:04:41,combo,sshd(pam_unix),16162.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+857,858,Jul,23,20:04:41,combo,sshd(pam_unix),16155.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+858,859,Jul,23,20:04:41,combo,sshd(pam_unix),16160.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+859,860,Jul,23,20:04:41,combo,sshd(pam_unix),16154.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+860,861,Jul,23,20:04:42,combo,sshd(pam_unix),16161.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+861,862,Jul,23,20:04:42,combo,sshd(pam_unix),16153.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211.9.58.217  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+862,863,Jul,24,02:38:22,combo,ftpd,16773.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+863,864,Jul,24,02:38:22,combo,ftpd,16789.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+864,865,Jul,24,02:38:22,combo,ftpd,16783.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+865,866,Jul,24,02:38:22,combo,ftpd,16784.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+866,867,Jul,24,02:38:22,combo,ftpd,16786.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+867,868,Jul,24,02:38:22,combo,ftpd,16790.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+868,869,Jul,24,02:38:22,combo,ftpd,16780.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+869,870,Jul,24,02:38:22,combo,ftpd,16787.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+870,871,Jul,24,02:38:22,combo,ftpd,16774.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+871,872,Jul,24,02:38:22,combo,ftpd,16772.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+872,873,Jul,24,02:38:22,combo,ftpd,16775.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+873,874,Jul,24,02:38:22,combo,ftpd,16777.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+874,875,Jul,24,02:38:22,combo,ftpd,16791.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+875,876,Jul,24,02:38:22,combo,ftpd,16793.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+876,877,Jul,24,02:38:22,combo,ftpd,16794.0,connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005,E29,connection from <*> (<*>) at <*>
+877,878,Jul,24,04:20:21,combo,cups,,cupsd shutdown succeeded,E37,cupsd shutdown succeeded
+878,879,Jul,24,04:20:26,combo,cups,,cupsd startup succeeded,E38,cupsd startup succeeded
+879,880,Jul,24,04:20:42,combo,logrotate,,ALERT exited abnormally with [1],E8,ALERT exited abnormally with [<*>]
+880,881,Jul,24,08:31:57,combo,sshd(pam_unix),22185.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+881,882,Jul,24,08:31:59,combo,sshd(pam_unix),22188.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+882,883,Jul,24,08:31:59,combo,sshd(pam_unix),22189.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=203.251.225.101  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+883,884,Jul,24,13:46:32,combo,ftpd,22653.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005,E29,connection from <*> (<*>) at <*>
+884,885,Jul,24,13:46:32,combo,ftpd,22659.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:32 2005,E29,connection from <*> (<*>) at <*>
+885,886,Jul,24,13:46:34,combo,ftpd,22662.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005,E29,connection from <*> (<*>) at <*>
+886,887,Jul,24,13:46:34,combo,ftpd,22663.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005,E29,connection from <*> (<*>) at <*>
+887,888,Jul,24,13:46:34,combo,ftpd,22667.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005,E29,connection from <*> (<*>) at <*>
+888,889,Jul,24,13:46:35,combo,ftpd,22669.0,connection from 211.107.232.1 () at Sun Jul 24 13:46:35 2005,E29,connection from <*> (<*>) at <*>
+889,890,Jul,25,04:09:33,combo,su(pam_unix),24683.0,session closed for user news,E101,session closed for user <*>
+890,891,Jul,25,06:39:18,combo,ftpd,24972.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+891,892,Jul,25,06:39:18,combo,ftpd,24973.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+892,893,Jul,25,06:39:18,combo,ftpd,24967.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+893,894,Jul,25,06:39:18,combo,ftpd,24966.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+894,895,Jul,25,06:39:18,combo,ftpd,24965.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+895,896,Jul,25,06:39:18,combo,ftpd,24964.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+896,897,Jul,25,06:39:18,combo,ftpd,24958.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+897,898,Jul,25,06:39:18,combo,ftpd,24959.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+898,899,Jul,25,06:39:18,combo,ftpd,24960.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+899,900,Jul,25,06:39:18,combo,ftpd,24961.0,connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005,E29,connection from <*> (<*>) at <*>
+900,901,Jul,25,12:09:06,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+901,902,Jul,25,12:18:50,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+902,903,Jul,25,12:27:05,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+903,904,Jul,25,13:41:34,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+904,905,Jul,25,13:50:24,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+905,906,Jul,25,14:08:28,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+906,907,Jul,25,14:17:19,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+907,908,Jul,25,14:33:46,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+908,909,Jul,25,14:48:30,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+909,910,Jul,25,15:50:04,combo,named,2306.0,notify question section contains no SOA,E75,notify question section contains no SOA
+910,911,Jul,25,23:23:13,combo,ftpd,26466.0,getpeername (ftpd): Transport endpoint is not connected,E47,getpeername (ftpd): Transport endpoint is not connected
+911,912,Jul,25,23:23:13,combo,xinetd,26484.0,warning: can't get client address: Connection reset by peer,E116,warning: can't get client address: Connection reset by peer
+912,913,Jul,25,23:24:09,combo,ftpd,26476.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+913,914,Jul,25,23:24:09,combo,ftpd,26475.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+914,915,Jul,25,23:24:09,combo,ftpd,26474.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+915,916,Jul,25,23:24:09,combo,ftpd,26473.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+916,917,Jul,25,23:24:09,combo,ftpd,26467.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+917,918,Jul,25,23:24:09,combo,ftpd,26468.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+918,919,Jul,25,23:24:09,combo,ftpd,26470.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+919,920,Jul,25,23:24:09,combo,ftpd,26480.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+920,921,Jul,25,23:24:09,combo,ftpd,26481.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+921,922,Jul,25,23:24:09,combo,ftpd,26485.0,connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005,E29,connection from <*> (<*>) at <*>
+922,923,Jul,26,04:05:22,combo,su(pam_unix),27285.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+923,924,Jul,26,04:11:23,combo,su(pam_unix),28514.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+924,925,Jul,26,04:11:23,combo,su(pam_unix),28514.0,session closed for user news,E101,session closed for user <*>
+925,926,Jul,26,05:47:42,combo,ftpd,28699.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005,E29,connection from <*> (<*>) at <*>
+926,927,Jul,26,05:47:42,combo,ftpd,28700.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005,E29,connection from <*> (<*>) at <*>
+927,928,Jul,26,05:47:42,combo,ftpd,28701.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005,E29,connection from <*> (<*>) at <*>
+928,929,Jul,26,05:47:42,combo,ftpd,28687.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005,E29,connection from <*> (<*>) at <*>
+929,930,Jul,26,05:47:42,combo,ftpd,28688.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:42 2005,E29,connection from <*> (<*>) at <*>
+930,931,Jul,26,05:47:51,combo,ftpd,28704.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005,E29,connection from <*> (<*>) at <*>
+931,932,Jul,26,05:47:51,combo,ftpd,28706.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005,E29,connection from <*> (<*>) at <*>
+932,933,Jul,26,05:47:51,combo,ftpd,28708.0,connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005,E29,connection from <*> (<*>) at <*>
+933,934,Jul,26,07:02:27,combo,sshd(pam_unix),28842.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+934,935,Jul,26,07:02:35,combo,sshd(pam_unix),28844.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+935,936,Jul,26,07:02:37,combo,sshd(pam_unix),28846.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+936,937,Jul,26,07:02:45,combo,sshd(pam_unix),28848.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+937,938,Jul,26,07:02:57,combo,sshd(pam_unix),28854.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+938,939,Jul,26,07:03:05,combo,sshd(pam_unix),28856.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+939,940,Jul,26,07:03:07,combo,sshd(pam_unix),28858.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+940,941,Jul,26,07:03:17,combo,sshd(pam_unix),28862.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+941,942,Jul,26,07:03:27,combo,sshd(pam_unix),28866.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+942,943,Jul,26,07:03:47,combo,sshd(pam_unix),28874.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+943,944,Jul,26,07:03:57,combo,sshd(pam_unix),28878.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+944,945,Jul,26,07:04:02,combo,sshd(pam_unix),28880.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+945,946,Jul,26,07:04:07,combo,sshd(pam_unix),28884.0,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=207.243.167.114  user=root,E18,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>
+946,947,Jul,27,04:16:07,combo,su(pam_unix),30999.0,session opened for user cyrus by (uid=0),E102,session opened for user <*> by (uid=<*>)
+947,948,Jul,27,04:16:08,combo,su(pam_unix),30999.0,session closed for user cyrus,E101,session closed for user <*>
+948,949,Jul,27,04:21:39,combo,su(pam_unix),31373.0,session opened for user news by (uid=0),E102,session opened for user <*> by (uid=<*>)
+949,950,Jul,27,04:21:40,combo,su(pam_unix),31373.0,session closed for user news,E101,session closed for user <*>
+950,951,Jul,27,10:59:53,combo,ftpd,31985.0,connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005,E29,connection from <*> (<*>) at <*>
+951,952,Jul,27,14:41:57,combo,syslogd 1.4.1,,restart.,E90,restart.
+952,953,Jul,27,14:41:57,combo,kernel,,"klogd 1.4.1, log source = /proc/kmsg started.",E64,"klogd <*>, log source = <*> started."
+953,954,Jul,27,14:41:57,combo,kernel,,Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004,E68,Linux version <*> (bhcompile@bugs.build.redhat.com) (gcc version <*> (Red Hat Linux <*>)) <*>
+954,955,Jul,27,14:41:57,combo,kernel,,BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved),E20,BIOS-e820: <*> - <*> (reserved)
+955,956,Jul,27,14:41:57,combo,kernel,,BIOS-e820: 00000000ffb00000 - 0000000100000000 (reserved),E20,BIOS-e820: <*> - <*> (reserved)
+956,957,Jul,27,14:41:57,combo,kernel,,126MB LOWMEM available.,E3,<*> LOWMEM available.
+957,958,Jul,27,14:41:57,combo,syslog,,klogd startup succeeded,E65,klogd startup succeeded
+958,959,Jul,27,14:41:57,combo,irqbalance,,irqbalance startup succeeded,E58,irqbalance startup succeeded
+959,960,Jul,27,14:41:57,combo,kernel,,"HighMem zone: 0 pages, LIFO batch:1",E50,"HighMem zone: <*> pages, LIFO batch:<*>"
+960,961,Jul,27,14:41:57,combo,kernel,,DMI 2.3 present.,E42,DMI <*> present.
+961,962,Jul,27,14:41:57,combo,kernel,,ACPI disabled because your bios is from 2000 and too old,E4,ACPI disabled because your bios is from <*> and too old
+962,963,Jul,27,14:41:57,combo,kernel,,Built 1 zonelists,E24,Built <*> zonelists
+963,964,Jul,27,14:41:57,combo,kernel,,Kernel command line: ro root=LABEL=/ rhgb quiet,E62,Kernel command line: ro <*>=LABEL=/ rhgb quiet
+964,965,Jul,27,14:41:57,combo,kernel,,"CPU 0 irqstacks, hard=02345000 soft=02344000",E32,"CPU <*> irqstacks, hard=<*> soft=<*>"
+965,966,Jul,27,14:41:57,combo,portmap,,portmap startup succeeded,E85,portmap startup succeeded
+966,967,Jul,27,14:41:57,combo,kernel,,Detected 731.219 MHz processor.,E40,Detected <*> MHz processor.
+967,968,Jul,27,14:41:57,combo,kernel,,Using tsc for high-res timesource,E113,Using tsc for high-res timesource
+968,969,Jul,27,14:41:58,combo,nfslock,,rpc.statd startup succeeded,E93,rpc.statd startup succeeded
+969,970,Jul,27,14:41:58,combo,kernel,,"There is already a security framework initialized, register_security failed.",E107,"There is already a security framework initialized, register_security failed."
+970,971,Jul,27,14:41:58,combo,kernel,,Failure registering capabilities with the kernel,E46,Failure registering capabilities with the kernel
+971,972,Jul,27,14:41:58,combo,kernel,,Capability LSM initialized,E26,Capability LSM initialized
+972,973,Jul,27,14:41:58,combo,rpcidmapd,,rpc.idmapd startup succeeded,E92,rpc.idmapd startup succeeded
+973,974,Jul,27,14:41:58,combo,kernel,,"Mount-cache hash table entries: 512 (order: 0, 4096 bytes)",E71,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)"
+974,975,Jul,27,14:41:58,combo,kernel,,Intel machine check architecture supported.,E56,Intel machine check architecture supported.
+975,976,Jul,27,14:41:58,combo,kernel,,Intel machine check reporting enabled on CPU#0.,E57,Intel machine check reporting enabled on CPU#<*>.
+976,977,Jul,27,14:41:58,combo,kernel,,CPU: Intel Pentium III (Coppermine) stepping 06,E33,CPU: Intel Pentium III (Coppermine) stepping <*>
+977,978,Jul,27,14:41:58,combo,kernel,,Enabling fast FPU save and restore... done.,E44,Enabling fast FPU save and restore... done.
+978,979,Jul,27,14:41:58,combo,kernel,,Enabling unmasked SIMD FPU exception support... done.,E45,Enabling unmasked SIMD FPU exception support... done.
+979,980,Jul,27,14:41:58,combo,kernel,,Checking 'hlt' instruction... OK.,E28,Checking 'hlt' instruction... OK.
+980,981,Jul,27,14:41:58,combo,kernel,,POSIX conformance testing by UNIFIX,E86,POSIX conformance testing by UNIFIX
+981,982,Jul,27,14:41:58,combo,kernel,,"PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1",E78,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>"
+982,983,Jul,27,14:41:58,combo,kernel,,Linux Plug and Play Support v0.97 (c) Adam Belay,E67,Linux Plug and Play Support <*> (c) Adam Belay
+983,984,Jul,27,14:41:58,combo,rc,,Starting pcmcia:  succeeded,E105,Starting pcmcia: succeeded
+984,985,Jul,27,14:41:58,combo,kernel,,usbcore: registered new driver usbfs,E111,usbcore: registered new driver usbfs
+985,986,Jul,27,14:41:58,combo,kernel,,ACPI: ACPI tables contain no PCI IRQ routing entries,E5,ACPI: ACPI tables contain no PCI IRQ routing entries
+986,987,Jul,27,14:41:59,combo,kernel,,PCI: Invalid ACPI-PCI IRQ routing table,E77,PCI: Invalid ACPI-PCI IRQ routing table
+987,988,Jul,27,14:41:59,combo,kernel,,PCI: Probing PCI hardware (bus 00),E80,PCI: Probing PCI hardware (bus <*>)
+988,989,Jul,27,14:41:59,combo,kernel,,Transparent bridge - 0000:00:1e.0,E109,Transparent bridge - <*>
+989,990,Jul,27,14:41:59,combo,kernel,,audit: initializing netlink socket (disabled),E12,audit: initializing netlink socket (disabled)
+990,991,Jul,27,14:41:59,combo,sdpd,1696.0,sdpd v1.5 started,E95,sdpd <*> started
+991,992,Jul,27,14:41:59,combo,kernel,,VFS: Disk quotas dquot_6.5.1,E115,VFS: Disk quotas <*>
+992,993,Jul,27,14:41:59,combo,kernel,,"Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)",E43,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)"
+993,994,Jul,27,14:41:59,combo,kernel,,SELinux:  Registering netfilter hooks,E98,SELinux: Registering netfilter hooks
+994,995,Jul,27,14:41:59,combo,kernel,,Initializing Cryptographic API,E53,Initializing Cryptographic API
+995,996,Jul,27,14:41:59,combo,kernel,,pci_hotplug: PCI Hot Plug PCI Core version: 0.5,E83,pci_hotplug: PCI Hot Plug PCI Core version: <*>
+996,997,Jul,27,14:42:00,combo,kernel,,isapnp: Scanning for PnP cards...,E60,isapnp: Scanning for PnP cards...
+997,998,Jul,27,14:42:00,combo,kernel,,isapnp: No Plug & Play device found,E59,isapnp: No Plug & Play device found
+998,999,Jul,27,14:42:00,combo,kernel,,Real Time Clock Driver v1.12,E87,Real Time Clock Driver <*>
+999,1000,Jul,27,14:42:00,combo,kernel,,Linux agpgart interface v0.100 (c) Dave Jones,E66,Linux agpgart interface <*> (c) Dave Jones

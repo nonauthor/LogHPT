@@ -1,0 +1,62 @@
+{
+ "order_1": [
+  "BGL",
+  "HDFS",
+  "Spirit",
+  "Thunderbird"
+ ],
+ "order_2": [
+  "Thunderbird",
+  "BGL",
+  "HDFS",
+  "Spirit"
+ ],
+ "order_3": [
+  "BGL",
+  "Spirit",
+  "HDFS",
+  "Thunderbird"
+ ],
+ "order_4": [
+  "HDFS",
+  "Spirit",
+  "Thunderbird",
+  "BGL"
+ ],
+ "order_5": [
+  "Spirit",
+  "BGL",
+  "HDFS",
+  "Thunderbird"
+ ],
+ "order_6": [
+  "Thunderbird",
+  "Spirit",
+  "HDFS",
+  "BGL"
+ ],
+ "order_7": [
+  "HDFS",
+  "Thunderbird",
+  "BGL",
+  "Spirit"
+ ],
+ "order_8": [
+  "Spirit",
+  "HDFS",
+  "BGL",
+  "Thunderbird"
+ ],
+ "order_9": [
+  "BGL",
+  "Thunderbird",
+  "Spirit",
+  "HDFS"
+ ],
+ "order_10": [
+  "Spirit",
+  "BGL",
+  "Thunderbird",
+  "HDFS"
+ ]
+}

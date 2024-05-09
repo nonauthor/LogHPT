@@ -1,0 +1,1001 @@
+,LineId,LogId,Node,Component,State,Time,Flag,Content
+0,1,344518,node-246,unix.hw,state_change.unavailable,1084270955,1,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=5089)
+1,2,438190,node-228,unix.hw,state_change.unavailable,1097194780,1,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3713)
+2,3,401569,node-169,unix.hw,state_change.unavailable,1142550406,1,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2969)
+3,4,401855,node-187,unix.hw,state_change.unavailable,1142553646,1,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4159)
+4,5,460773,node-199,unix.hw,state_change.unavailable,1145552100,1,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608)
+5,6,2570772,node-124,action,start,1074123150,1,clusterAddMember  (command 1900)
+6,7,2571927,node-28,action,start,1074125371,1,risBoot  (command 1903)
+7,8,2576195,node-181,action,start,1074178628,1,boot  (command 1910)
+8,9,2599298,node-198,action,start,1074297419,1,boot  (command 1978)
+9,10,2600743,node-57,action,start,1074298084,1,boot  (command 1967)
+10,11,2601401,node-184,action,start,1074298390,1,wait  (command 1975)
+11,12,2612635,node-88,action,start,1074535847,1,boot  (command 1999)
+12,13,2600616,node-152,action,start,1074298056,1,boot  (command 1973)
+13,14,2601430,node-159,action,start,1074298398,1,wait  (command 1973)
+14,15,41108,node-93,action,start,1076538873,1,boot  (command 2152)
+15,16,39962,node-134,action,start,1076538533,1,wait  (command 2154)
+16,17,76306,node-57,action,start,1077204892,1,halt  (command 2221)
+17,18,75026,node-119,action,start,1077172842,1,wait  (command 2217)
+18,19,66410,node-226,action,start,1076874863,1,wait  (command 2201)
+19,20,61193,node-25,action,start,1076865929,1,boot  (command 2183)
+20,21,93083,node-242,action,start,1077645240,1,boot  (command 2257)
+21,22,138728,node-25,action,start,1077810165,1,boot  (command 2316)
+22,23,160960,node-3,action,start,1077875823,1,boot  (command 2392)
+23,24,163146,node-206,action,start,1077878060,1,boot  (command 2417)
+24,25,165793,node-89,action,start,1077881713,1,wait  (command 2424)
+25,26,177730,node-200,action,start,1077894469,1,wait  (command 2449)
+26,27,186693,node-125,action,start,1077903223,1,wait  (command 2468)
+27,28,201811,node-76,action,start,1078162366,1,wait  (command 2484)
+28,29,264003,node-176,action,start,1079249218,1,boot  (command 2625)
+29,30,256981,node-58,action,start,1079070194,1,wait  (command 2607)
+30,31,256874,node-90,action,start,1079070177,1,boot  (command 2616)
+31,32,256223,node-82,action,start,1079070000,1,boot  (command 2616)
+32,33,254534,node-129,action,start,1079069377,1,boot  (command 2602)
+33,34,247848,node-157,action,start,1079049069,1,wait  (command 2582)
+34,35,245027,node-175,action,start,1079048210,1,boot  (command 2584)
+35,36,235608,node-34,action,start,1079014799,1,boot  (command 2550)
+36,37,233507,node-227,action,start,1079012648,1,boot  (command 2538)
+37,38,276581,node-120,action,start,1079617260,1,wait  (command 2682)
+38,39,307999,node-112,action,start,1082038630,1,wait  (command 2823)
+39,40,309387,node-27,action,start,1082039069,1,wait  (command 2817)
+40,41,362348,node-220,action,start,1085071596,1,boot  (command 2960)
+41,42,360562,node-229,action,start,1085071024,1,wait  (command 2963)
+42,43,402485,node-205,action,start,1089897107,1,wait  (command 3087)
+43,44,402097,node-73,action,start,1089897051,1,wait  (command 3079)
+44,45,429535,node-124,action,start,1095347018,1,wait  (command 3141)
+45,46,437355,node-19,action,start,1096995511,1,boot  (command 3169)
+46,47,20797,node-188,action,start,1100785975,1,boot  (command 3317)
+47,48,32761,node-17,action,start,1102475613,1,wait  (command 3334)
+48,49,70287,node-70,action,start,1108647096,1,wait  (command 3412)
+49,50,70708,node-115,action,start,1108647304,1,boot  (command 3413)
+50,51,112147,node-82,action,start,1111072078,1,boot  (command 3473)
+51,52,164990,node-114,action,start,1114095917,1,boot  (command 3572)
+52,53,165357,node-246,action,start,1114095982,1,boot  (command 3580)
+53,54,210411,node-40,action,start,1116601982,1,wait  (command 3609)
+54,55,211063,node-18,action,start,1116604606,1,boot  (command 3624)
+55,56,213303,node-83,action,start,1116611976,1,boot  (command 3639)
+56,57,252602,node-145,action,start,1118929116,1,boot  (command 3696)
+57,58,173915,node-59,action,start,1131220838,1,boot  (command 3951)
+58,59,193032,node-46,action,start,1131241563,1,wait  (command 3973)
+59,60,194265,node-186,action,start,1131242308,1,wait  (command 3981)
+60,61,194301,node-185,action,start,1131242355,1,wait  (command 3981)
+61,62,220288,node-194,action,start,1132159257,1,boot  (command 4024)
+62,63,288620,node-150,action,start,1134671414,1,wait  (command 4061)
+63,64,329026,node-111,action,start,1140100216,1,wait  (command 4110)
+64,65,328665,node-234,action,start,1140100074,1,boot  (command 4118)
+65,66,328095,node-194,action,start,1140099718,1,wait  (command 4117)
+66,67,374387,node-116,action,start,1141676760,1,wait  (command 4145)
+67,68,397088,node-148,action,start,1142527921,1,boot  (command 4176)
+68,69,397742,node-56,action,start,1142528184,1,boot  (command 4170)
+69,70,460486,node-181,action,start,1145552039,1,boot  (command 4223)
+70,71,460596,node-143,action,start,1145552056,1,wait  (command 4221)
+71,72,461572,node-116,action,start,1145552379,1,wait  (command 4219)
+72,73,247935,2568,boot_cmd,success,1079049124,1,Command has completed successfully
+73,74,301526,2797,boot_cmd,success,1081993794,1,Command has completed successfully
+74,75,2599217,1973,boot_cmd,new,1074297389,1,Targeting domains:node-D4 and nodes:node-[136-159] child of command 1964
+75,76,210240,2490,boot_cmd,new,1078453922,1,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489
+76,77,276415,3709,boot_cmd,new,1119845316,1,Targeting domains:node-D2 and nodes:node-84
+77,78,341834,node-118,node,psu,1140312091,1,psu failure\ ambient=28
+78,79,347972,node-118,node,psu,1140430530,1,psu failure\ ambient=31
+79,80,147394,Interconnect-0N00,switch_module,temphigh,1129812510,1,Temperature (41C) exceeds warning threshold
+80,81,2609055,node-D7,clusterfilesystem,clusterfilesystem.no_server,1074464654,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage1412
+81,82,32255,node-D7,clusterfilesystem,clusterfilesystem.no_server,1076398960,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage934
+82,83,57709,node-D0,clusterfilesystem,clusterfilesystem.no_server,1076864348,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage444
+83,84,400170,node-D7,clusterfilesystem,clusterfilesystem.no_server,1089893907,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage1331
+84,85,399288,node-D0,clusterfilesystem,clusterfilesystem.no_server,1089893729,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+85,86,399278,node-D0,clusterfilesystem,clusterfilesystem.no_server,1089893727,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage221
+86,87,68757,node-D0,clusterfilesystem,clusterfilesystem.no_server,1108645899,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+87,88,69243,node-D7,clusterfilesystem,clusterfilesystem.no_server,1108646021,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+88,89,110887,node-D7,clusterfilesystem,clusterfilesystem.no_server,1111067897,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage1311
+89,90,220014,node-D0,clusterfilesystem,clusterfilesystem.no_server,1132158358,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage132
+90,91,286137,node-D0,clusterfilesystem,clusterfilesystem.no_server,1134669644,1,ClusterFileSystem: There is no server for ServerFileSystem domain storage832
+91,92,365140,node-69,unix.hw,net.niff.down,1085075228,1,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0
+92,93,401608,node-162,unix.hw,net.niff.down,1142550442,1,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0
+93,94,289739,Interconnect-0N00,switch_module,fan,1121303273,1,Fan speeds ( 3552 3534 3375 4245 3515 3479 )
+94,95,37743,Interconnect-0N00,switch_module,fan,1125827345,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+95,96,37524,Interconnect-0N00,switch_module,fan,1125819002,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+96,97,35581,Interconnect-0N00,switch_module,fan,1125706262,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+97,98,34204,Interconnect-0N00,switch_module,fan,1125664672,1,Fan speeds ( 3552 3534 3375 4470 3515 3479 )
+98,99,33385,Interconnect-0N00,switch_module,fan,1125557358,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+99,100,45526,Interconnect-0N00,switch_module,fan,1126010284,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+100,101,45232,Interconnect-0N00,switch_module,fan,1125974682,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+101,102,44885,Interconnect-0N00,switch_module,fan,1125968635,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+102,103,44437,Interconnect-0N00,switch_module,fan,1125958618,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+103,104,43807,Interconnect-0N00,switch_module,fan,1125941020,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+104,105,43219,Interconnect-0N00,switch_module,fan,1125938127,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+105,106,42301,Interconnect-0N00,switch_module,fan,1125933864,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+106,107,41142,Interconnect-0N00,switch_module,fan,1125922192,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+107,108,40627,Interconnect-0N00,switch_module,fan,1125915213,1,Fan speeds ( 3552 3534 3375 4166 3515 3479 )
+108,109,104883,Interconnect-0N00,switch_module,fan,1128271267,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+109,110,121157,Interconnect-0N00,switch_module,fan,1129314010,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+110,111,120348,Interconnect-0N00,switch_module,fan,1129295109,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+111,112,119213,Interconnect-0N00,switch_module,fan,1129157128,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+112,113,119142,Interconnect-0N00,switch_module,fan,1129155779,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+113,114,119082,Interconnect-0N00,switch_module,fan,1129155045,1,Fan speeds ( 3552 3534 3375 4530 3515 3479 )
+114,115,118806,Interconnect-0N00,switch_module,fan,1129150679,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+115,116,116927,Interconnect-0N00,switch_module,fan,1128899272,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+116,117,116705,Interconnect-0N00,switch_module,fan,1128888604,1,Fan speeds ( 3552 3534 3375 4192 3515 3479 )
+117,118,116664,Interconnect-0N00,switch_module,fan,1128887986,1,Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+118,119,259847,Interconnect-0N00,switch_module,fan,1133182195,1,Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+119,120,259180,Interconnect-0N00,switch_module,fan,1133174442,1,Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+120,121,259133,Interconnect-0N00,switch_module,fan,1133174185,1,Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+121,122,258413,Interconnect-0N00,switch_module,fan,1133169111,1,Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+122,123,349086,Interconnect-0N00,switch_module,fan,1140616724,1,Fan speeds ( 3552 3552 3391 **** 3515 3497 )
+123,124,349016,Interconnect-0N00,switch_module,fan,1140616395,1,Fan speeds ( 3552 3552 3391 **** 3515 3497 )
+124,125,379641,Interconnect-0N00,switch_module,fan,1141828195,1,Fan speeds ( 3534 3534 3375 4470 3497 3479 )
+125,126,442494,Interconnect-0N00,switch_module,fan,1143993115,1,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+126,127,442338,Interconnect-0N00,switch_module,fan,1143991258,1,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+127,128,442189,Interconnect-0N00,switch_module,fan,1143988225,1,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+128,129,441254,Interconnect-0N00,switch_module,fan,1143979871,1,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+129,130,441208,Interconnect-0N00,switch_module,fan,1143979502,1,Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+130,131,30700,Interconnect-1T00,switch_module,bcast-error,1076189965,1,Link error
+131,132,259323,Interconnect-1T00,switch_module,bcast-error,1079076297,1,Link error
+132,133,285855,Interconnect-1T00,switch_module,bcast-error,1080298218,1,Link in reset
+133,134,288385,Interconnect-0T00,switch_module,bcast-error,1080668603,1,Link error
+134,135,293098,Interconnect-1T00,switch_module,bcast-error,1081296321,1,Link error
+135,136,323647,Interconnect-1T00,switch_module,bcast-error,1083198788,1,Link ok
+136,137,408176,Interconnect-1T00,switch_module,bcast-error,1142743438,1,Link error on broadcast tree Interconnect-1T00:00:2:0
+137,138,191911,node-D4,clusterfilesystem,fdmn.full,1077949575,1,ServerFileSystem: ServerFileSystem domain root14_local is full
+138,139,280513,node-D0,clusterfilesystem,fdmn.full,1079715693,1,ServerFileSystem: ServerFileSystem domain root10_local is full
+139,140,284487,node-D3,clusterfilesystem,fdmn.full,1080155118,1,ServerFileSystem: ServerFileSystem domain root22_local is full
+140,141,178450,node-D4,clusterfilesystem,fdmn.full,1114553373,1,ServerFileSystem: ServerFileSystem domain root22_local is full
+141,142,218505,node-D3,clusterfilesystem,fdmn.full,1117130918,1,ServerFileSystem: ServerFileSystem domain root22_local is full
+142,143,2567825,node-D5,clusterfilesystem,clusterfilesystem.not_served,1074100162,1,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160
+143,144,2572991,node-D1,clusterfilesystem,clusterfilesystem.not_served,1074129956,1,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-57
+144,145,2589848,node-D0,clusterfilesystem,clusterfilesystem.not_served,1074257445,1,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-28
+145,146,2589995,node-D0,clusterfilesystem,clusterfilesystem.not_served,1074257629,1,ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-11
+146,147,37555,node-D6,clusterfilesystem,clusterfilesystem.not_served,1076533718,1,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-196
+147,148,156291,node-D7,clusterfilesystem,clusterfilesystem.not_served,1077864767,1,ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245
+148,149,160172,node-D2,clusterfilesystem,clusterfilesystem.not_served,1077875490,1,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-77
+149,150,160413,node-D1,clusterfilesystem,clusterfilesystem.not_served,1077875542,1,ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-37
+150,151,254062,node-D1,clusterfilesystem,clusterfilesystem.not_served,1079069211,1,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-45
+151,152,252335,node-D0,clusterfilesystem,clusterfilesystem.not_served,1079068559,1,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4
+152,153,190287,node-D4,clusterfilesystem,clusterfilesystem.not_served,1115830055,1,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128
+153,154,203954,node-D7,clusterfilesystem,clusterfilesystem.not_served,1116530480,1,ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-247
+154,155,280288,node-D6,clusterfilesystem,clusterfilesystem.not_served,1120297769,1,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192
+155,156,72165,node-D3,clusterfilesystem,clusterfilesystem.not_served,1127045031,1,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-96
+156,157,197958,node-D3,clusterfilesystem,clusterfilesystem.not_served,1131282056,1,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-96
+157,158,2286759,full,partition,status,1061219795,-1,running
+158,159,2274013,full,partition,status,1060340885,-1,running
+159,160,2556866,full,partition,status,1072881064,1,running
+160,161,2279283,full,partition,status,1060744865,-1,running
+161,162,2561542,full,partition,status,1073427660,1,blocked
+162,163,2313012,full,partition,status,1061552195,-1,running
+163,164,2567461,node-C0,domain,status,1074098612,1,not responding
+164,165,2567534,node-97,node,status,1074098640,1,configured out
+165,166,2579921,node-140,node,status,1074216940,1,running
+166,167,2581412,node-211,node,status,1074217360,1,not responding
+167,168,2590658,node-123,node,status,1074262967,1,running
+168,169,2596232,node-239,node,status,1074289147,1,not responding
+169,170,2590751,node-216,node,status,1074262967,1,running
+170,171,2595682,node-12,node,status,1074288817,1,not responding
+171,172,2596033,node-131,node,status,1074288991,1,not responding
+172,173,2601830,node-56,node,status,1074298784,1,running
+173,174,2601896,node-122,node,status,1074298784,0,running
+174,175,2601953,node-144,node,status,1074299123,1,running
+175,176,2602004,node-195,node,status,1074299123,1,running
+176,177,41982,node-202,node,status,1076539387,1,running
+177,178,41798,node-17,node,status,1076539387,1,running
+178,179,44677,node-112,node,status,1076542145,1,running
+179,180,45685,node-109,node,status,1076544000,1,active
+180,181,47952,node-202,node,status,1076619203,1,running
+181,182,80830,node-65,node,status,1077321390,1,configured out
+182,183,77067,node-35,node,status,1077215250,1,configured out
+183,184,76769,node-61,node,status,1077207138,1,running
+184,185,114862,node-114,node,status,1077744705,1,running
+185,186,90661,node-61,node,status,1077630630,1,configured out
+186,187,160937,node-D1,domain,status,1077875820,1,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>
+187,188,172472,node-100,node,status,1077891510,1,configured out
+188,189,172572,node-168,node,status,1077891560,1,not responding
+189,190,178780,node-147,node,status,1077897241,0,running
+190,191,182635,node-44,node,status,1077901440,1,configured out
+191,192,182817,node-143,node,status,1077901590,1,configured out
+192,193,222217,node-204,node,status,1078490191,1,configured out
+193,194,219117,node-81,node,status,1078470966,1,running
+194,195,212764,node-120,node,status,1078465560,1,configured out
+195,196,212647,node-60,node,status,1078465470,1,configured out
+196,197,264527,node-159,node,status,1079259783,1,not responding
+197,198,264395,node-196,node,status,1079255686,1,active
+198,199,264038,full,partition,status,1079249252,1,running
+199,200,263641,full,partition,status,1079248586,1,running
+200,201,263520,node-170,node,status,1079248515,1,configured out
+201,202,263068,node-173,node,status,1079245564,1,running
+202,203,261699,node-230,node,status,1079218682,1,not responding
+203,204,261427,node-233,node,status,1079216415,1,not responding
+204,205,260472,node-13,node,status,1079143598,1,not responding
+205,206,260233,node-166,node,status,1079127020,1,running
+206,207,260158,node-155,node,status,1079127017,1,running
+207,208,252790,node-229,node,status,1079068924,1,configured out
+208,209,252605,node-44,node,status,1079068924,1,configured out
+209,210,250426,node-250,node,status,1079054309,1,running
+210,211,250337,node-161,node,status,1079054308,1,running
+211,212,244332,node-34,node,status,1079047060,1,not responding
+212,213,239558,node-164,node,status,1079019273,1,running
+213,214,239458,node-64,node,status,1079019273,1,running
+214,215,234328,node-61,node,status,1079013840,1,configured out
+215,216,272707,node-169,node,status,1079615369,1,not responding
+216,217,277686,node-209,node,status,1079618688,1,running
+217,218,273131,node-253,node,status,1079615432,0,configured out
+218,219,273112,node-234,node,status,1079615432,0,configured out
+219,220,272780,node-174,node,status,1079615371,0,configured out
+220,221,272777,node-171,node,status,1079615371,0,configured out
+221,222,277540,node-119,node,status,1079618410,0,running
+222,223,272589,node-151,node,status,1079615344,0,not responding
+223,224,296297,node-225,node,status,1081571034,1,not responding
+224,225,277540,node-119,node,status,1079618410,0,running
+225,226,272769,node-163,node,status,1079615371,1,configured out
+226,227,300968,full,partition,status,1081932726,1,running
+227,228,310009,node-13,node,status,1082040658,1,running
+228,229,315748,node-19,node,status,1082665230,1,configured out
+229,230,329774,node-235,node,status,1083207608,0,running
+230,231,329596,node-57,node,status,1083207607,1,running
+231,232,323246,node-170,node,status,1083197700,1,not responding
+232,233,339296,node-125,node,status,1083307405,0,configured out
+233,234,340209,node-247,node,status,1083317700,0,running
+234,235,344301,node-52,node,status,1084269345,0,configured out
+235,236,343802,node-52,node,status,1084264230,1,configured out
+236,237,366141,node-95,node,status,1085078720,1,running
+237,238,371329,full,partition,status,1085797473,1,running
+238,239,370250,full,partition,status,1085689890,1,blocked
+239,240,369300,node-79,node,status,1085569402,1,running
+240,241,379995,node-227,node,status,1086028827,0,running
+241,242,372036,node-219,node,status,1085921340,1,configured out
+242,243,371847,node-49,node,status,1085921312,1,configured out
+243,244,379912,node-144,node,status,1086028827,0,running
+244,245,386783,node-224,node,status,1087499940,1,active
+245,246,392736,node-198,node,status,1088023734,0,running
+246,247,392729,node-159,node,status,1088023734,0,running
+247,248,392693,node-123,node,status,1088023734,0,running
+248,249,399657,node-155,node,status,1089893790,1,not responding
+249,250,399519,node-85,node,status,1089893761,1,configured out
+250,251,399366,node-39,node,status,1089893731,1,configured out
+251,252,399176,node-54,node,status,1089893717,1,not responding
+252,253,398501,node-235,node,status,1089811825,1,running
+253,254,409269,node-195,node,status,1091248620,1,configured out
+254,255,371878,node-64,node,status,1085921340,-1,configured out
+255,256,413350,node-41,node,status,1092320602,1,running
+256,257,368988,node-96,node,status,1085567825,-1,configured out
+257,258,417113,full,partition,status,1093473150,1,blocked
+258,259,413275,node-222,node,status,1092320499,0,configured out
+259,260,421363,full,partition,status,1094571984,1,running
+260,261,421349,node-18,node,status,1094571950,1,running
+261,262,432939,node-254,node,status,1095349520,0,running
+262,263,413246,node-193,node,status,1092320499,1,configured out
+263,264,425071,node-174,node,status,1095341277,1,active
+264,265,424807,node-53,node,status,1095339932,1,not responding
+265,266,424634,node-210,node,status,1095338588,1,configured out
+266,267,432838,node-153,node,status,1095349520,0,running
+267,268,432843,node-158,node,status,1095349520,1,running
+268,269,371910,node-96,node,status,1085921340,-1,configured out
+269,270,442459,node-42,node,status,1098366960,1,not responding
+270,271,448690,node-48,node,status,1098394861,1,running
+271,272,448947,node-66,node,status,1098395762,1,configured out
+272,273,449708,full,partition,status,1098490050,1,blocked
+273,274,369020,node-160,node,status,1085567825,-1,configured out
+274,275,448744,node-102,node,status,1098394861,0,running
+275,276,18624,node-205,node,status,1100784210,1,configured out
+276,277,24011,node-77,node,status,1100788549,1,running
+277,278,30351,full,partition,status,1102218393,1,running
+278,279,27536,node-0,node,status,1101792840,1,configured out
+279,280,53241,node-175,node,status,1107152281,1,configured out
+280,281,56392,node-224,node,status,1107904598,1,running
+281,282,73494,node-29,node,status,1108652943,1,running
+282,283,84322,full,partition,status,1109007900,1,blocked
+283,284,97235,full,partition,status,1110138244,1,running
+284,285,110520,node-73,node,status,1111066002,1,not responding
+285,286,117564,node-52,node,status,1111074926,1,running
+286,287,111216,node-192,node,status,1111071420,1,configured out
+287,288,110554,node-174,node,status,1111067067,1,not responding
+288,289,117751,node-239,node,status,1111074926,1,running
+289,290,126627,node-160,node,status,1111828200,1,not responding
+290,291,141504,node-104,node,status,1112420952,1,running
+291,292,140900,node-239,node,status,1112389915,0,running
+292,293,140782,node-220,node,status,1112389862,1,not responding
+293,294,140676,full,partition,status,1112346856,1,starting
+294,295,139404,node-242,node,status,1112054374,1,configured out
+295,296,139086,node-228,node,status,1112051942,1,configured out
+296,297,169348,node-35,node,status,1114098974,1,running
+297,298,202074,node-210,node,status,1116448620,1,not responding
+298,299,202181,node-34,node,status,1116448621,1,not responding
+299,300,216956,node-154,node,status,1116619994,1,running
+300,301,251283,node-200,node,status,1118926110,1,configured out
+301,302,251334,node-254,node,status,1118926152,1,not responding
+302,303,277298,full,partition,status,1120076193,1,running
+303,304,251065,node-92,node,status,1118925810,0,configured out
+304,305,284668,full,partition,status,1120680810,1,blocked
+305,306,923,node-172,node,status,1123709833,1,running
+306,307,1004,node-253,node,status,1123709833,1,running
+307,308,14730,node-172,node,status,1124378018,1,running
+308,309,26628,full,partition,status,1124999460,1,blocked
+309,310,46680,node-126,node,status,1126168979,1,running
+310,311,46615,node-181,node,status,1126168951,1,running
+311,312,56504,node-55,node,status,1126815181,1,configured out
+312,313,58843,full,partition,status,1126818053,1,closing
+313,314,98836,node-83,node,status,1128237754,1,running
+314,315,56298,node-146,node,status,1126814970,0,running
+315,316,56335,node-183,node,status,1126814970,0,running
+316,317,56329,node-177,node,status,1126814970,0,running
+317,318,56404,node-254,node,status,1126814970,0,running
+318,319,116947,node-202,node,status,1128899526,1,running
+319,320,56349,node-198,node,status,1126814970,1,running
+320,321,46114,node-182,node,status,1126165404,-1,configured out
+321,322,169664,node-40,node,status,1131210631,1,not responding
+322,323,168084,full,partition,status,1131032850,1,blocked
+323,324,197110,node-253,node,status,1131247704,1,running
+324,325,204732,node-44,node,status,1131527920,1,active
+325,326,219581,node-76,node,status,1132157850,1,configured out
+326,327,220122,node-D3,domain,status,1132158690,1,not responding
+327,328,260401,full,partition,status,1133290901,1,running
+328,329,274783,full,partition,status,1133702160,1,blocked
+329,330,286085,node-4,node,status,1134669635,1,not responding
+330,331,286957,node-162,node,status,1134670027,1,not responding
+331,332,290042,node-183,node,status,1134672259,1,running
+332,333,289977,node-127,node,status,1134672205,0,running
+333,334,309872,full,partition,status,1135802130,1,blocked
+334,335,323320,node-255,node,status,1139735822,1,not responding
+335,336,327050,node-7,node,status,1140098610,1,configured out
+336,337,372004,node-90,node,status,1141671840,0,configured out
+337,338,371941,node-27,node,status,1141671840,1,configured out
+338,339,401232,node-135,node,status,1142533309,1,running
+339,340,454307,full,partition,status,1145174910,1,blocked
+340,341,459286,node-208,node,status,1145542009,1,not responding
+341,342,459133,node-108,node,status,1145541960,1,configured out
+342,343,463680,node-160,node,status,1145554526,0,running
+343,344,463769,node-249,node,status,1145554526,0,running
+344,345,463684,node-164,node,status,1145554526,0,running
+345,346,2559971,gige7,gige,temperature,1073151998,1,normal
+346,347,2552510,gige7,gige,temperature,1072553474,1,normal
+347,348,2554674,gige7,gige,temperature,1072671675,1,normal
+348,349,2554666,gige5,gige,temperature,1072670036,1,warning
+349,350,2552992,node-212,node,temperature,1072633140,1,ambient=30
+350,351,2563073,gige7,gige,temperature,1073610711,1,normal
+351,352,2562762,node-232,node,temperature,1073579610,1,ambient=30
+352,353,2562656,gige7,gige,temperature,1073561505,1,normal
+353,354,2561239,gige4,gige,temperature,1073375350,1,critical
+354,355,2585341,gige7,gige,temperature,1074234092,1,critical
+355,356,2594414,node-239,node,temperature,1074274436,1,ambient=30
+356,357,40754,node-172,node,temperature,1076538724,1,ambient=26
+357,358,34905,gige7,gige,temperature,1076493252,1,warning
+358,359,48065,node-41,node,temperature,1076619404,1,ambient=29
+359,360,80531,node-174,node,temperature,1077300930,1,ambient=28
+360,361,69672,gige7,gige,temperature,1077015055,1,warning
+361,362,61851,node-60,node,temperature,1076866153,1,ambient=31
+362,363,86744,gige7,gige,temperature,1077371471,1,warning
+363,364,94825,node-45,node,temperature,1077647048,1,ambient=30
+364,365,88946,gige7,gige,temperature,1077576377,1,normal
+365,366,88671,node-148,node,temperature,1077556261,1,ambient=31
+366,367,224786,node-158,node,temperature,1078514733,1,ambient=31
+367,368,203383,gige6,gige,temperature,1078197816,1,normal
+368,369,201365,node-74,node,temperature,1078160650,1,ambient=29
+369,370,234084,node-240,node,temperature,1079013507,1,ambient=30
+370,371,285818,gige7,gige,temperature,1080291435,1,normal
+371,372,283501,gige6,gige,temperature,1080058332,1,normal
+372,373,289816,gige7,gige,temperature,1080845907,1,normal
+373,374,301157,gige7,gige,temperature,1081959922,1,warning
+374,375,297326,gige7,gige,temperature,1081684787,1,normal
+375,376,316541,gige7,gige,temperature,1082824335,1,warning
+376,377,316533,gige7,gige,temperature,1082819535,1,normal
+377,378,316105,gige7,gige,temperature,1082742429,1,warning
+378,379,315684,gige7,gige,temperature,1082629326,1,normal
+379,380,329889,node-217,node,temperature,1083208215,1,ambient=31
+380,381,316991,gige7,gige,temperature,1083025647,1,normal
+381,382,342193,node-244,node,temperature,1083879601,1,ambient=32
+382,383,341924,node-237,node,temperature,1083831510,1,ambient=33
+383,384,341358,gige7,gige,temperature,1083688955,1,warning
+384,385,341168,gige7,gige,temperature,1083639753,1,warning
+385,386,340799,gige7,gige,temperature,1083522751,1,warning
+386,387,350295,node-239,node,temperature,1084629363,1,ambient=31
+387,388,350134,node-109,node,temperature,1084621410,1,ambient=30
+388,389,348683,gige7,gige,temperature,1084476183,1,warning
+389,390,346052,node-137,node,temperature,1084418581,1,ambient=26
+390,391,345974,gige6,gige,temperature,1084380782,1,warning
+391,392,345634,node-237,node,temperature,1084314360,1,ambient=33
+392,393,367104,gige7,gige,temperature,1085206086,1,normal
+393,394,371489,node-237,node,temperature,1085883660,1,ambient=31
+394,395,371437,gige7,gige,temperature,1085855902,1,warning
+395,396,369384,gige4,gige,temperature,1085598845,1,critical
+396,397,381787,node-111,node,temperature,1086206761,1,ambient=30
+397,398,381569,gige4,gige,temperature,1086197563,1,warning
+398,399,380887,node-247,node,temperature,1086178590,1,ambient=33
+399,400,385237,gige3,gige,temperature,1086927360,1,normal
+400,401,384130,node-239,node,temperature,1086699270,1,ambient=31
+401,402,383318,node-108,node,temperature,1086543570,1,ambient=32
+402,403,387324,node-225,node,temperature,1087501911,1,ambient=30
+403,404,391300,gige6,gige,temperature,1087728445,1,warning
+404,405,393242,gige7,gige,temperature,1088265456,1,normal
+405,406,391646,node-234,node,temperature,1087853310,1,ambient=31
+406,407,395148,gige7,gige,temperature,1088937476,1,normal
+407,408,393440,gige7,gige,temperature,1088371359,1,warning
+408,409,396477,gige7,gige,temperature,1089388091,1,normal
+409,410,395945,gige5,gige,temperature,1089210393,1,warning
+410,411,395216,gige5,gige,temperature,1088965285,1,warning
+411,412,409366,node-212,node,temperature,1091251446,1,ambient=29
+412,413,409063,gige6,gige,temperature,1091154558,1,normal
+413,414,408905,gige7,gige,temperature,1091074742,1,warning
+414,415,410909,gige7,gige,temperature,1091423054,1,normal
+415,416,415132,gige7,gige,temperature,1092507298,1,warning
+416,417,416032,gige7,gige,temperature,1092958814,1,warning
+417,418,415725,gige7,gige,temperature,1092870612,1,normal
+418,419,415585,gige7,gige,temperature,1092794408,1,normal
+419,420,415440,gige7,gige,temperature,1092718806,1,normal
+420,421,415407,gige7,gige,temperature,1092699905,1,warning
+421,422,417446,gige7,gige,temperature,1093560329,1,normal
+422,423,417284,gige7,gige,temperature,1093529428,1,warning
+423,424,419403,gige7,gige,temperature,1093856733,1,warning
+424,425,422863,node-11,node,temperature,1094755801,1,ambient=29
+425,426,431406,node-108,node,temperature,1095349170,1,ambient=30
+426,427,429727,node-153,node,temperature,1095347103,1,ambient=30
+427,428,433158,node-132,node,temperature,1095352261,1,ambient=32
+428,429,433405,gige7,gige,temperature,1095412800,1,normal
+429,430,433626,node-167,node,temperature,1095486301,1,ambient=27
+430,431,433841,gige7,gige,temperature,1095539107,1,warning
+431,432,435317,gige7,gige,temperature,1096178141,1,normal
+432,433,434839,gige5,gige,temperature,1095964227,1,normal
+433,434,434057,gige7,gige,temperature,1095644114,1,normal
+434,435,436643,gige6,gige,temperature,1096581363,1,normal
+435,436,436603,gige7,gige,temperature,1096548961,1,normal
+436,437,436574,gige7,gige,temperature,1096527660,1,warning
+437,438,436113,node-22,node,temperature,1096388010,1,ambient=29
+438,439,440293,gige7,gige,temperature,1098009695,1,warning
+439,440,439070,gige7,gige,temperature,1097642792,1,warning
+440,441,452434,node-203,node,temperature,1098866010,1,ambient=30
+441,442,456184,gige7,gige,temperature,1099776905,1,normal
+442,443,455240,node-10,node,temperature,1099408230,1,ambient=30
+443,444,455088,node-111,node,temperature,1099356810,1,ambient=32
+444,445,455065,node-113,node,temperature,1099355101,1,ambient=30
+445,446,455027,node-93,node,temperature,1099354051,1,ambient=33
+446,447,455001,node-107,node,temperature,1099351950,1,ambient=31
+447,448,454690,node-153,node,temperature,1099334221,1,ambient=33
+448,449,457137,gige7,gige,temperature,1100184616,1,normal
+449,450,456744,node-133,node,temperature,1100077083,1,ambient=33
+450,451,24290,node-213,node,temperature,1100796480,1,ambient=31
+451,452,25493,gige6,gige,temperature,1100956034,1,normal
+452,453,26895,node-36,node,temperature,1101549755,1,ambient=27
+453,454,26462,node-255,node,temperature,1101295260,1,ambient=33
+454,455,26313,gige3,gige,temperature,1101216972,1,normal
+455,456,26135,node-43,node,temperature,1101154260,1,ambient=33
+456,457,28128,gige7,gige,temperature,1102067235,1,normal
+457,458,27901,gige7,gige,temperature,1101934034,1,warning
+458,459,27802,gige7,gige,temperature,1101859333,1,normal
+459,460,27654,gige6,gige,temperature,1101803531,1,warning
+460,461,27294,gige5,gige,temperature,1101737723,1,normal
+461,462,34281,node-115,node,temperature,1102771261,1,ambient=29
+462,463,33709,node-255,node,temperature,1102628970,1,ambient=33
+463,464,33505,node-255,node,temperature,1102575540,1,ambient=36
+464,465,33189,node-244,node,temperature,1102493340,1,ambient=30
+465,466,31458,gige7,gige,temperature,1102388245,1,warning
+466,467,30504,gige5,gige,temperature,1102331115,1,normal
+467,468,35981,node-10,node,temperature,1103220120,1,ambient=29
+468,469,36262,gige4,gige,temperature,1103307514,1,normal
+469,470,37077,node-35,node,temperature,1103654431,1,ambient=29
+470,471,37307,gige3,gige,temperature,1103694707,1,warning
+471,472,37818,node-163,node,temperature,1103824141,1,ambient=28
+472,473,38135,gige6,gige,temperature,1103925772,1,normal
+473,474,39618,gige3,gige,temperature,1104640924,1,warning
+474,475,39391,gige7,gige,temperature,1104545871,1,warning
+475,476,39355,gige3,gige,temperature,1104532022,1,normal
+476,477,39219,gige6,gige,temperature,1104471779,1,normal
+477,478,38659,gige6,gige,temperature,1104182576,1,warning
+478,479,41131,gige7,gige,temperature,1104915777,1,normal
+479,480,40785,node-208,node,temperature,1104861840,1,ambient=33
+480,481,40769,node-39,node,temperature,1104858241,1,ambient=27
+481,482,40766,gige7,gige,temperature,1104857875,1,warning
+482,483,40636,node-80,node,temperature,1104852811,1,ambient=33
+483,484,40559,node-174,node,temperature,1104852241,1,ambient=27
+484,485,39995,node-15,node,temperature,1104762876,1,ambient=27
+485,486,39888,gige7,gige,temperature,1104751375,1,normal
+486,487,42364,gige7,gige,temperature,1105072680,1,normal
+487,488,42511,gige7,gige,temperature,1105117680,1,warning
+488,489,45189,gige3,gige,temperature,1105867047,1,normal
+489,490,45076,gige4,gige,temperature,1105824253,1,normal
+490,491,44619,gige3,gige,temperature,1105687639,1,warning
+491,492,44457,gige3,gige,temperature,1105639339,1,normal
+492,493,52888,gige6,gige,temperature,1107017268,1,normal
+493,494,52488,gige7,gige,temperature,1106877516,1,warning
+494,495,51735,gige7,gige,temperature,1106624009,1,normal
+495,496,51616,gige3,gige,temperature,1106579555,1,normal
+496,497,55519,gige6,gige,temperature,1107611276,1,normal
+497,498,57305,gige7,gige,temperature,1108233484,1,normal
+498,499,57066,gige3,gige,temperature,1108137117,1,normal
+499,500,83640,gige6,gige,temperature,1108849993,1,normal
+500,501,90019,gige6,gige,temperature,1109484216,1,warning
+501,502,85087,gige7,gige,temperature,1109195000,1,warning
+502,503,84299,gige4,gige,temperature,1109002453,1,warning
+503,504,84013,gige4,gige,temperature,1108943353,1,warning
+504,505,96925,node-238,node,temperature,1110105780,1,ambient=29
+505,506,92111,node-241,node,temperature,1109806620,1,ambient=28
+506,507,92043,gige3,gige,temperature,1109791669,1,normal
+507,508,90216,node-241,node,temperature,1109539320,1,ambient=28
+508,509,102726,gige4,gige,temperature,1110708631,1,warning
+509,510,98883,gige3,gige,temperature,1110506587,1,normal
+510,511,124326,gige5,gige,temperature,1111320610,1,warning
+511,512,124216,gige1,gige,temperature,1111286054,1,warning
+512,513,124124,gige3,gige,temperature,1111258570,1,warning
+513,514,111952,node-97,node,temperature,1111072025,1,ambient=35
+514,515,126122,node-232,node,temperature,1111798051,1,ambient=33
+515,516,125729,gige5,gige,temperature,1111693818,1,warning
+516,517,124948,gige2,gige,temperature,1111488013,1,normal
+517,518,124947,gige2,gige,temperature,1111487713,1,warning
+518,519,124701,gige1,gige,temperature,1111438759,1,warning
+519,520,141025,node-113,node,temperature,1112395021,1,ambient=27
+520,521,140533,gige5,gige,temperature,1112280080,1,normal
+521,522,139872,node-93,node,temperature,1112115481,1,ambient=33
+522,523,147904,gige6,gige,temperature,1112888964,1,normal
+523,524,147517,node-70,node,temperature,1112734890,1,ambient=32
+524,525,147279,gige3,gige,temperature,1112688738,1,normal
+525,526,159193,gige6,gige,temperature,1113645796,1,warning
+526,527,155760,gige5,gige,temperature,1113610268,1,warning
+527,528,155522,gige5,gige,temperature,1113509172,1,warning
+528,529,155294,gige7,gige,temperature,1113442992,1,critical
+529,530,154200,gige2,gige,temperature,1113298318,1,warning
+530,531,153474,gige4,gige,temperature,1113137369,1,warning
+531,532,176320,gige7,gige,temperature,1114274309,1,warning
+532,533,183966,gige6,gige,temperature,1114918724,1,normal
+533,534,177386,gige6,gige,temperature,1114545212,1,normal
+534,535,189804,node-240,node,temperature,1115511240,1,ambient=25
+535,536,185020,gige4,gige,temperature,1115247878,1,warning
+536,537,190500,gige7,gige,temperature,1115931540,1,critical
+537,538,190419,gige5,gige,temperature,1115894507,1,normal
+538,539,205135,node-67,node,temperature,1116531298,1,ambient=28
+539,540,207333,node-198,node,temperature,1116539762,1,ambient=31
+540,541,207349,node-55,node,temperature,1116539787,1,ambient=33
+541,542,218807,gige6,gige,temperature,1117170619,1,normal
+542,543,218381,gige7,gige,temperature,1117120516,1,warning
+543,544,217921,gige7,gige,temperature,1116963312,1,warning
+544,545,217344,gige6,gige,temperature,1116771007,1,normal
+545,546,231230,gige4,gige,temperature,1117581672,1,normal
+546,547,241019,gige6,gige,temperature,1118436040,1,normal
+547,548,240782,gige6,gige,temperature,1118295037,1,normal
+548,549,240511,gige6,gige,temperature,1118186737,1,normal
+549,550,240399,gige7,gige,temperature,1118112635,1,normal
+550,551,257180,gige6,gige,temperature,1119070315,1,warning
+551,552,272853,gige7,gige,temperature,1119710825,1,critical
+552,553,269014,gige7,gige,temperature,1119541023,1,warning
+553,554,281126,gige3,gige,temperature,1120304472,1,warning
+554,555,277688,gige7,gige,temperature,1120225336,1,critical
+555,556,277575,gige7,gige,temperature,1120164132,1,warning
+556,557,277041,gige3,gige,temperature,1119985870,1,normal
+557,558,277038,gige4,gige,temperature,1119984490,1,warning
+558,559,276947,gige6,gige,temperature,1119966728,1,warning
+559,560,276353,gige3,gige,temperature,1119836470,1,warning
+560,561,285232,node-90,node,temperature,1120765771,1,ambient=36
+561,562,284710,node-161,node,temperature,1120680847,1,ambient=36
+562,563,289181,node-218,node,temperature,1121124240,1,ambient=29
+563,564,288975,gige6,gige,temperature,1121048549,1,warning
+564,565,288882,gige6,gige,temperature,1121010147,1,warning
+565,566,307487,gige4,gige,temperature,1122195175,1,warning
+566,567,318114,gige4,gige,temperature,1122807481,1,warning
+567,568,313879,gige6,gige,temperature,1122529625,1,normal
+568,569,313753,gige7,gige,temperature,1122502623,1,normal
+569,570,313169,node-176,node,temperature,1122334380,1,ambient=35
+570,571,312821,node-23,node,temperature,1122317820,1,ambient=35
+571,572,323620,gige3,gige,temperature,1123303567,1,warning
+572,573,321485,gige4,gige,temperature,1122862981,1,warning
+573,574,98,node-206,node,temperature,1123705544,1,ambient=26
+574,575,160,node-222,node,temperature,1123706820,1,ambient=26
+575,576,557,node-158,node,temperature,1123708507,1,ambient=30
+576,577,15077,gige7,gige,temperature,1124455610,1,normal
+577,578,15135,gige4,gige,temperature,1124477566,1,warning
+578,579,26607,gige7,gige,temperature,1124991417,1,warning
+579,580,26334,gige3,gige,temperature,1124895065,1,normal
+580,581,24723,gige6,gige,temperature,1124654213,1,warning
+581,582,35410,gige7,gige,temperature,1125678723,1,normal
+582,583,32520,gige7,gige,temperature,1125430919,1,normal
+583,584,32503,node-226,node,temperature,1125430560,1,ambient=30
+584,585,32496,node-242,node,temperature,1125430411,1,ambient=31
+585,586,32328,node-166,node,temperature,1125421620,1,ambient=31
+586,587,46807,gige4,gige,temperature,1126181283,1,warning
+587,588,45833,gige6,gige,temperature,1126060332,1,normal
+588,589,47306,gige6,gige,temperature,1126315336,1,warning
+589,590,47324,node-46,node,temperature,1126319850,1,ambient=27
+590,591,66528,gige6,gige,temperature,1126992985,1,warning
+591,592,74599,gige4,gige,temperature,1127513254,1,warning
+592,593,74471,node-28,node,temperature,1127507370,1,ambient=32
+593,594,73580,node-149,node,temperature,1127289450,1,ambient=29
+594,595,73035,gige6,gige,temperature,1127171787,1,normal
+595,596,90446,node-227,node,temperature,1128058591,1,ambient=25
+596,597,89726,node-237,node,temperature,1127970240,1,ambient=27
+597,598,88524,gige7,gige,temperature,1127805997,1,warning
+598,599,88301,node-31,node,temperature,1127779980,1,ambient=31
+599,600,87994,node-14,node,temperature,1127746890,1,ambient=29
+600,601,87957,gige4,gige,temperature,1127740956,1,warning
+601,602,98807,node-67,node,temperature,1128237243,1,ambient=28
+602,603,112690,gige6,gige,temperature,1128819714,1,normal
+603,604,107885,node-139,node,temperature,1128717151,1,ambient=30
+604,605,107355,node-243,node,temperature,1128677790,1,ambient=26
+605,606,107123,gige4,gige,temperature,1128638866,1,warning
+606,607,106121,gige4,gige,temperature,1128486765,1,warning
+607,608,105589,node-231,node,temperature,1128355020,1,ambient=29
+608,609,105277,gige3,gige,temperature,1128317445,1,warning
+609,610,124249,gige7,gige,temperature,1129373817,1,warning
+610,611,122478,gige7,gige,temperature,1129368717,1,normal
+611,612,121634,node-88,node,temperature,1129326780,1,ambient=29
+612,613,120039,gige6,gige,temperature,1129263419,1,normal
+613,614,119973,node-105,node,temperature,1129243651,1,ambient=30
+614,615,118999,node-48,node,temperature,1129152541,1,ambient=30
+615,616,118574,gige3,gige,temperature,1129121155,1,normal
+616,617,118491,node-227,node,temperature,1129105830,1,ambient=28
+617,618,118358,gige3,gige,temperature,1129078855,1,warning
+618,619,117682,gige6,gige,temperature,1128949016,1,normal
+619,620,117530,node-104,node,temperature,1128922170,1,ambient=30
+620,621,148089,gige3,gige,temperature,1129897264,1,normal
+621,622,147747,gige7,gige,temperature,1129829823,1,normal
+622,623,163206,gige3,gige,temperature,1130632279,1,warning
+623,624,162000,node-115,node,temperature,1130582460,1,ambient=26
+624,625,160223,node-113,node,temperature,1130569170,1,ambient=27
+625,626,159900,node-237,node,temperature,1130535210,1,ambient=24
+626,627,159023,gige7,gige,temperature,1130469428,1,normal
+627,628,156104,node-109,node,temperature,1130358332,1,ambient=31
+628,629,155242,gige6,gige,temperature,1130271428,1,warning
+629,630,154670,node-243,node,temperature,1130177820,1,ambient=29
+630,631,154630,node-115,node,temperature,1130172270,1,ambient=29
+631,632,154188,node-113,node,temperature,1130090640,1,ambient=27
+632,633,154068,gige7,gige,temperature,1130069824,1,normal
+633,634,163677,node-237,node,temperature,1130673420,1,ambient=30
+634,635,170998,node-78,node,temperature,1131216252,1,ambient=33
+635,636,167818,gige3,gige,temperature,1130949082,1,normal
+636,637,167414,gige7,gige,temperature,1130878335,1,warning
+637,638,167256,node-237,node,temperature,1130853781,1,ambient=30
+638,639,167025,gige4,gige,temperature,1130825000,1,warning
+639,640,166161,gige4,gige,temperature,1130758999,1,warning
+640,641,204253,gige5,gige,temperature,1131439295,1,normal
+641,642,203805,gige4,gige,temperature,1131366874,1,warning
+642,643,227361,node-214,node,temperature,1132274790,1,ambient=29
+643,644,227833,node-67,node,temperature,1132284720,1,ambient=30
+644,645,227957,node-157,node,temperature,1132285800,1,ambient=31
+645,646,228175,node-33,node,temperature,1132287150,1,ambient=34
+646,647,261998,node-65,node,temperature,1133387520,1,ambient=33
+647,648,275052,node-250,node,temperature,1133856960,1,ambient=36
+648,649,311373,gige3,gige,temperature,1136079262,1,warning
+649,650,312445,gige3,gige,temperature,1136462966,1,normal
+650,651,312232,gige3,gige,temperature,1136305464,1,normal
+651,652,312131,node-97,node,temperature,1136206230,1,ambient=33
+652,653,313273,node-249,node,temperature,1136914380,1,ambient=37
+653,654,313257,gige6,gige,temperature,1136905246,1,warning
+654,655,315731,node-41,node,temperature,1138153620,1,ambient=30
+655,656,315096,node-152,node,temperature,1138047991,1,ambient=27
+656,657,315071,node-175,node,temperature,1138046940,1,ambient=29
+657,658,321202,gige6,gige,temperature,1139481957,1,warning
+658,659,321182,gige3,gige,temperature,1139469899,1,normal
+659,660,320143,node-222,node,temperature,1139331900,1,ambient=28
+660,661,335435,gige3,gige,temperature,1140254414,1,normal
+661,662,334882,node-231,node,temperature,1140199680,1,ambient=28
+662,663,334522,node-239,node,temperature,1140174390,1,ambient=26
+663,664,334127,node-231,node,temperature,1140143250,1,ambient=25
+664,665,333864,node-145,node,temperature,1140138780,1,ambient=32
+665,666,333509,node-168,node,temperature,1140135990,1,ambient=35
+666,667,341488,node-240,node,temperature,1140266130,1,ambient=27
+667,668,341605,node-227,node,temperature,1140281700,1,ambient=28
+668,669,355102,node-238,node,temperature,1140888121,1,ambient=25
+669,670,348402,node-241,node,temperature,1140555150,1,ambient=30
+670,671,348173,gige7,gige,temperature,1140469273,1,critical
+671,672,366358,gige6,gige,temperature,1141480585,1,normal
+672,673,360990,gige6,gige,temperature,1141136483,1,normal
+673,674,360474,node-236,node,temperature,1141005000,1,ambient=25
+674,675,360467,node-114,node,temperature,1141003082,1,ambient=28
+675,676,380953,node-21,node,temperature,1141983900,1,ambient=36
+676,677,380813,node-98,node,temperature,1141951865,1,ambient=30
+677,678,379973,node-48,node,temperature,1141835730,1,ambient=36
+678,679,379230,gige3,gige,temperature,1141762078,1,normal
+679,680,401995,gige4,gige,temperature,1142584554,1,normal
+680,681,402094,node-37,node,temperature,1142615010,1,ambient=33
+681,682,402312,gige7,gige,temperature,1142637295,1,warning
+682,683,415931,node-84,node,temperature,1143096421,1,ambient=33
+683,684,415780,gige3,gige,temperature,1143058438,1,normal
+684,685,415395,node-194,node,temperature,1142947861,1,ambient=26
+685,686,431593,node-233,node,temperature,1143831330,1,ambient=25
+686,687,431421,node-110,node,temperature,1143811410,1,ambient=31
+687,688,426064,gige6,gige,temperature,1143571810,1,normal
+688,689,425832,node-121,node,temperature,1143482567,1,ambient=32
+689,690,425740,node-138,node,temperature,1143482449,1,ambient=28
+690,691,436350,node-241,node,temperature,1143896370,1,ambient=30
+691,692,436897,node-114,node,temperature,1143962820,1,ambient=30
+692,693,448165,gige3,gige,temperature,1144567339,1,normal
+693,694,443814,gige7,gige,temperature,1144183213,1,warning
+694,695,442984,node-114,node,temperature,1144018980,1,ambient=27
+695,696,451250,gige7,gige,temperature,1144890808,1,critical
+696,697,451247,gige7,gige,temperature,1144889909,1,warning
+697,698,451175,gige7,gige,temperature,1144867107,1,warning
+698,699,450483,gige6,gige,temperature,1144802008,1,normal
+699,700,450087,gige3,gige,temperature,1144667241,1,normal
+700,701,458832,node-115,node,temperature,1145540522,1,ambient=28
+701,702,460291,node-103,node,temperature,1145551988,1,ambient=26
+702,703,462282,node-94,node,temperature,1145552738,1,ambient=34
+703,704,465923,gige7,gige,temperature,1145638393,1,warning
+704,705,480082,gige7,gige,temperature,1146100398,1,critical
+705,706,479981,gige4,gige,temperature,1146058156,1,warning
+706,707,2560209,Interconnect-1N01,switch_module,error,1073192214,1,Link ok
+707,708,2553390,Interconnect-1N03,switch_module,error,1072641409,1,Link ok
+708,709,2553308,Interconnect-1N03,switch_module,error,1072638589,1,Link error
+709,710,2560289,Interconnect-1N01,switch_module,error,1073206850,1,Link ok
+710,711,2558415,Interconnect-1T02,switch_module,error,1073119551,1,Link error
+711,712,2560515,Interconnect-1N01,switch_module,error,1073246148,1,Link ok
+712,713,2566680,Interconnect-1N03,switch_module,error,1073991556,1,Link in reset
+713,714,2570021,node-5,action,error,1074121927,1,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+714,715,2570091,Interconnect-0N01,switch_module,error,1074122028,1,Linkerror event interval expired
+715,716,2570813,Interconnect-1N01,switch_module,error,1074123216,1,Linkerror event interval expired
+716,717,2572865,Interconnect-1N00,switch_module,error,1074129389,1,Linkerror event interval expired
+717,718,2572925,Interconnect-1N02,switch_module,error,1074129669,1,Linkerror event interval expired
+718,719,2573682,Interconnect-0N02,switch_module,error,1074131794,1,Linkerror event interval expired
+719,720,2573870,Interconnect-1N02,switch_module,error,1074131950,1,Linkerror event interval expired
+720,721,2574049,Interconnect-1N02,switch_module,error,1074132111,1,Linkerror event interval expired
+721,722,2574588,Interconnect-1N03,switch_module,error,1074137477,1,Linkerror event interval expired
+722,723,2575083,Interconnect-1N01,switch_module,error,1074161541,1,Linkerror event interval expired
+723,724,2575104,Interconnect-1N01,switch_module,error,1074165830,1,Linkerror event interval expired
+724,725,2575308,Interconnect-1N02,switch_module,error,1074175999,1,Linkerror event interval expired
+725,726,2576243,Interconnect-0N02,switch_module,error,1074178679,1,Linkerror event interval expired
+726,727,2577675,Interconnect-1N02,switch_module,error,1074187413,1,Linkerror event interval expired
+727,728,2577929,Interconnect-0N01,switch_module,error,1074189714,1,Linkerror event interval expired
+728,729,2579066,Interconnect-1N02,switch_module,error,1074207069,1,Linkerror event interval expired
+729,730,2579144,Interconnect-1N01,switch_module,error,1074208208,1,Linkerror event interval expired
+730,731,2580497,Interconnect-1N01,switch_module,error,1074217133,1,Linkerror event interval expired
+731,732,2580989,Interconnect-1N01,switch_module,error,1074217255,1,Linkerror event interval expired
+732,733,2583982,Interconnect-1N00,switch_module,error,1074230178,1,Linkerror event interval expired
+733,734,2585588,Interconnect-0N02,switch_module,error,1074234738,1,Linkerror event interval expired
+734,735,2585665,Interconnect-1N03,switch_module,error,1074234966,1,Linkerror event interval expired
+735,736,2585816,Interconnect-1N03,switch_module,error,1074235394,1,Linkerror event interval expired
+736,737,2586025,Interconnect-1N03,switch_module,error,1074236020,1,Linkerror event interval expired
+737,738,2586431,Interconnect-0N03,switch_module,error,1074237429,1,Linkerror event interval expired
+738,739,2587495,Interconnect-0N00,switch_module,error,1074241888,1,Linkerror event interval expired
+739,740,2588164,Interconnect-1N02,switch_module,error,1074242677,1,Linkerror event interval expired
+740,741,2588737,Interconnect-0N03,switch_module,error,1074243063,1,Linkerror event interval expired
+741,742,2590123,Interconnect-1N00,switch_module,error,1074261819,1,Linkerror event interval expired
+742,743,2594227,Interconnect-1N01,switch_module,error,1074272896,1,Linkerror event interval expired
+743,744,2595676,Interconnect-1N01,switch_module,error,1074288628,1,Linkerror event interval expired
+744,745,2597376,Interconnect-1N00,switch_module,error,1074290438,1,Linkerror event interval expired
+745,746,2597642,Interconnect-0N02,switch_module,error,1074290511,1,Linkerror event interval expired
+746,747,2615428,Interconnect-1N01,switch_module,error,1074848454,1,Linkerror event interval expired
+747,748,2590181,Interconnect-0N00,switch_module,error,1074261994,1,Linkerror event interval expired
+748,749,2591699,Interconnect-1T03,switch_module,error,1074268486,1,Linkerror event interval expired
+749,750,2595669,Interconnect-1N01,switch_module,error,1074287600,1,Linkerror event interval expired
+750,751,2597578,Interconnect-1N02,switch_module,error,1074290494,1,Linkerror event interval expired
+751,752,2597608,Interconnect-0N01,switch_module,error,1074290502,1,Linkerror event interval expired
+752,753,2597893,Interconnect-0N02,switch_module,error,1074290575,1,Linkerror event interval expired
+753,754,2598048,Interconnect-0N03,switch_module,error,1074290616,1,Linkerror event interval expired
+754,755,2598112,Interconnect-1N03,switch_module,error,1074290649,1,Linkerror event interval expired
+755,756,2598151,Interconnect-0N03,switch_module,error,1074290671,1,Linkerror event interval expired
+756,757,2606824,Interconnect-1N01,switch_module,error,1074356930,1,Linkerror event interval expired
+757,758,292,Interconnect-1T01,switch_module,error,1075470509,1,Linkerror event interval expired
+758,759,28360,Interconnect-1N00,switch_module,error,1076182055,1,Linkerror event interval expired
+759,760,27373,node-55,action,error,1076176599,1,boot (command 2092) Error: HALT asserted\  cannot continue
+760,761,27185,Interconnect-1N00,switch_module,error,1076173770,1,Linkerror event interval expired
+761,762,19621,Interconnect-1N01,switch_module,error,1076023220,1,Linkerror event interval expired
+762,763,29376,Interconnect-1N00,switch_module,error,1076183342,1,Linkerror event interval expired
+763,764,40208,Interconnect-1N03,switch_module,error,1076538599,1,Linkerror event interval expired
+764,765,35539,Interconnect-0N03,switch_module,error,1076519774,1,Linkerror event interval expired
+765,766,35463,Interconnect-0N00,switch_module,error,1076517688,1,Linkerror event interval expired
+766,767,33331,Interconnect-1N03,switch_module,error,1076434499,1,Linkerror event interval expired
+767,768,32793,Interconnect-1N01,switch_module,error,1076424334,1,Linkerror event interval expired
+768,769,32304,Interconnect-0N03,switch_module,error,1076399082,1,Linkerror event interval expired
+769,770,31891,Interconnect-1T02,switch_module,error,1076379650,1,Linkerror event interval expired
+770,771,31579,Interconnect-1N01,switch_module,error,1076336786,1,Linkerror event interval expired
+771,772,78503,Interconnect-1N01,switch_module,error,1077243903,1,Linkerror event interval expired
+772,773,78479,Interconnect-1N01,switch_module,error,1077238683,1,Linkerror event interval expired
+773,774,77224,Interconnect-0N00,switch_module,error,1077215336,1,Linkerror event interval expired
+774,775,77005,Interconnect-0N00,switch_module,error,1077215215,1,Linkerror event interval expired
+775,776,74611,Interconnect-0N01,switch_module,error,1077171912,1,Linkerror event interval expired
+776,777,73728,Interconnect-1N01,switch_module,error,1077094121,1,Linkerror event interval expired
+777,778,71637,Interconnect-1N00,switch_module,error,1077066136,1,Linkerror event interval expired
+778,779,71623,Interconnect-1N00,switch_module,error,1077066129,1,Linkerror event interval expired
+779,780,71554,Interconnect-0N00,switch_module,error,1077066063,1,Linkerror event interval expired
+780,781,70211,Interconnect-0N03,switch_module,error,1077061058,1,Linkerror event interval expired
+781,782,69261,Interconnect-1N01,switch_module,error,1076933680,1,Linkerror event interval expired
+782,783,61506,Interconnect-1N00,switch_module,error,1076866050,1,Linkerror event interval expired
+783,784,61078,Interconnect-1N01,switch_module,error,1076865899,1,Linkerror event interval expired
+784,785,59022,Interconnect-0N03,switch_module,error,1076865397,1,Linkerror event interval expired
+785,786,86690,Interconnect-1T02,switch_module,error,1077364380,1,Linkerror event interval expired
+786,787,106635,Interconnect-1N01,switch_module,error,1077740032,1,Linkerror event interval expired
+787,788,105870,Interconnect-1N02,switch_module,error,1077739756,1,Linkerror event interval expired
+788,789,105792,Interconnect-0N01,switch_module,error,1077739731,1,Linkerror event interval expired
+789,790,102642,Interconnect-0N02,switch_module,error,1077735930,1,Linkerror event interval expired
+790,791,102627,Interconnect-1N03,switch_module,error,1077735926,1,Linkerror event interval expired
+791,792,94573,Interconnect-0N01,switch_module,error,1077646914,1,Linkerror event interval expired
+792,793,93616,Interconnect-0N00,switch_module,error,1077646552,1,Linkerror event interval expired
+793,794,93592,Interconnect-0N00,switch_module,error,1077646545,1,Linkerror event interval expired
+794,795,92943,Interconnect-1N03,switch_module,error,1077644946,1,Linkerror event interval expired
+795,796,92934,Interconnect-1N03,switch_module,error,1077644940,1,Linkerror event interval expired
+796,797,92067,Interconnect-0N01,switch_module,error,1077631886,1,Linkerror event interval expired
+797,798,92001,Interconnect-1N03,switch_module,error,1077631249,1,Linkerror event interval expired
+798,799,88370,Interconnect-1N01,switch_module,error,1077549077,1,Linkerror event interval expired
+799,800,87770,Interconnect-1T02,switch_module,error,1077473123,1,Linkerror event interval expired
+800,801,87674,Interconnect-1N01,switch_module,error,1077460673,1,Linkerror event interval expired
+801,802,135982,Interconnect-1N01,switch_module,error,1077808440,1,Linkerror event interval expired
+802,803,138177,Interconnect-0N00,switch_module,error,1077809967,1,Linkerror event interval expired
+803,804,141757,Interconnect-1N00,switch_module,error,1077815530,1,Linkerror event interval expired
+804,805,141792,Interconnect-0N00,switch_module,error,1077815549,1,Linkerror event interval expired
+805,806,141816,Interconnect-1N00,switch_module,error,1077815561,1,Linkerror event interval expired
+806,807,142130,Interconnect-0N01,switch_module,error,1077815632,1,Linkerror event interval expired
+807,808,145825,Interconnect-1N02,switch_module,error,1077817398,1,Linkerror event interval expired
+808,809,157160,Interconnect-1N03,switch_module,error,1077867221,1,Linkerror event interval expired
+809,810,157378,Interconnect-1N03,switch_module,error,1077868285,1,Linkerror event interval expired
+810,811,157601,Interconnect-1N03,switch_module,error,1077873194,1,Linkerror event interval expired
+811,812,160886,Interconnect-1N01,switch_module,error,1077875763,1,Linkerror event interval expired
+812,813,161699,Interconnect-1N00,switch_module,error,1077877379,1,Linkerror event interval expired
+813,814,163677,Interconnect-1T01,switch_module,error,1077878640,1,Linkerror event interval expired
+814,815,165107,Interconnect-1N00,switch_module,error,1077881440,1,Linkerror event interval expired
+815,816,173860,Interconnect-0N00,switch_module,error,1077892961,1,Linkerror event interval expired
+816,817,174001,Interconnect-0N00,switch_module,error,1077893002,1,Linkerror event interval expired
+817,818,183763,Interconnect-0N01,switch_module,error,1077902463,1,Linkerror event interval expired
+818,819,185325,Interconnect-1N03,switch_module,error,1077902873,1,Linkerror event interval expired
+819,820,225744,Interconnect-1N02,switch_module,error,1078594479,1,Linkerror event interval expired
+820,821,225055,Interconnect-1N01,switch_module,error,1078529930,1,Linkerror event interval expired
+821,822,216344,Interconnect-1N02,switch_module,error,1078467983,1,Linkerror event interval expired
+822,823,215082,Interconnect-1N00,switch_module,error,1078467571,1,Linkerror event interval expired
+823,824,214078,Interconnect-1N02,switch_module,error,1078466489,1,Linkerror event interval expired
+824,825,213969,Interconnect-1N00,switch_module,error,1078466455,1,Linkerror event interval expired
+825,826,213842,Interconnect-1N01,switch_module,error,1078466414,1,Linkerror event interval expired
+826,827,210873,Interconnect-1N00,switch_module,error,1078455697,1,Linkerror event interval expired
+827,828,210170,Interconnect-0N00,switch_module,error,1078453534,1,Linkerror event interval expired
+828,829,203971,Interconnect-1N01,switch_module,error,1078262512,1,Linkerror event interval expired
+829,830,203519,Interconnect-1N01,switch_module,error,1078221896,1,Linkerror event interval expired
+830,831,201411,Interconnect-1N01,switch_module,error,1078161468,1,Linkerror event interval expired
+831,832,201274,Interconnect-1N01,switch_module,error,1078157542,1,Linkerror event interval expired
+832,833,200983,Interconnect-1N01,switch_module,error,1078126141,1,Linkerror event interval expired
+833,834,200080,Interconnect-1N02,switch_module,error,1078120174,1,Linkerror event interval expired
+834,835,264490,Interconnect-1N01,switch_module,error,1079259526,1,Linkerror event interval expired
+835,836,262454,Interconnect-1N01,switch_module,error,1079242615,1,Linkerror event interval expired
+836,837,260815,Interconnect-1N01,switch_module,error,1079172043,1,Linkerror event interval expired
+837,838,256643,Interconnect-0N03,switch_module,error,1079070099,1,Linkerror event interval expired
+838,839,254564,Interconnect-1N01,switch_module,error,1079069444,1,Linkerror event interval expired
+839,840,247218,Interconnect-0N03,switch_module,error,1079048791,1,Linkerror event interval expired
+840,841,246277,Interconnect-0N02,switch_module,error,1079048528,1,Linkerror event interval expired
+841,842,243924,Interconnect-1N03,switch_module,error,1079046891,1,Linkerror event interval expired
+842,843,243822,Interconnect-0N01,switch_module,error,1079046846,1,Linkerror event interval expired
+843,844,243531,Interconnect-1N00,switch_module,error,1079046762,1,Linkerror event interval expired
+844,845,240969,Interconnect-0N03,switch_module,error,1079031627,1,Linkerror event interval expired
+845,846,236991,Interconnect-0N02,switch_module,error,1079015266,1,Linkerror event interval expired
+846,847,232896,Interconnect-0N02,switch_module,error,1079011268,1,Linkerror event interval expired
+847,848,227776,Interconnect-1T01,switch_module,error,1078852836,1,Linkerror event interval expired
+848,849,227725,Interconnect-1T01,switch_module,error,1078849778,1,Linkerror event interval expired
+849,850,227192,Interconnect-1N00,switch_module,error,1078790431,1,Linkerror event interval expired
+850,851,227111,Interconnect-1T01,switch_module,error,1078780795,1,Linkerror event interval expired
+851,852,226872,Interconnect-0N02,switch_module,error,1078754632,1,Linkerror event interval expired
+852,853,273020,Interconnect-1N03,switch_module,error,1079615422,0,Linkerror event interval expired
+853,854,272687,Interconnect-0N01,switch_module,error,1079615365,1,Linkerror event interval expired
+854,855,275533,Interconnect-0N00,switch_module,error,1079616864,1,Linkerror event interval expired
+855,856,286779,Interconnect-1N01,switch_module,error,1080448427,1,Linkerror event interval expired
+856,857,286758,Interconnect-1N01,switch_module,error,1080446120,1,Linkerror event interval expired
+857,858,283041,Interconnect-1N01,switch_module,error,1080030329,1,Linkerror event interval expired
+858,859,282174,Interconnect-1N01,switch_module,error,1079945592,1,Linkerror event interval expired
+859,860,290101,Interconnect-1N01,switch_module,error,1080880454,1,Linkerror event interval expired
+860,861,289250,Interconnect-1T01,switch_module,error,1080791516,1,Linkerror event interval expired
+861,862,288816,Interconnect-1N01,switch_module,error,1080727457,1,Linkerror event interval expired
+862,863,288353,Interconnect-1T01,switch_module,error,1080665531,1,Linkerror event interval expired
+863,864,288291,Interconnect-1T01,switch_module,error,1080661262,1,Linkerror event interval expired
+864,865,288224,Interconnect-1N01,switch_module,error,1080649743,1,Linkerror event interval expired
+865,866,287173,Interconnect-1N03,switch_module,error,1080515046,1,Linkerror event interval expired
+866,867,286945,Interconnect-1N01,switch_module,error,1080480275,1,Linkerror event interval expired
+867,868,297281,Interconnect-1N01,switch_module,error,1081677869,1,Linkerror event interval expired
+868,869,297179,Interconnect-1N01,switch_module,error,1081658335,1,Linkerror event interval expired
+869,870,296875,Interconnect-1T03,switch_module,error,1081595628,1,Linkerror event interval expired
+870,871,296699,Interconnect-1N01,switch_module,error,1081573002,1,Linkerror event interval expired
+871,872,292872,Interconnect-1N01,switch_module,error,1081271905,1,Linkerror event interval expired
+872,873,292868,Interconnect-1N01,switch_module,error,1081270739,1,Linkerror event interval expired
+873,874,292481,Interconnect-1T02,switch_module,error,1081214271,1,Linkerror event interval expired
+874,875,291723,Interconnect-1T01,switch_module,error,1081100411,1,Linkerror event interval expired
+875,876,306222,Interconnect-1N03,switch_module,error,1082037261,1,Linkerror event interval expired
+876,877,305664,Interconnect-0N01,switch_module,error,1082037120,1,Linkerror event interval expired
+877,878,305545,Interconnect-0N01,switch_module,error,1082037074,1,Linkerror event interval expired
+878,879,305459,Interconnect-0N01,switch_module,error,1082037037,1,Linkerror event interval expired
+879,880,305441,Interconnect-1N00,switch_module,error,1082037026,1,Linkerror event interval expired
+880,881,303819,Interconnect-1T03,switch_module,error,1082033397,1,Linkerror event interval expired
+881,882,303074,Interconnect-1T01,switch_module,error,1082030618,1,Linkerror event interval expired
+882,883,301917,Interconnect-0N00,switch_module,error,1081998320,1,Linkerror event interval expired
+883,884,301866,Interconnect-1N00,switch_module,error,1081998024,1,Linkerror event interval expired
+884,885,300741,Interconnect-1N01,switch_module,error,1081918069,1,Linkerror event interval expired
+885,886,300560,Interconnect-1N01,switch_module,error,1081901930,1,Linkerror event interval expired
+886,887,300105,Interconnect-1N01,switch_module,error,1081841899,1,Linkerror event interval expired
+887,888,297882,Interconnect-1T01,switch_module,error,1081750251,1,Linkerror event interval expired
+888,889,306675,Interconnect-0N01,switch_module,error,1082038166,1,Linkerror event interval expired
+889,890,307671,Interconnect-0N00,switch_module,error,1082038562,1,Linkerror event interval expired
+890,891,309088,Interconnect-1N03,switch_module,error,1082038957,1,Linkerror event interval expired
+891,892,316037,Interconnect-1N01,switch_module,error,1082717020,1,Linkerror event interval expired
+892,893,326762,Interconnect-1N00,switch_module,error,1083202557,1,Linkerror event interval expired
+893,894,326728,Interconnect-1N00,switch_module,error,1083202526,1,Linkerror event interval expired
+894,895,326592,Interconnect-1N03,switch_module,error,1083202466,1,Linkerror event interval expired
+895,896,325902,Interconnect-1N03,switch_module,error,1083202210,1,Linkerror event interval expired
+896,897,322682,Interconnect-0N02,switch_module,error,1083197432,1,Linkerror event interval expired
+897,898,322273,Interconnect-1N00,switch_module,error,1083197259,1,Linkerror event interval expired
+898,899,317191,Interconnect-0N00,switch_module,error,1083128576,1,Linkerror event interval expired
+899,900,345658,Interconnect-1N03,switch_module,error,1084315496,1,Linkerror event interval expired
+900,901,362580,Interconnect-1N03,switch_module,error,1085071662,1,Linkerror event interval expired
+901,902,362262,Interconnect-1N02,switch_module,error,1085071576,1,Linkerror event interval expired
+902,903,384539,Interconnect-0N01,switch_module,error,1086776851,1,Linkerror event interval expired
+903,904,384532,Interconnect-1N01,switch_module,error,1086776710,1,Linkerror event interval expired
+904,905,387955,Interconnect-1N03,switch_module,error,1087504540,1,Linkerror event interval expired
+905,906,403369,Interconnect-0N00,switch_module,error,1089897372,1,Linkerror event interval expired
+906,907,399843,Interconnect-1N03,switch_module,error,1089893840,1,Linkerror event interval expired
+907,908,399137,Interconnect-0N00,switch_module,error,1089893708,1,Linkerror event interval expired
+908,909,399095,Interconnect-0N00,switch_module,error,1089893696,1,Linkerror event interval expired
+909,910,411450,Interconnect-1T03,switch_module,error,1091668219,1,Linkerror event interval expired
+910,911,416218,Interconnect-1T01,switch_module,error,1093072443,1,Linkerror event interval expired
+911,912,418117,Interconnect-1N00,switch_module,error,1093628496,1,Linkerror event interval expired
+912,913,422997,Interconnect-1N00,switch_module,error,1094756198,1,Linkerror event interval expired
+913,914,422170,Interconnect-1T01,switch_module,error,1094723305,1,Linkerror event interval expired
+914,915,422093,Interconnect-1T01,switch_module,error,1094689661,1,Linkerror event interval expired
+915,916,421655,Interconnect-0N00,switch_module,error,1094591249,1,Linkerror event interval expired
+916,917,421555,Interconnect-1N00,switch_module,error,1094587409,1,Linkerror event interval expired
+917,918,421509,Interconnect-0N00,switch_module,error,1094585825,1,Linkerror event interval expired
+918,919,434433,Interconnect-0N00,switch_module,error,1095798699,1,Linkerror event interval expired
+919,920,112502,Interconnect-1N00,switch_module,error,1111072142,1,Linkerror event interval expired
+920,921,111911,Interconnect-1N02,switch_module,error,1111071995,1,Linkerror event interval expired
+921,922,111529,Interconnect-0N00,switch_module,error,1111071796,1,Linkerror event interval expired
+922,923,128445,Interconnect-0N01,switch_module,error,1111848291,1,Linkerror event interval expired
+923,924,126458,Interconnect-0N03,switch_module,error,1111805418,1,Linkerror event interval expired
+924,925,146683,Interconnect-0N03,switch_module,error,1112477787,1,Linkerror event interval expired
+925,926,163616,Interconnect-1N02,switch_module,error,1114093896,1,Linkerror event interval expired
+926,927,177431,Interconnect-1N00,switch_module,error,1114545444,1,Linkerror event interval expired
+927,928,66621,Interconnect-1T01,switch_module,error,1127018764,1,link errors remain current
+928,929,90917,Interconnect-1T01,switch_module,error,1128098598,1,link errors remain current
+929,930,88545,Interconnect-1T01,switch_module,error,1127812228,1,link errors remain current
+930,931,106636,Interconnect-1N01,switch_module,error,1128546820,1,link errors remain current
+931,932,117927,Interconnect-1T01,switch_module,error,1129005435,1,link errors remain current
+932,933,154298,Interconnect-1T01,switch_module,error,1130114502,1,link errors remain current
+933,934,163678,Interconnect-1T01,switch_module,error,1130673545,1,link errors remain current
+934,935,167309,Interconnect-1T01,switch_module,error,1130861712,1,link errors remain current
+935,936,165392,Interconnect-1T01,switch_module,error,1130688133,1,link errors remain current
+936,937,197294,Interconnect-0N01,switch_module,error,1131268024,1,link errors remain current
+937,938,212267,Interconnect-1T01,switch_module,error,1131857400,1,link errors remain current
+938,939,203650,Interconnect-0N01,switch_module,error,1131341748,1,link errors remain current
+939,940,203182,Interconnect-1T01,switch_module,error,1131293685,1,link errors remain current
+940,941,244496,Interconnect-1T01,switch_module,error,1133000231,1,link errors remain current
+941,942,262885,Interconnect-1T01,switch_module,error,1133518990,1,link errors remain current
+942,943,261997,Interconnect-1T01,switch_module,error,1133387468,1,link errors remain current
+943,944,280293,Interconnect-1T01,switch_module,error,1134279282,1,link errors remain current
+944,945,298653,Interconnect-1T01,switch_module,error,1134866941,1,link errors remain current
+945,946,304336,Interconnect-1T01,switch_module,error,1135418418,1,link errors remain current
+946,947,303787,Interconnect-1T01,switch_module,error,1135214320,1,link errors remain current
+947,948,303668,Interconnect-1T01,switch_module,error,1135179178,1,link errors remain current
+948,949,314828,Interconnect-1T01,switch_module,error,1138020376,1,link errors remain current
+949,950,379417,Interconnect-1N00,switch_module,error,1141791316,1,link errors remain current
+950,951,379300,Interconnect-1N00,switch_module,error,1141770248,1,link errors remain current
+951,952,414825,Interconnect-1N00,switch_module,error,1142865108,1,link errors remain current
+952,953,414569,Interconnect-1N02,switch_module,error,1142843014,1,link errors remain current
+953,954,414493,Interconnect-1N02,switch_module,error,1142837578,1,link errors remain current
+954,955,2573188,node-129,unix.hw,net.niff.up,1074131255,1,NIFF: node node-129 has detected an available network connection on network 10.128.0.0 via interface ee0
+955,956,2589343,node-241,unix.hw,net.niff.up,1074243421,1,NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0
+956,957,2612551,node-73,unix.hw,net.niff.up,1074535576,1,NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0
+957,958,2599118,node-252,unix.hw,net.niff.up,1074296980,1,NIFF: node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0
+958,959,2600073,node-173,unix.hw,net.niff.up,1074297838,1,NIFF: node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0
+959,960,2601486,node-189,unix.hw,net.niff.up,1074298415,1,NIFF: node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0
+960,961,2602451,node-163,unix.hw,net.niff.up,1074300629,1,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0
+961,962,40578,node-205,unix.hw,net.niff.up,1076538681,1,NIFF: node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0
+962,963,106492,node-176,unix.hw,net.niff.up,1077739982,1,NIFF: node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0
+963,964,138312,node-237,unix.hw,net.niff.up,1077810015,1,NIFF: node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0
+964,965,138478,node-208,unix.hw,net.niff.up,1077810112,1,NIFF: node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0
+965,966,139925,node-157,unix.hw,net.niff.up,1077810564,1,NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0
+966,967,144893,node-139,unix.hw,net.niff.up,1077817112,1,NIFF: node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0
+967,968,145471,node-84,unix.hw,net.niff.up,1077817325,1,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0
+968,969,156907,node-214,unix.hw,net.niff.up,1077865914,1,NIFF: node node-214 has detected an available network connection on network 5.5.226.0 via interface alt0
+969,970,161226,node-202,unix.hw,net.niff.up,1077876101,1,NIFF: node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0
+970,971,185300,node-234,unix.hw,net.niff.up,1077902844,1,NIFF: node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0
+971,972,186232,node-244,unix.hw,net.niff.up,1077903095,1,NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0
+972,973,252431,node-130,unix.hw,net.niff.up,1079068798,1,NIFF: node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0
+973,974,245674,node-45,unix.hw,net.niff.up,1079048409,1,NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0
+974,975,274822,node-44,unix.hw,net.niff.up,1079616738,1,NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0
+975,976,277244,node-255,unix.hw,net.niff.up,1079617522,1,NIFF: node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0
+976,977,326992,node-72,unix.hw,net.niff.up,1083202727,1,NIFF: node node-72 has detected an available network connection on network 10.128.0.0 via interface ee0
+977,978,361177,node-142,unix.hw,net.niff.up,1085071269,1,NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0
+978,979,389636,node-193,unix.hw,net.niff.up,1087510100,1,NIFF: node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0
+979,980,411578,node-143,unix.hw,net.niff.up,1091737151,1,NIFF: node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0
+980,981,434678,node-106,unix.hw,net.niff.up,1095875337,1,NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0
+981,982,451976,node-23,unix.hw,net.niff.up,1098829410,1,NIFF: node node-23 has detected an available network connection on network 10.128.0.0 via interface ee0
+982,983,71997,node-19,unix.hw,net.niff.up,1108647796,1,NIFF: node node-19 has detected an available network connection on network 10.128.0.0 via interface ee0
+983,984,72634,node-253,unix.hw,net.niff.up,1108648087,1,NIFF: node node-253 has detected an available network connection on network 10.128.0.0 via interface ee0
+984,985,72710,node-29,unix.hw,net.niff.up,1108648186,1,NIFF: node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0
+985,986,113162,node-86,unix.hw,net.niff.up,1111072309,1,NIFF: node node-86 has detected an available network connection on network 10.128.0.0 via interface ee0
+986,987,112896,node-204,unix.hw,net.niff.up,1111072255,1,NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0
+987,988,112456,node-46,unix.hw,net.niff.up,1111072123,1,NIFF: node node-46 has detected an available network connection on network 5.5.224.0 via interface alt0
+988,989,136580,node-150,unix.hw,net.niff.up,1111865217,1,NIFF: node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0
+989,990,130081,node-42,unix.hw,net.niff.up,1111856616,1,NIFF: node node-42 has detected an available network connection on network 10.128.0.0 via interface ee0
+990,991,209845,node-182,unix.hw,net.niff.up,1116601699,1,NIFF: node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0
+991,992,225060,node-69,unix.hw,net.niff.up,1117295720,1,NIFF: node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0
+992,993,253483,node-183,unix.hw,net.niff.up,1118929407,1,NIFF: node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0
+993,994,171898,node-94,unix.hw,net.niff.up,1131216735,1,NIFF: node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0
+994,995,171259,node-176,unix.hw,net.niff.up,1131216398,1,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+995,996,193084,node-77,unix.hw,net.niff.up,1131241578,1,NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0
+996,997,193772,node-176,unix.hw,net.niff.up,1131242001,1,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+997,998,219086,node-178,unix.hw,net.niff.up,1132154180,1,NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0
+998,999,219402,node-73,unix.hw,net.niff.up,1132154292,1,NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0
+999,1000,288035,node-171,unix.hw,net.niff.up,1134671139,1,NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0
